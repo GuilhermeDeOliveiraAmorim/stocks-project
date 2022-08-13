@@ -33,7 +33,7 @@ export class UpdateStockService {
             return new Error("Stock does not exists!");
         }
 
-        stock.ticker = ticker ? ticker : stock.ticker;
+        stock.ticker = ticker;
         stock.name = name ? name : stock.name;
         stock.icon = icon ? icon : stock.icon;
         stock.type = type ? type : stock.type;
