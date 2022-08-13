@@ -1,11 +1,11 @@
 import { Request, Response } from "express";
-import { DeleteStockService } from "../services/stocks/DeleteStockService";
+import { DeleteUserService } from "../../services/users/DeleteUserService";
 
-export class DeleteStockController {
+export class DeleteUserController {
     async handle(request: Request, response: Response) {
         const { id } = request.params;
 
-        const service = new DeleteStockService();
+        const service = new DeleteUserService();
 
         const result = await service.execute(id);
 

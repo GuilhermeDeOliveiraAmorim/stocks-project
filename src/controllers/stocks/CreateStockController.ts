@@ -1,9 +1,8 @@
 import { Request, Response } from "express";
-import { UpdateStockService } from "../services/stocks/UpdateStockService";
+import { CreateStockService } from "../../services/stocks/CreateStockService";
 
-export class UpdateStockController {
+export class CreateStockController {
     async handle(request: Request, response: Response) {
-        const { id } = request.params;
         const {
             ticker,
             name,
@@ -15,10 +14,9 @@ export class UpdateStockController {
             dividend_yield,
         } = request.body;
 
-        const service = new UpdateStockService();
+        const service = new CreateStockService();
 
         const result = await service.execute({
-            id,
             ticker,
             name,
             icon,

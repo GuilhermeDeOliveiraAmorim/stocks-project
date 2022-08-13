@@ -1,0 +1,234 @@
+[
+ {
+  "Data": "30/11/2020",
+  "Hora": "14:20",
+  "Liquidação": "30/11/2020",
+  "Descrição": "Câmbio Instantâneo : R$99.62",
+  "Valor(U$)": "18.05",
+  "Saldodaconta(U$)": "18.05"
+ },
+ {
+  "Data": "30/11/2020",
+  "Hora": "14:32",
+  "Liquidação": "02/12/2020",
+  "Descrição": "Corretagem PYPL",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "17.05"
+ },
+ {
+  "Data": "30/11/2020",
+  "Hora": "14:32",
+  "Liquidação": "02/12/2020",
+  "Descrição": "Compra de 0.047 PYPL a $ 212.14",
+  "Valor(U$)": "-9.97",
+  "Saldodaconta(U$)": "7.08"
+ },
+ {
+  "Data": "30/11/2020",
+  "Hora": "14:32",
+  "Liquidação": "02/12/2020",
+  "Descrição": "Compra de 0.0285 PYPL a $ 212.19",
+  "Valor(U$)": "-6.05",
+  "Saldodaconta(U$)": "1.03"
+ },
+ {
+  "Data": "30/11/2020",
+  "Hora": "14:32",
+  "Liquidação": "02/12/2020",
+  "Descrição": "Corretagem PYPL",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.03"
+ },
+ {
+  "Data": "03/12/2020",
+  "Hora": "17:15",
+  "Liquidação": "04/12/2020",
+  "Descrição": "Câmbio Padrão : R$99.62",
+  "Valor(U$)": "19.02",
+  "Saldodaconta(U$)": "19.05"
+ },
+ {
+  "Data": "04/12/2020",
+  "Hora": "11:33",
+  "Liquidação": "08/12/2020",
+  "Descrição": "Corretagem SRC",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "18.05"
+ },
+ {
+  "Data": "04/12/2020",
+  "Hora": "11:33",
+  "Liquidação": "08/12/2020",
+  "Descrição": "Compra de 0.4692 SRC a $ 38.27",
+  "Valor(U$)": "-17.96",
+  "Saldodaconta(U$)": "0.09"
+ },
+ {
+  "Data": "16/12/2020",
+  "Hora": "10:05",
+  "Liquidação": "16/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$99.63",
+  "Valor(U$)": "19.02",
+  "Saldodaconta(U$)": "19.11"
+ },
+ {
+  "Data": "16/12/2020",
+  "Hora": "11:34",
+  "Liquidação": "18/12/2020",
+  "Descrição": "Compra de 0.2661 WPC a $ 71.47",
+  "Valor(U$)": "-19.02",
+  "Saldodaconta(U$)": "0.09"
+ },
+ {
+  "Data": "18/12/2020",
+  "Hora": "11:33",
+  "Liquidação": "18/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$189.63",
+  "Valor(U$)": "36.23",
+  "Saldodaconta(U$)": "36.32"
+ },
+ {
+  "Data": "18/12/2020",
+  "Hora": "11:48",
+  "Liquidação": "22/12/2020",
+  "Descrição": "Compra de 0.515 NHI a $ 70.21",
+  "Valor(U$)": "-36.16",
+  "Saldodaconta(U$)": "0.16"
+ },
+ {
+  "Data": "21/12/2020",
+  "Hora": "11:31",
+  "Liquidação": "21/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$159.05",
+  "Valor(U$)": "30.03",
+  "Saldodaconta(U$)": "30.19"
+ },
+ {
+  "Data": "21/12/2020",
+  "Hora": "11:33",
+  "Liquidação": "23/12/2020",
+  "Descrição": "Compra de 0.0204 T a $ 29.04",
+  "Valor(U$)": "-0.59",
+  "Saldodaconta(U$)": "29.60"
+ },
+ {
+  "Data": "21/12/2020",
+  "Hora": "11:33",
+  "Liquidação": "23/12/2020",
+  "Descrição": "Compra de 1 T a $ 29.04",
+  "Valor(U$)": "-29.04",
+  "Saldodaconta(U$)": "0.56"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:05",
+  "Liquidação": "22/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$125.52",
+  "Valor(U$)": "23.72",
+  "Saldodaconta(U$)": "24.28"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:07",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.1726 WPC a $ 69.82",
+  "Valor(U$)": "-12.05",
+  "Saldodaconta(U$)": "12.23"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:07",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.306 SRC a $ 39.73",
+  "Valor(U$)": "-12.16",
+  "Saldodaconta(U$)": "0.07"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:08",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Venda de 0.0755 PYPL a $ 240.9",
+  "Valor(U$)": "18.19",
+  "Saldodaconta(U$)": "18.26"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:10",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.1568 T a $ 28.57",
+  "Valor(U$)": "-4.48",
+  "Saldodaconta(U$)": "13.78"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:10",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.1127 SRC a $ 39.77",
+  "Valor(U$)": "-4.48",
+  "Saldodaconta(U$)": "9.30"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:10",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.064 WPC a $ 69.76",
+  "Valor(U$)": "-4.46",
+  "Saldodaconta(U$)": "4.84"
+ },
+ {
+  "Data": "22/12/2020",
+  "Hora": "14:11",
+  "Liquidação": "24/12/2020",
+  "Descrição": "Compra de 0.1687 T a $ 28.57",
+  "Valor(U$)": "-4.82",
+  "Saldodaconta(U$)": "0.02"
+ },
+ {
+  "Data": "28/12/2020",
+  "Hora": "09:16",
+  "Liquidação": "28/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$62.76",
+  "Valor(U$)": "11.83",
+  "Saldodaconta(U$)": "11.85"
+ },
+ {
+  "Data": "28/12/2020",
+  "Hora": "11:47",
+  "Liquidação": "30/12/2020",
+  "Descrição": "Corretagem OKE",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "10.85"
+ },
+ {
+  "Data": "28/12/2020",
+  "Hora": "11:47",
+  "Liquidação": "30/12/2020",
+  "Descrição": "Compra de 0.2756 OKE a $ 38.92",
+  "Valor(U$)": "-10.73",
+  "Saldodaconta(U$)": "0.12"
+ },
+ {
+  "Data": "29/12/2020",
+  "Hora": "11:36",
+  "Liquidação": "29/12/2020",
+  "Descrição": "Câmbio Instantâneo : R$28.21",
+  "Valor(U$)": "5.31",
+  "Saldodaconta(U$)": "5.43"
+ },
+ {
+  "Data": "29/12/2020",
+  "Hora": "11:40",
+  "Liquidação": "31/12/2020",
+  "Descrição": "Compra de 0.114 OKE a $ 38.57",
+  "Valor(U$)": "-4.40",
+  "Saldodaconta(U$)": "1.03"
+ },
+ {
+  "Data": "29/12/2020",
+  "Hora": "11:40",
+  "Liquidação": "31/12/2020",
+  "Descrição": "Corretagem OKE",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.03"
+ }
+]
