@@ -230,5 +230,4285 @@
   "Descrição": "Corretagem OKE",
   "Valor(U$)": "-1.00",
   "Saldodaconta(U$)": "0.03"
+ },
+ {
+  "Data": "19/01/2021",
+  "Hora": "03:59",
+  "Liquidação": "19/01/2021",
+  "Descrição": "Dividendos WPC. WPC dividend, $1.046/share",
+  "Valor(U$)": "0.53",
+  "Saldodaconta(U$)": "0.56"
+ },
+ {
+  "Data": "19/01/2021",
+  "Hora": "03:59",
+  "Liquidação": "19/01/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. WPC tax, 30% withheld",
+  "Valor(U$)": "-0.16",
+  "Saldodaconta(U$)": "0.40"
+ },
+ {
+  "Data": "19/01/2021",
+  "Hora": "03:59",
+  "Liquidação": "19/01/2021",
+  "Descrição": "Dividendos SRC. SRC dividend, $0.625/share",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "0.95"
+ },
+ {
+  "Data": "19/01/2021",
+  "Hora": "03:59",
+  "Liquidação": "19/01/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos SRC. SRC tax, 30% withheld",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "0.78"
+ },
+ {
+  "Data": "27/01/2021",
+  "Hora": "16:25",
+  "Liquidação": "28/01/2021",
+  "Descrição": "Câmbio Padrão : R$47.04",
+  "Valor(U$)": "8.54",
+  "Saldodaconta(U$)": "9.32"
+ },
+ {
+  "Data": "28/01/2021",
+  "Hora": "10:22",
+  "Liquidação": "28/01/2021",
+  "Descrição": "Câmbio Instantâneo : R$39.51",
+  "Valor(U$)": "7.08",
+  "Saldodaconta(U$)": "16.40"
+ },
+ {
+  "Data": "28/01/2021",
+  "Hora": "11:45",
+  "Liquidação": "01/02/2021",
+  "Descrição": "Compra de 1 WES a $ 14.95",
+  "Valor(U$)": "-14.95",
+  "Saldodaconta(U$)": "1.45"
+ },
+ {
+  "Data": "28/01/2021",
+  "Hora": "11:45",
+  "Liquidação": "01/02/2021",
+  "Descrição": "Compra de 0.0555 WES a $ 14.95",
+  "Valor(U$)": "-0.83",
+  "Saldodaconta(U$)": "0.62"
+ },
+ {
+  "Data": "01/02/2021",
+  "Hora": "05:59",
+  "Liquidação": "01/02/2021",
+  "Descrição": "Dividendos NHI. NHI dividend, $1.1025/share",
+  "Valor(U$)": "0.57",
+  "Saldodaconta(U$)": "1.19"
+ },
+ {
+  "Data": "01/02/2021",
+  "Hora": "05:59",
+  "Liquidação": "01/02/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos NHI. NHI tax, 30% withheld",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "1.02"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "03:45",
+  "Liquidação": "02/02/2021",
+  "Descrição": "Dividendos T. T dividend, $0.52/share",
+  "Valor(U$)": "0.70",
+  "Saldodaconta(U$)": "1.72"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "03:55",
+  "Liquidação": "02/02/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos T. T tax, 30% withheld",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "1.51"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "10:32",
+  "Liquidação": "02/02/2021",
+  "Descrição": "Câmbio Instantâneo : R$498.11",
+  "Valor(U$)": "90.07",
+  "Saldodaconta(U$)": "91.58"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "11:46",
+  "Liquidação": "04/02/2021",
+  "Descrição": "Compra de 1 KO a $ 48.82",
+  "Valor(U$)": "-48.82",
+  "Saldodaconta(U$)": "42.76"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "11:46",
+  "Liquidação": "04/02/2021",
+  "Descrição": "Compra de 0.8677 KO a $ 48.82",
+  "Valor(U$)": "-42.36",
+  "Saldodaconta(U$)": "0.40"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "11:59",
+  "Liquidação": "04/02/2021",
+  "Descrição": "Venda de 0.8879 SRC a $ 39.01",
+  "Valor(U$)": "34.64",
+  "Saldodaconta(U$)": "35.04"
+ },
+ {
+  "Data": "02/02/2021",
+  "Hora": "12:01",
+  "Liquidação": "04/02/2021",
+  "Descrição": "Compra de 0.7633 XOM a $ 45.71",
+  "Valor(U$)": "-34.89",
+  "Saldodaconta(U$)": "0.15"
+ },
+ {
+  "Data": "04/02/2021",
+  "Hora": "12:02",
+  "Liquidação": "08/02/2021",
+  "Descrição": "Venda de 0.3896 OKE a $ 42.84",
+  "Valor(U$)": "16.69",
+  "Saldodaconta(U$)": "16.84"
+ },
+ {
+  "Data": "04/02/2021",
+  "Hora": "12:03",
+  "Liquidação": "08/02/2021",
+  "Descrição": "Compra de 0.6867 MPLX a $ 24.31",
+  "Valor(U$)": "-16.69",
+  "Saldodaconta(U$)": "0.15"
+ },
+ {
+  "Data": "05/02/2021",
+  "Hora": "11:49",
+  "Liquidação": "09/02/2021",
+  "Descrição": "Venda de 1 T a $ 28.97",
+  "Valor(U$)": "28.97",
+  "Saldodaconta(U$)": "29.12"
+ },
+ {
+  "Data": "05/02/2021",
+  "Hora": "11:49",
+  "Liquidação": "09/02/2021",
+  "Descrição": "Venda de 0.3459 T a $ 28.97",
+  "Valor(U$)": "10.02",
+  "Saldodaconta(U$)": "39.14"
+ },
+ {
+  "Data": "05/02/2021",
+  "Hora": "12:01",
+  "Liquidação": "09/02/2021",
+  "Descrição": "Venda de 1 WES a $ 16.2",
+  "Valor(U$)": "16.20",
+  "Saldodaconta(U$)": "55.34"
+ },
+ {
+  "Data": "05/02/2021",
+  "Hora": "12:01",
+  "Liquidação": "09/02/2021",
+  "Descrição": "Venda de 0.0555 WES a $ 16.2",
+  "Valor(U$)": "0.90",
+  "Saldodaconta(U$)": "56.24"
+ },
+ {
+  "Data": "05/02/2021",
+  "Hora": "12:15",
+  "Liquidação": "09/02/2021",
+  "Descrição": "Compra de 0.263 MCD a $ 212.13",
+  "Valor(U$)": "-55.79",
+  "Saldodaconta(U$)": "0.45"
+ },
+ {
+  "Data": "10/02/2021",
+  "Hora": "11:45",
+  "Liquidação": "12/02/2021",
+  "Descrição": "Venda de 0.7633 XOM a $ 51.39",
+  "Valor(U$)": "39.23",
+  "Saldodaconta(U$)": "39.68"
+ },
+ {
+  "Data": "10/02/2021",
+  "Hora": "11:48",
+  "Liquidação": "12/02/2021",
+  "Descrição": "Compra de 0.1445 FB a $ 272.17",
+  "Valor(U$)": "-39.33",
+  "Saldodaconta(U$)": "0.35"
+ },
+ {
+  "Data": "16/02/2021",
+  "Hora": "02:28",
+  "Liquidação": "16/02/2021",
+  "Descrição": "Dividendos MPLX. MPLX return-of-capital, $0.6875/share",
+  "Valor(U$)": "0.47",
+  "Saldodaconta(U$)": "0.82"
+ },
+ {
+  "Data": "16/02/2021",
+  "Hora": "02:30",
+  "Liquidação": "16/02/2021",
+  "Descrição": "Dividendos OKE. OKE dividend, $0.935/share",
+  "Valor(U$)": "0.36",
+  "Saldodaconta(U$)": "1.18"
+ },
+ {
+  "Data": "16/02/2021",
+  "Hora": "02:30",
+  "Liquidação": "16/02/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos OKE. OKE tax, 30% withheld",
+  "Valor(U$)": "-0.11",
+  "Saldodaconta(U$)": "1.07"
+ },
+ {
+  "Data": "16/02/2021",
+  "Hora": "02:30",
+  "Liquidação": "16/02/2021",
+  "Descrição": "Dividendos WES. WES return-of-capital, $0.311/share",
+  "Valor(U$)": "0.33",
+  "Saldodaconta(U$)": "1.40"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:58",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Venda de 1 KO a $ 50.1",
+  "Valor(U$)": "50.10",
+  "Saldodaconta(U$)": "51.50"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:58",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Venda de 0.8677 KO a $ 50.1",
+  "Valor(U$)": "43.47",
+  "Saldodaconta(U$)": "94.97"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:58",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem KO",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "93.97"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:59",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Venda de 0.263 MCD a $ 213.47",
+  "Valor(U$)": "56.14",
+  "Saldodaconta(U$)": "150.11"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:59",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem MCD",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "149.11"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:59",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem FB",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "148.11"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "16:59",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Venda de 0.1445 FB a $ 261.52",
+  "Valor(U$)": "37.79",
+  "Saldodaconta(U$)": "185.90"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 0.6841 IEP a $ 65.4",
+  "Valor(U$)": "-44.74",
+  "Saldodaconta(U$)": "141.16"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem IEP",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "140.16"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 1 GLPI a $ 43.17",
+  "Valor(U$)": "-43.17",
+  "Saldodaconta(U$)": "96.99"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 0.0367 GLPI a $ 43.17",
+  "Valor(U$)": "-1.58",
+  "Saldodaconta(U$)": "95.41"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem GLPI",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "94.41"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem IIPR",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "93.41"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:06",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 0.2078 IIPR a $ 215.31",
+  "Valor(U$)": "-44.74",
+  "Saldodaconta(U$)": "48.67"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:07",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 2 BPY a $ 17.87",
+  "Valor(U$)": "-35.74",
+  "Saldodaconta(U$)": "12.93"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:07",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Corretagem BPY",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "11.93"
+ },
+ {
+  "Data": "19/02/2021",
+  "Hora": "17:07",
+  "Liquidação": "23/02/2021",
+  "Descrição": "Compra de 0.6504 BPY a $ 17.87",
+  "Valor(U$)": "-11.62",
+  "Saldodaconta(U$)": "0.31"
+ },
+ {
+  "Data": "24/02/2021",
+  "Hora": "10:11",
+  "Liquidação": "24/02/2021",
+  "Descrição": "Câmbio Instantâneo : R$59.7",
+  "Valor(U$)": "10.77",
+  "Saldodaconta(U$)": "11.08"
+ },
+ {
+  "Data": "24/02/2021",
+  "Hora": "11:32",
+  "Liquidação": "26/02/2021",
+  "Descrição": "Compra de 0.9247 BRMK a $ 10.81",
+  "Valor(U$)": "-10.00",
+  "Saldodaconta(U$)": "1.08"
+ },
+ {
+  "Data": "24/02/2021",
+  "Hora": "11:32",
+  "Liquidação": "26/02/2021",
+  "Descrição": "Corretagem BRMK",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.08"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "13:14",
+  "Liquidação": "25/02/2021",
+  "Descrição": "Câmbio Instantâneo : R$298.86",
+  "Valor(U$)": "52.90",
+  "Saldodaconta(U$)": "52.98"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "13:20",
+  "Liquidação": "01/03/2021",
+  "Descrição": "Compra de 1 ABR a $ 16.56",
+  "Valor(U$)": "-16.56",
+  "Saldodaconta(U$)": "36.42"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "13:20",
+  "Liquidação": "01/03/2021",
+  "Descrição": "Compra de 0.1128 ABR a $ 16.56",
+  "Valor(U$)": "-1.87",
+  "Saldodaconta(U$)": "34.55"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "13:20",
+  "Liquidação": "01/03/2021",
+  "Descrição": "Corretagem ABR",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "33.55"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "13:20",
+  "Liquidação": "01/03/2021",
+  "Descrição": "Compra de 2 ABR a $ 16.56",
+  "Valor(U$)": "-33.12",
+  "Saldodaconta(U$)": "0.43"
+ },
+ {
+  "Data": "25/02/2021",
+  "Hora": "14:50",
+  "Liquidação": "26/02/2021",
+  "Descrição": "Câmbio Padrão : R$199.24",
+  "Valor(U$)": "35.43",
+  "Saldodaconta(U$)": "35.86"
+ },
+ {
+  "Data": "26/02/2021",
+  "Hora": "11:54",
+  "Liquidação": "02/03/2021",
+  "Descrição": "Compra de 0.4562 NEE a $ 75.02",
+  "Valor(U$)": "-34.22",
+  "Saldodaconta(U$)": "1.64"
+ },
+ {
+  "Data": "26/02/2021",
+  "Hora": "11:54",
+  "Liquidação": "02/03/2021",
+  "Descrição": "Corretagem NEE",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.64"
+ },
+ {
+  "Data": "04/03/2021",
+  "Hora": "13:58",
+  "Liquidação": "08/03/2021",
+  "Descrição": "Venda de 0.515 NHI a $ 71.38",
+  "Valor(U$)": "36.76",
+  "Saldodaconta(U$)": "37.40"
+ },
+ {
+  "Data": "04/03/2021",
+  "Hora": "13:59",
+  "Liquidação": "08/03/2021",
+  "Descrição": "Venda de 0.6867 MPLX a $ 25.98",
+  "Valor(U$)": "17.84",
+  "Saldodaconta(U$)": "55.24"
+ },
+ {
+  "Data": "04/03/2021",
+  "Hora": "14:05",
+  "Liquidação": "08/03/2021",
+  "Descrição": "Compra de 0.6287 GLPI a $ 43.84",
+  "Valor(U$)": "-27.56",
+  "Saldodaconta(U$)": "27.68"
+ },
+ {
+  "Data": "04/03/2021",
+  "Hora": "14:09",
+  "Liquidação": "08/03/2021",
+  "Descrição": "Compra de 1 TSLX a $ 22.1",
+  "Valor(U$)": "-22.10",
+  "Saldodaconta(U$)": "5.58"
+ },
+ {
+  "Data": "04/03/2021",
+  "Hora": "14:09",
+  "Liquidação": "08/03/2021",
+  "Descrição": "Compra de 0.2485 TSLX a $ 22.1",
+  "Valor(U$)": "-5.49",
+  "Saldodaconta(U$)": "0.09"
+ },
+ {
+  "Data": "11/03/2021",
+  "Hora": "02:35",
+  "Liquidação": "11/03/2021",
+  "Descrição": "Dividendos XOM. XOM dividend, $0.87/share",
+  "Valor(U$)": "0.66",
+  "Saldodaconta(U$)": "0.75"
+ },
+ {
+  "Data": "11/03/2021",
+  "Hora": "02:37",
+  "Liquidação": "11/03/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos XOM. XOM tax, 30% withheld",
+  "Valor(U$)": "-0.20",
+  "Saldodaconta(U$)": "0.55"
+ },
+ {
+  "Data": "15/03/2021",
+  "Hora": "11:35",
+  "Liquidação": "15/03/2021",
+  "Descrição": "Câmbio Instantâneo : R$49.81",
+  "Valor(U$)": "8.62",
+  "Saldodaconta(U$)": "9.17"
+ },
+ {
+  "Data": "15/03/2021",
+  "Hora": "11:47",
+  "Liquidação": "17/03/2021",
+  "Descrição": "Compra de 0.121 NEE a $ 75.59",
+  "Valor(U$)": "-9.15",
+  "Saldodaconta(U$)": "0.02"
+ },
+ {
+  "Data": "16/03/2021",
+  "Hora": "02:06",
+  "Liquidação": "16/03/2021",
+  "Descrição": "Dividendos BRMK. BRMK dividend, $0.07/share",
+  "Valor(U$)": "0.06",
+  "Saldodaconta(U$)": "0.08"
+ },
+ {
+  "Data": "16/03/2021",
+  "Hora": "02:06",
+  "Liquidação": "16/03/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos BRMK. BRMK tax, 30% withheld",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "0.06"
+ },
+ {
+  "Data": "22/03/2021",
+  "Hora": "01:22",
+  "Liquidação": "22/03/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ABR tax, 30% withheld",
+  "Valor(U$)": "-0.31",
+  "Saldodaconta(U$)": "-0.25"
+ },
+ {
+  "Data": "22/03/2021",
+  "Hora": "01:22",
+  "Liquidação": "22/03/2021",
+  "Descrição": "Dividendos ABR. ABR dividend, $0.33/share",
+  "Valor(U$)": "1.03",
+  "Saldodaconta(U$)": "0.78"
+ },
+ {
+  "Data": "24/03/2021",
+  "Hora": "01:22",
+  "Liquidação": "24/03/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GLPI tax, 30% withheld",
+  "Valor(U$)": "-0.32",
+  "Saldodaconta(U$)": "0.46"
+ },
+ {
+  "Data": "24/03/2021",
+  "Hora": "01:22",
+  "Liquidação": "24/03/2021",
+  "Descrição": "Dividendos GLPI. GLPI dividend, $0.65/share",
+  "Valor(U$)": "1.08",
+  "Saldodaconta(U$)": "1.54"
+ },
+ {
+  "Data": "24/03/2021",
+  "Hora": "10:50",
+  "Liquidação": "26/03/2021",
+  "Descrição": "Compra de 0.1419 BRMK a $ 10.62",
+  "Valor(U$)": "-1.51",
+  "Saldodaconta(U$)": "0.03"
+ },
+ {
+  "Data": "26/03/2021",
+  "Hora": "10:56",
+  "Liquidação": "26/03/2021",
+  "Descrição": "Câmbio Instantâneo : R$18.02",
+  "Valor(U$)": "3.09",
+  "Saldodaconta(U$)": "3.12"
+ },
+ {
+  "Data": "26/03/2021",
+  "Hora": "10:57",
+  "Liquidação": "30/03/2021",
+  "Descrição": "Compra de 0.1495 TSLX a $ 20.71",
+  "Valor(U$)": "-3.10",
+  "Saldodaconta(U$)": "0.02"
+ },
+ {
+  "Data": "05/04/2021",
+  "Hora": "11:27",
+  "Liquidação": "07/04/2021",
+  "Descrição": "Venda de 0.0131 NEE a $ 77.04",
+  "Valor(U$)": "1.01",
+  "Saldodaconta(U$)": "1.03"
+ },
+ {
+  "Data": "05/04/2021",
+  "Hora": "11:28",
+  "Liquidação": "07/04/2021",
+  "Descrição": "Compra de 0.0181 IEP a $ 56.65",
+  "Valor(U$)": "-1.03",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "08/04/2021",
+  "Hora": "04:32",
+  "Liquidação": "08/04/2021",
+  "Descrição": "Dividendos BPY. BPY return-of-capital, $0.2386/share",
+  "Valor(U$)": "0.63",
+  "Saldodaconta(U$)": "0.63"
+ },
+ {
+  "Data": "08/04/2021",
+  "Hora": "05:13",
+  "Liquidação": "08/04/2021",
+  "Descrição": "Dividendos BPY. BPY dividend, $0.0252/share",
+  "Valor(U$)": "0.07",
+  "Saldodaconta(U$)": "0.70"
+ },
+ {
+  "Data": "08/04/2021",
+  "Hora": "05:22",
+  "Liquidação": "08/04/2021",
+  "Descrição": "Dividendos BPY. BPY dividend, $0.0677/share",
+  "Valor(U$)": "0.18",
+  "Saldodaconta(U$)": "0.88"
+ },
+ {
+  "Data": "09/04/2021",
+  "Hora": "04:14",
+  "Liquidação": "09/04/2021",
+  "Descrição": "Dividendos TSLX. TSLX dividend, $1.25/share",
+  "Valor(U$)": "1.56",
+  "Saldodaconta(U$)": "2.44"
+ },
+ {
+  "Data": "09/04/2021",
+  "Hora": "04:27",
+  "Liquidação": "09/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. TSLX tax, 30% withheld",
+  "Valor(U$)": "-0.47",
+  "Saldodaconta(U$)": "1.97"
+ },
+ {
+  "Data": "09/04/2021",
+  "Hora": "11:44",
+  "Liquidação": "13/04/2021",
+  "Descrição": "Compra de 0.1839 BRMK a $ 10.66",
+  "Valor(U$)": "-1.96",
+  "Saldodaconta(U$)": "0.01"
+ },
+ {
+  "Data": "09/04/2021",
+  "Hora": "15:25",
+  "Liquidação": "12/04/2021",
+  "Descrição": "Câmbio Padrão : R$149.43",
+  "Valor(U$)": "25.84",
+  "Saldodaconta(U$)": "25.85"
+ },
+ {
+  "Data": "12/04/2021",
+  "Hora": "10:40",
+  "Liquidação": "14/04/2021",
+  "Descrição": "Compra de 1 AGNC a $ 17.13",
+  "Valor(U$)": "-17.13",
+  "Saldodaconta(U$)": "8.72"
+ },
+ {
+  "Data": "12/04/2021",
+  "Hora": "10:40",
+  "Liquidação": "14/04/2021",
+  "Descrição": "Compra de 0.5077 AGNC a $ 17.13",
+  "Valor(U$)": "-8.70",
+  "Saldodaconta(U$)": "0.02"
+ },
+ {
+  "Data": "14/04/2021",
+  "Hora": "14:37",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Venda de 0.0156 NEE a $ 78.97",
+  "Valor(U$)": "1.23",
+  "Saldodaconta(U$)": "1.25"
+ },
+ {
+  "Data": "14/04/2021",
+  "Hora": "14:37",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Venda de 0.072 GLPI a $ 45.23",
+  "Valor(U$)": "3.26",
+  "Saldodaconta(U$)": "4.51"
+ },
+ {
+  "Data": "14/04/2021",
+  "Hora": "14:37",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Compra de 0.2922 HMLP a $ 15.32",
+  "Valor(U$)": "-4.48",
+  "Saldodaconta(U$)": "0.03"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "08:37",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Dividendos BRMK. BRMK dividend, $0.07/share",
+  "Valor(U$)": "0.07",
+  "Saldodaconta(U$)": "0.10"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:11",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos BRMK. BRMK tax, 30% withheld",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "0.08"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:12",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Dividendos IIPR. IIPR dividend, $1.32/share",
+  "Valor(U$)": "0.27",
+  "Saldodaconta(U$)": "0.35"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:12",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos IIPR. IIPR tax, 30% withheld",
+  "Valor(U$)": "-0.08",
+  "Saldodaconta(U$)": "0.27"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:17",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. TSLX tax, 30% withheld",
+  "Valor(U$)": "-0.15",
+  "Saldodaconta(U$)": "0.12"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:17",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Dividendos TSLX. TSLX dividend, $0.41/share",
+  "Valor(U$)": "0.51",
+  "Saldodaconta(U$)": "0.63"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:18",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Dividendos WPC. WPC dividend, $1.048/share",
+  "Valor(U$)": "0.53",
+  "Saldodaconta(U$)": "1.16"
+ },
+ {
+  "Data": "16/04/2021",
+  "Hora": "09:27",
+  "Liquidação": "16/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. WPC tax, 30% withheld",
+  "Valor(U$)": "-0.16",
+  "Saldodaconta(U$)": "1.00"
+ },
+ {
+  "Data": "20/04/2021",
+  "Hora": "14:36",
+  "Liquidação": "22/04/2021",
+  "Descrição": "Compra de 0.0672 PBFX a $ 14.32",
+  "Valor(U$)": "-0.96",
+  "Saldodaconta(U$)": "0.04"
+ },
+ {
+  "Data": "23/04/2021",
+  "Hora": "11:16",
+  "Liquidação": "27/04/2021",
+  "Descrição": "Venda de 0.0136 WPC a $ 73.52",
+  "Valor(U$)": "1.00",
+  "Saldodaconta(U$)": "1.04"
+ },
+ {
+  "Data": "23/04/2021",
+  "Hora": "11:18",
+  "Liquidação": "27/04/2021",
+  "Descrição": "Compra de 0.066 PBFX a $ 14.43",
+  "Valor(U$)": "-0.95",
+  "Saldodaconta(U$)": "0.09"
+ },
+ {
+  "Data": "29/04/2021",
+  "Hora": "01:35",
+  "Liquidação": "29/04/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos IEP. IEP tax, 30% withheld",
+  "Valor(U$)": "-0.41",
+  "Saldodaconta(U$)": "-0.32"
+ },
+ {
+  "Data": "29/04/2021",
+  "Hora": "01:40",
+  "Liquidação": "29/04/2021",
+  "Descrição": "Dividendos IEP. IEP dividend, $2/share",
+  "Valor(U$)": "1.37",
+  "Saldodaconta(U$)": "1.05"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "09:28",
+  "Liquidação": "03/05/2021",
+  "Descrição": "Câmbio Instantâneo : R$2729.18",
+  "Valor(U$)": "489.87",
+  "Saldodaconta(U$)": "490.92"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "10:36",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.3893 MSFT a $ 252.31",
+  "Valor(U$)": "-98.22",
+  "Saldodaconta(U$)": "392.70"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "10:37",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.2152 AVGO a $ 458.02",
+  "Valor(U$)": "-98.57",
+  "Saldodaconta(U$)": "294.13"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "10:38",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.633 JPM a $ 154.5",
+  "Valor(U$)": "-97.80",
+  "Saldodaconta(U$)": "196.33"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "10:39",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.02827 AMZN a $ 3445.91",
+  "Valor(U$)": "-97.42",
+  "Saldodaconta(U$)": "98.91"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "10:39",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.245 UNH a $ 402.61",
+  "Valor(U$)": "-98.64",
+  "Saldodaconta(U$)": "0.27"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "16:03",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Venda de 0.5077 AGNC a $ 18.04",
+  "Valor(U$)": "9.16",
+  "Saldodaconta(U$)": "9.43"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "16:03",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Venda de 1 AGNC a $ 18.04",
+  "Valor(U$)": "18.04",
+  "Saldodaconta(U$)": "27.47"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "16:06",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 0.7745 PBFX a $ 15.44",
+  "Valor(U$)": "-11.96",
+  "Saldodaconta(U$)": "15.51"
+ },
+ {
+  "Data": "03/05/2021",
+  "Hora": "16:06",
+  "Liquidação": "05/05/2021",
+  "Descrição": "Compra de 1 PBFX a $ 15.44",
+  "Valor(U$)": "-15.44",
+  "Saldodaconta(U$)": "0.07"
+ },
+ {
+  "Data": "06/05/2021",
+  "Hora": "10:26",
+  "Liquidação": "06/05/2021",
+  "Descrição": "Câmbio Instantâneo : R$1034.16",
+  "Valor(U$)": "189.39",
+  "Saldodaconta(U$)": "189.46"
+ },
+ {
+  "Data": "06/05/2021",
+  "Hora": "11:11",
+  "Liquidação": "10/05/2021",
+  "Descrição": "Compra de 0.24213 ANTM a $ 391.15",
+  "Valor(U$)": "-94.71",
+  "Saldodaconta(U$)": "94.75"
+ },
+ {
+  "Data": "06/05/2021",
+  "Hora": "11:18",
+  "Liquidação": "10/05/2021",
+  "Descrição": "Compra de 0.52633 DIS a $ 180.02",
+  "Valor(U$)": "-94.75",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:37",
+  "Liquidação": "10/05/2021",
+  "Descrição": "Câmbio Instantâneo : R$2689.79",
+  "Valor(U$)": "502.42",
+  "Saldodaconta(U$)": "502.42"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:38",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Compra de 0.43408 V a $ 230.37",
+  "Valor(U$)": "-100.00",
+  "Saldodaconta(U$)": "402.42"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:40",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Compra de 0.04284 GOOGL a $ 2311.33",
+  "Valor(U$)": "-99.02",
+  "Saldodaconta(U$)": "303.40"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:40",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Corretagem GOOGL",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "302.40"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:42",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Corretagem FB",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "301.40"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:42",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Compra de 0.31843 FB a $ 310.93",
+  "Valor(U$)": "-99.01",
+  "Saldodaconta(U$)": "202.39"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:42",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Corretagem CRM",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "201.39"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:42",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Compra de 0.46306 CRM a $ 213.77",
+  "Valor(U$)": "-98.99",
+  "Saldodaconta(U$)": "102.40"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:45",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Corretagem AMGN",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "101.40"
+ },
+ {
+  "Data": "10/05/2021",
+  "Hora": "10:45",
+  "Liquidação": "12/05/2021",
+  "Descrição": "Compra de 0.3857 AMGN a $ 256.65",
+  "Valor(U$)": "-98.99",
+  "Saldodaconta(U$)": "2.41"
+ },
+ {
+  "Data": "11/05/2021",
+  "Hora": "06:30",
+  "Liquidação": "11/05/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos . ACCOUNT CONVERSION CASH",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "2.27"
+ },
+ {
+  "Data": "11/05/2021",
+  "Hora": "07:02",
+  "Liquidação": "11/05/2021",
+  "Descrição": "Dividendos . ACCOUNT CONVERSION CASH",
+  "Valor(U$)": "0.07",
+  "Saldodaconta(U$)": "2.34"
+ },
+ {
+  "Data": "11/05/2021",
+  "Hora": "11:11",
+  "Liquidação": "11/05/2021",
+  "Descrição": "US Estorno Dividendos",
+  "Valor(U$)": "-0.07",
+  "Saldodaconta(U$)": "2.27"
+ },
+ {
+  "Data": "11/05/2021",
+  "Hora": "11:21",
+  "Liquidação": "11/05/2021",
+  "Descrição": "Estorno Impostos sobre Dividendos",
+  "Valor(U$)": "0.14",
+  "Saldodaconta(U$)": "2.41"
+ },
+ {
+  "Data": "20/05/2021",
+  "Hora": "10:07",
+  "Liquidação": "20/05/2021",
+  "Descrição": "AJUSTE Residual migração",
+  "Valor(U$)": "0.32",
+  "Saldodaconta(U$)": "2.73"
+ },
+ {
+  "Data": "28/05/2021",
+  "Hora": "04:51",
+  "Liquidação": "28/05/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "2.50"
+ },
+ {
+  "Data": "28/05/2021",
+  "Hora": "04:51",
+  "Liquidação": "28/05/2021",
+  "Descrição": "Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "0.57",
+  "Saldodaconta(U$)": "3.07"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "11:19",
+  "Liquidação": "01/06/2021",
+  "Descrição": "Câmbio Instantâneo : R$697.35",
+  "Valor(U$)": "131.94",
+  "Saldodaconta(U$)": "135.01"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "14:56",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Compra de 3.24831 BRMK a $ 10.39",
+  "Valor(U$)": "-33.75",
+  "Saldodaconta(U$)": "101.26"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "14:57",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Venda de 4.49881 BRMK a $ 10.38",
+  "Valor(U$)": "46.70",
+  "Saldodaconta(U$)": "147.96"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "14:58",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Venda de 0.7022 IEP a $ 55.76",
+  "Valor(U$)": "39.15",
+  "Saldodaconta(U$)": "187.11"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "15:31",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Compra de 3.18783 ARCC a $ 19.57",
+  "Valor(U$)": "-62.37",
+  "Saldodaconta(U$)": "124.74"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "15:37",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Compra de 0.90534 PGR a $ 99.41",
+  "Valor(U$)": "-90.00",
+  "Saldodaconta(U$)": "34.74"
+ },
+ {
+  "Data": "01/06/2021",
+  "Hora": "15:40",
+  "Liquidação": "03/06/2021",
+  "Descrição": "Compra de 1.59211 GOOD a $ 21.82",
+  "Valor(U$)": "-34.74",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "02/06/2021",
+  "Hora": "05:51",
+  "Liquidação": "02/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "-0.32",
+  "Saldodaconta(U$)": "-0.32"
+ },
+ {
+  "Data": "02/06/2021",
+  "Hora": "05:51",
+  "Liquidação": "02/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos V. VISA INC",
+  "Valor(U$)": "-0.04",
+  "Saldodaconta(U$)": "-0.36"
+ },
+ {
+  "Data": "02/06/2021",
+  "Hora": "05:51",
+  "Liquidação": "02/06/2021",
+  "Descrição": "Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "1.06",
+  "Saldodaconta(U$)": "0.70"
+ },
+ {
+  "Data": "02/06/2021",
+  "Hora": "05:51",
+  "Liquidação": "02/06/2021",
+  "Descrição": "Dividendos V. VISA INC",
+  "Valor(U$)": "0.14",
+  "Saldodaconta(U$)": "0.84"
+ },
+ {
+  "Data": "09/06/2021",
+  "Hora": "04:43",
+  "Liquidação": "09/06/2021",
+  "Descrição": "Dividendos AMGN. AMGEN INC",
+  "Valor(U$)": "0.68",
+  "Saldodaconta(U$)": "1.52"
+ },
+ {
+  "Data": "09/06/2021",
+  "Hora": "04:43",
+  "Liquidação": "09/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos AMGN. AMGEN INC",
+  "Valor(U$)": "-0.20",
+  "Saldodaconta(U$)": "1.32"
+ },
+ {
+  "Data": "11/06/2021",
+  "Hora": "20:36",
+  "Liquidação": "11/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos . Dividends 06/11",
+  "Valor(U$)": "-0.07",
+  "Saldodaconta(U$)": "1.25"
+ },
+ {
+  "Data": "11/06/2021",
+  "Hora": "20:36",
+  "Liquidação": "11/06/2021",
+  "Descrição": "Dividendos . Dividends 06/11",
+  "Valor(U$)": "0.22",
+  "Saldodaconta(U$)": "1.47"
+ },
+ {
+  "Data": "15/06/2021",
+  "Hora": "16:41",
+  "Liquidação": "17/06/2021",
+  "Descrição": "Venda de 0.05025 CRM a $ 242.42",
+  "Valor(U$)": "12.18",
+  "Saldodaconta(U$)": "13.65"
+ },
+ {
+  "Data": "15/06/2021",
+  "Hora": "16:44",
+  "Liquidação": "17/06/2021",
+  "Descrição": "Venda de 0.0215 FB a $ 337.18",
+  "Valor(U$)": "7.25",
+  "Saldodaconta(U$)": "20.90"
+ },
+ {
+  "Data": "15/06/2021",
+  "Hora": "16:46",
+  "Liquidação": "17/06/2021",
+  "Descrição": "Venda de 0.53 GLPI a $ 47.37",
+  "Valor(U$)": "25.11",
+  "Saldodaconta(U$)": "46.01"
+ },
+ {
+  "Data": "15/06/2021",
+  "Hora": "16:47",
+  "Liquidação": "17/06/2021",
+  "Descrição": "Compra de 2.57474 HMLP a $ 17.87",
+  "Valor(U$)": "-46.01",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "16/06/2021",
+  "Hora": "04:28",
+  "Liquidação": "16/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos NEE. NEXTERA ENERGY INC",
+  "Valor(U$)": "-0.06",
+  "Saldodaconta(U$)": "-0.06"
+ },
+ {
+  "Data": "16/06/2021",
+  "Hora": "04:28",
+  "Liquidação": "16/06/2021",
+  "Descrição": "Dividendos BRMK. BROADMARK REALTY CAPITAL INC",
+  "Valor(U$)": "0.09",
+  "Saldodaconta(U$)": "0.03"
+ },
+ {
+  "Data": "16/06/2021",
+  "Hora": "04:28",
+  "Liquidação": "16/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos BRMK. BROADMARK REALTY CAPITAL INC",
+  "Valor(U$)": "-0.03",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "16/06/2021",
+  "Hora": "04:28",
+  "Liquidação": "16/06/2021",
+  "Descrição": "Dividendos NEE. NEXTERA ENERGY INC",
+  "Valor(U$)": "0.21",
+  "Saldodaconta(U$)": "0.21"
+ },
+ {
+  "Data": "26/06/2021",
+  "Hora": "04:29",
+  "Liquidação": "28/06/2021",
+  "Descrição": "Dividendos ANTM. ANTHEM INC",
+  "Valor(U$)": "0.27",
+  "Saldodaconta(U$)": "0.48"
+ },
+ {
+  "Data": "26/06/2021",
+  "Hora": "04:29",
+  "Liquidação": "28/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ANTM. ANTHEM INC",
+  "Valor(U$)": "-0.08",
+  "Saldodaconta(U$)": "0.40"
+ },
+ {
+  "Data": "26/06/2021",
+  "Hora": "04:29",
+  "Liquidação": "28/06/2021",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "1.07",
+  "Saldodaconta(U$)": "1.47"
+ },
+ {
+  "Data": "26/06/2021",
+  "Hora": "04:29",
+  "Liquidação": "28/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.32",
+  "Saldodaconta(U$)": "1.15"
+ },
+ {
+  "Data": "30/06/2021",
+  "Hora": "04:07",
+  "Liquidação": "30/06/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos UNH. UNITEDHEALTH GROUP INC",
+  "Valor(U$)": "-0.11",
+  "Saldodaconta(U$)": "1.04"
+ },
+ {
+  "Data": "30/06/2021",
+  "Hora": "04:07",
+  "Liquidação": "30/06/2021",
+  "Descrição": "Dividendos UNH. UNITEDHEALTH GROUP INC",
+  "Valor(U$)": "0.36",
+  "Saldodaconta(U$)": "1.40"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "0.77",
+  "Saldodaconta(U$)": "2.17"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.06",
+  "Saldodaconta(U$)": "2.11"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.08",
+  "Saldodaconta(U$)": "2.19"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "1.96"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.20",
+  "Saldodaconta(U$)": "2.16"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "2.14"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Dividendos IEP. ICAHN ENTERPRISES L P",
+  "Valor(U$)": "1.40",
+  "Saldodaconta(U$)": "3.54"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "-0.38",
+  "Saldodaconta(U$)": "3.16"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos IEP. ICAHN ENTERPRISES L P",
+  "Valor(U$)": "-0.55",
+  "Saldodaconta(U$)": "2.61"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "04:23",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "1.28",
+  "Saldodaconta(U$)": "3.89"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "13:08",
+  "Liquidação": "01/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos . Retencao Impostos sobre Dividendos",
+  "Valor(U$)": "-1.40",
+  "Saldodaconta(U$)": "2.49"
+ },
+ {
+  "Data": "01/07/2021",
+  "Hora": "15:05",
+  "Liquidação": "06/07/2021",
+  "Descrição": "Venda de 0.0185 MSFT a $ 270.75",
+  "Valor(U$)": "5.01",
+  "Saldodaconta(U$)": "7.50"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "11:27",
+  "Liquidação": "06/07/2021",
+  "Descrição": "Estorno Impostos sobre Dividendos",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "8.05"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:19",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Venda de 0.00298 GOOGL a $ 2511.91",
+  "Valor(U$)": "7.49",
+  "Saldodaconta(U$)": "15.54"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:21",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Compra de 0.27671 IEP a $ 56.16",
+  "Valor(U$)": "-15.54",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:22",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Venda de 0.30174 IEP a $ 56.08",
+  "Valor(U$)": "16.92",
+  "Saldodaconta(U$)": "16.92"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:24",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Compra de 1.15181 PBFX a $ 14.69",
+  "Valor(U$)": "-16.92",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:27",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Venda de 0.2078 IIPR a $ 200.17",
+  "Valor(U$)": "41.60",
+  "Saldodaconta(U$)": "41.60"
+ },
+ {
+  "Data": "06/07/2021",
+  "Hora": "14:28",
+  "Liquidação": "08/07/2021",
+  "Descrição": "Compra de 0.61411 O a $ 67.74",
+  "Valor(U$)": "-41.60",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "07/07/2021",
+  "Hora": "09:24",
+  "Liquidação": "07/07/2021",
+  "Descrição": "Câmbio Instantâneo : R$46.59",
+  "Valor(U$)": "8.77",
+  "Saldodaconta(U$)": "8.77"
+ },
+ {
+  "Data": "07/07/2021",
+  "Hora": "10:46",
+  "Liquidação": "09/07/2021",
+  "Descrição": "Venda de 0.0143 FB a $ 353.46",
+  "Valor(U$)": "5.05",
+  "Saldodaconta(U$)": "13.82"
+ },
+ {
+  "Data": "07/07/2021",
+  "Hora": "10:48",
+  "Liquidação": "09/07/2021",
+  "Descrição": "Venda de 0.0141 FB a $ 353.25",
+  "Valor(U$)": "4.98",
+  "Saldodaconta(U$)": "18.80"
+ },
+ {
+  "Data": "07/07/2021",
+  "Hora": "11:24",
+  "Liquidação": "09/07/2021",
+  "Descrição": "Compra de 0.6375 MPLX a $ 29.49",
+  "Valor(U$)": "-18.80",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "12/07/2021",
+  "Hora": "15:44",
+  "Liquidação": "14/07/2021",
+  "Descrição": "Corretagem BPY",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "-1.00"
+ },
+ {
+  "Data": "12/07/2021",
+  "Hora": "15:44",
+  "Liquidação": "14/07/2021",
+  "Descrição": "Venda de 2.6504 BPY a $ 18.91",
+  "Valor(U$)": "50.12",
+  "Saldodaconta(U$)": "49.12"
+ },
+ {
+  "Data": "12/07/2021",
+  "Hora": "16:03",
+  "Liquidação": "14/07/2021",
+  "Descrição": "Corretagem ORI",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "48.12"
+ },
+ {
+  "Data": "12/07/2021",
+  "Hora": "16:03",
+  "Liquidação": "14/07/2021",
+  "Descrição": "Compra de 1.91106 ORI a $ 25.18",
+  "Valor(U$)": "-48.12",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "14:59",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Venda de 0.5485 NEE a $ 76.68",
+  "Valor(U$)": "42.06",
+  "Saldodaconta(U$)": "42.06"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "14:59",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Corretagem NEE",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "41.06"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:08",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Corretagem UNH",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "40.06"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:08",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Compra de 0.09533 UNH a $ 420.2",
+  "Valor(U$)": "-40.06",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:13",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Venda de 0.115 UNH a $ 420.18",
+  "Valor(U$)": "48.32",
+  "Saldodaconta(U$)": "48.32"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:13",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Corretagem UNH",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "47.32"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:14",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Compra de 1.26282 OHI a $ 36.68",
+  "Valor(U$)": "-46.32",
+  "Saldodaconta(U$)": "1.00"
+ },
+ {
+  "Data": "15/07/2021",
+  "Hora": "15:14",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Corretagem OHI",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Dividendos PGR. PROGRESSIVE CORP-OHIO",
+  "Valor(U$)": "0.09",
+  "Saldodaconta(U$)": "0.09"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos IIPR. INNOVATIVE INDUSTRIAL",
+  "Valor(U$)": "-0.09",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Dividendos IIPR. INNOVATIVE INDUSTRIAL",
+  "Valor(U$)": "0.29",
+  "Saldodaconta(U$)": "0.29"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.57",
+  "Saldodaconta(U$)": "0.86"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "0.51",
+  "Saldodaconta(U$)": "1.37"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "-0.15",
+  "Saldodaconta(U$)": "1.22"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos PGR. PROGRESSIVE CORP-OHIO",
+  "Valor(U$)": "-0.03",
+  "Saldodaconta(U$)": "1.19"
+ },
+ {
+  "Data": "16/07/2021",
+  "Hora": "04:39",
+  "Liquidação": "16/07/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "1.02"
+ },
+ {
+  "Data": "19/07/2021",
+  "Hora": "14:03",
+  "Liquidação": "19/07/2021",
+  "Descrição": "Câmbio Instantâneo : R$249.05",
+  "Valor(U$)": "46.51",
+  "Saldodaconta(U$)": "47.53"
+ },
+ {
+  "Data": "19/07/2021",
+  "Hora": "14:07",
+  "Liquidação": "21/07/2021",
+  "Descrição": "Compra de 1.33844 MPLX a $ 26.15",
+  "Valor(U$)": "-35.00",
+  "Saldodaconta(U$)": "12.53"
+ },
+ {
+  "Data": "19/07/2021",
+  "Hora": "14:07",
+  "Liquidação": "21/07/2021",
+  "Descrição": "Corretagem MPLX",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "11.53"
+ },
+ {
+  "Data": "19/07/2021",
+  "Hora": "14:07",
+  "Liquidação": "21/07/2021",
+  "Descrição": "Compra de 0.8072 PBFX a $ 13.05",
+  "Valor(U$)": "-10.53",
+  "Saldodaconta(U$)": "1.00"
+ },
+ {
+  "Data": "19/07/2021",
+  "Hora": "14:07",
+  "Liquidação": "21/07/2021",
+  "Descrição": "Corretagem PBFX",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "28/07/2021",
+  "Hora": "10:57",
+  "Liquidação": "28/07/2021",
+  "Descrição": "Câmbio Instantâneo : R$149.43",
+  "Valor(U$)": "28.33",
+  "Saldodaconta(U$)": "28.33"
+ },
+ {
+  "Data": "28/07/2021",
+  "Hora": "11:00",
+  "Liquidação": "30/07/2021",
+  "Descrição": "Corretagem HMLP",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "27.33"
+ },
+ {
+  "Data": "28/07/2021",
+  "Hora": "11:00",
+  "Liquidação": "30/07/2021",
+  "Descrição": "Compra de 3.7 HMLP a $ 7.25",
+  "Valor(U$)": "-26.83",
+  "Saldodaconta(U$)": "0.50"
+ },
+ {
+  "Data": "29/07/2021",
+  "Hora": "13:53",
+  "Liquidação": "02/08/2021",
+  "Descrição": "Venda de 6.56694 HMLP a $ 5.78",
+  "Valor(U$)": "37.97",
+  "Saldodaconta(U$)": "38.47"
+ },
+ {
+  "Data": "29/07/2021",
+  "Hora": "13:53",
+  "Liquidação": "02/08/2021",
+  "Descrição": "Corretagem HMLP",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "37.47"
+ },
+ {
+  "Data": "31/07/2021",
+  "Hora": "07:42",
+  "Liquidação": "02/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.06",
+  "Saldodaconta(U$)": "37.41"
+ },
+ {
+  "Data": "31/07/2021",
+  "Hora": "07:42",
+  "Liquidação": "02/08/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.20",
+  "Saldodaconta(U$)": "37.61"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "09:12",
+  "Liquidação": "02/08/2021",
+  "Descrição": "Câmbio Instantâneo : R$149.43",
+  "Valor(U$)": "28.19",
+  "Saldodaconta(U$)": "65.80"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:31",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Venda de 0.22533 UNH a $ 413.23",
+  "Valor(U$)": "93.11",
+  "Saldodaconta(U$)": "158.91"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:31",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Venda de 0.61411 O a $ 70.87",
+  "Valor(U$)": "43.52",
+  "Saldodaconta(U$)": "202.43"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:32",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Venda de 1.91106 ORI a $ 24.96",
+  "Valor(U$)": "47.70",
+  "Saldodaconta(U$)": "250.13"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:32",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Venda de 0.90534 PGR a $ 95.88",
+  "Valor(U$)": "86.80",
+  "Saldodaconta(U$)": "336.93"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:32",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Venda de 0.3857 AMGN a $ 240.78",
+  "Valor(U$)": "92.87",
+  "Saldodaconta(U$)": "429.80"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:41",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 3.72403 TSLX a $ 23.48",
+  "Valor(U$)": "-87.44",
+  "Saldodaconta(U$)": "342.36"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:42",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 3.38119 ABR a $ 18.48",
+  "Valor(U$)": "-62.48",
+  "Saldodaconta(U$)": "279.88"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:44",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 1.42582 GLPI a $ 48.33",
+  "Valor(U$)": "-68.91",
+  "Saldodaconta(U$)": "210.97"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "10:59",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 3.5448 GOOD a $ 23.33",
+  "Valor(U$)": "-82.69",
+  "Saldodaconta(U$)": "128.28"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "11:01",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 1.99837 OHI a $ 36.71",
+  "Valor(U$)": "-73.36",
+  "Saldodaconta(U$)": "54.92"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "11:04",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Compra de 2.69338 ARCC a $ 20.02",
+  "Valor(U$)": "-53.92",
+  "Saldodaconta(U$)": "1.00"
+ },
+ {
+  "Data": "02/08/2021",
+  "Hora": "11:04",
+  "Liquidação": "04/08/2021",
+  "Descrição": "Corretagem ARCC",
+  "Valor(U$)": "-1.00",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "03/08/2021",
+  "Hora": "04:11",
+  "Liquidação": "03/08/2021",
+  "Descrição": "Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "0.57",
+  "Saldodaconta(U$)": "0.57"
+ },
+ {
+  "Data": "03/08/2021",
+  "Hora": "04:11",
+  "Liquidação": "03/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "0.40"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "-0.26",
+  "Saldodaconta(U$)": "0.14"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "0.85",
+  "Saldodaconta(U$)": "0.99"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "-0.50",
+  "Saldodaconta(U$)": "0.49"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "1.36",
+  "Saldodaconta(U$)": "1.85"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos O. REALTY INCOME CORP",
+  "Valor(U$)": "-0.04",
+  "Saldodaconta(U$)": "1.81"
+ },
+ {
+  "Data": "14/08/2021",
+  "Hora": "03:44",
+  "Liquidação": "16/08/2021",
+  "Descrição": "Dividendos O. REALTY INCOME CORP",
+  "Valor(U$)": "0.14",
+  "Saldodaconta(U$)": "1.95"
+ },
+ {
+  "Data": "27/08/2021",
+  "Hora": "03:02",
+  "Liquidação": "27/08/2021",
+  "Descrição": "Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "1.16",
+  "Saldodaconta(U$)": "3.11"
+ },
+ {
+  "Data": "27/08/2021",
+  "Hora": "03:02",
+  "Liquidação": "27/08/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "-0.43",
+  "Saldodaconta(U$)": "2.68"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "03:14",
+  "Liquidação": "01/09/2021",
+  "Descrição": "Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "2.27",
+  "Saldodaconta(U$)": "4.95"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "03:14",
+  "Liquidação": "01/09/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.64",
+  "Saldodaconta(U$)": "5.59"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "03:14",
+  "Liquidação": "01/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "-0.68",
+  "Saldodaconta(U$)": "4.91"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "03:14",
+  "Liquidação": "01/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.19",
+  "Saldodaconta(U$)": "4.72"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "09:01",
+  "Liquidação": "01/09/2021",
+  "Descrição": "Câmbio Instantâneo : R$199.24",
+  "Valor(U$)": "37.68",
+  "Saldodaconta(U$)": "42.40"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:34",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Venda de 0.00876 GOOGL a $ 2910.51",
+  "Valor(U$)": "25.50",
+  "Saldodaconta(U$)": "67.90"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:35",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Venda de 0.0733 CRM a $ 266.7",
+  "Valor(U$)": "19.55",
+  "Saldodaconta(U$)": "87.45"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:36",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Venda de 0.07257 MSFT a $ 303.51",
+  "Valor(U$)": "22.03",
+  "Saldodaconta(U$)": "109.48"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:37",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Venda de 0.43408 V a $ 229.65",
+  "Valor(U$)": "99.69",
+  "Saldodaconta(U$)": "209.17"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:38",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Compra de 1.57285 PBFX a $ 12.18",
+  "Valor(U$)": "-19.16",
+  "Saldodaconta(U$)": "190.01"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:38",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Compra de 5.90445 ET a $ 9.32",
+  "Valor(U$)": "-55.00",
+  "Saldodaconta(U$)": "135.01"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:39",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Compra de 0.4471 ABBV a $ 120.71",
+  "Valor(U$)": "-53.97",
+  "Saldodaconta(U$)": "81.04"
+ },
+ {
+  "Data": "01/09/2021",
+  "Hora": "10:39",
+  "Liquidação": "03/09/2021",
+  "Descrição": "Compra de 2.96003 T a $ 27.38",
+  "Valor(U$)": "-81.04",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "02/09/2021",
+  "Hora": "04:11",
+  "Liquidação": "02/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos V. VISA INC",
+  "Valor(U$)": "-0.04",
+  "Saldodaconta(U$)": "-0.04"
+ },
+ {
+  "Data": "02/09/2021",
+  "Hora": "04:11",
+  "Liquidação": "02/09/2021",
+  "Descrição": "Dividendos V. VISA INC",
+  "Valor(U$)": "0.14",
+  "Saldodaconta(U$)": "0.10"
+ },
+ {
+  "Data": "10/09/2021",
+  "Hora": "03:28",
+  "Liquidação": "10/09/2021",
+  "Descrição": "Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "0.21",
+  "Saldodaconta(U$)": "0.31"
+ },
+ {
+  "Data": "10/09/2021",
+  "Hora": "03:28",
+  "Liquidação": "10/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "-0.06",
+  "Saldodaconta(U$)": "0.25"
+ },
+ {
+  "Data": "13/09/2021",
+  "Hora": "10:41",
+  "Liquidação": "15/09/2021",
+  "Descrição": "Venda de 0.52633 DIS a $ 184.38",
+  "Valor(U$)": "97.04",
+  "Saldodaconta(U$)": "97.29"
+ },
+ {
+  "Data": "13/09/2021",
+  "Hora": "10:42",
+  "Liquidação": "15/09/2021",
+  "Descrição": "Compra de 4.35889 EPD a $ 22.32",
+  "Valor(U$)": "-97.29",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "25/09/2021",
+  "Hora": "04:23",
+  "Liquidação": "27/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.50",
+  "Saldodaconta(U$)": "-0.50"
+ },
+ {
+  "Data": "25/09/2021",
+  "Hora": "04:23",
+  "Liquidação": "27/09/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ANTM. ANTHEM INC",
+  "Valor(U$)": "-0.08",
+  "Saldodaconta(U$)": "-0.58"
+ },
+ {
+  "Data": "25/09/2021",
+  "Hora": "04:23",
+  "Liquidação": "27/09/2021",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "1.67",
+  "Saldodaconta(U$)": "1.09"
+ },
+ {
+  "Data": "25/09/2021",
+  "Hora": "04:23",
+  "Liquidação": "27/09/2021",
+  "Descrição": "Dividendos ANTM. ANTHEM INC",
+  "Valor(U$)": "0.27",
+  "Saldodaconta(U$)": "1.36"
+ },
+ {
+  "Data": "30/09/2021",
+  "Hora": "12:58",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Câmbio Padrão : R$54.54",
+  "Valor(U$)": "9.81",
+  "Saldodaconta(U$)": "11.17"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "2.41",
+  "Saldodaconta(U$)": "13.58"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "-0.72",
+  "Saldodaconta(U$)": "12.86"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "12.63"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.10",
+  "Saldodaconta(U$)": "12.73"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "0.77",
+  "Saldodaconta(U$)": "13.50"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.03",
+  "Saldodaconta(U$)": "13.47"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.64",
+  "Saldodaconta(U$)": "14.11"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "02:50",
+  "Liquidação": "01/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.19",
+  "Saldodaconta(U$)": "13.92"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "10:52",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Venda de 0.24213 ANTM a $ 365.62",
+  "Valor(U$)": "88.53",
+  "Saldodaconta(U$)": "102.45"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "10:58",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Venda de 0.08293 JPM a $ 164.72",
+  "Valor(U$)": "13.66",
+  "Saldodaconta(U$)": "116.11"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "10:59",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Venda de 0.01773 AVGO a $ 482.64",
+  "Valor(U$)": "8.56",
+  "Saldodaconta(U$)": "124.67"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "11:02",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Compra de 0.10915 ABBV a $ 107.83",
+  "Valor(U$)": "-11.77",
+  "Saldodaconta(U$)": "112.90"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "11:03",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Compra de 0.94811 PFE a $ 42.19",
+  "Valor(U$)": "-40.00",
+  "Saldodaconta(U$)": "72.90"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "11:03",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Compra de 3.04339 HTGC a $ 16.43",
+  "Valor(U$)": "-50.00",
+  "Saldodaconta(U$)": "22.90"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "11:04",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Compra de 0.4111 OHI a $ 29.9",
+  "Valor(U$)": "-12.29",
+  "Saldodaconta(U$)": "10.61"
+ },
+ {
+  "Data": "01/10/2021",
+  "Hora": "11:04",
+  "Liquidação": "05/10/2021",
+  "Descrição": "Compra de 0.5003 GOOD a $ 21.21",
+  "Valor(U$)": "-10.61",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "16/10/2021",
+  "Hora": "04:23",
+  "Liquidação": "18/10/2021",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "2.10",
+  "Saldodaconta(U$)": "2.10"
+ },
+ {
+  "Data": "16/10/2021",
+  "Hora": "04:23",
+  "Liquidação": "18/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "-0.15",
+  "Saldodaconta(U$)": "1.95"
+ },
+ {
+  "Data": "16/10/2021",
+  "Hora": "04:23",
+  "Liquidação": "18/10/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.63",
+  "Saldodaconta(U$)": "1.32"
+ },
+ {
+  "Data": "16/10/2021",
+  "Hora": "04:23",
+  "Liquidação": "18/10/2021",
+  "Descrição": "Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "0.51",
+  "Saldodaconta(U$)": "1.83"
+ },
+ {
+  "Data": "22/10/2021",
+  "Hora": "10:59",
+  "Liquidação": "26/10/2021",
+  "Descrição": "Venda de 0.033 AVGO a $ 518.69",
+  "Valor(U$)": "17.12",
+  "Saldodaconta(U$)": "18.95"
+ },
+ {
+  "Data": "22/10/2021",
+  "Hora": "11:01",
+  "Liquidação": "26/10/2021",
+  "Descrição": "Venda de 0.047 CRM a $ 291.15",
+  "Valor(U$)": "13.68",
+  "Saldodaconta(U$)": "32.63"
+ },
+ {
+  "Data": "30/10/2021",
+  "Hora": "04:15",
+  "Liquidação": "01/11/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.71",
+  "Saldodaconta(U$)": "33.34"
+ },
+ {
+  "Data": "30/10/2021",
+  "Hora": "04:15",
+  "Liquidação": "01/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "33.13"
+ },
+ {
+  "Data": "01/11/2021",
+  "Hora": "15:39",
+  "Liquidação": "03/11/2021",
+  "Descrição": "Venda de 0.03893 MSFT a $ 328.4",
+  "Valor(U$)": "12.78",
+  "Saldodaconta(U$)": "45.91"
+ },
+ {
+  "Data": "01/11/2021",
+  "Hora": "15:40",
+  "Liquidação": "03/11/2021",
+  "Descrição": "Compra de 0.39323 T a $ 25.43",
+  "Valor(U$)": "-10.00",
+  "Saldodaconta(U$)": "35.91"
+ },
+ {
+  "Data": "01/11/2021",
+  "Hora": "15:42",
+  "Liquidação": "03/11/2021",
+  "Descrição": "Compra de 0.24443 VZ a $ 52.98",
+  "Valor(U$)": "-12.95",
+  "Saldodaconta(U$)": "22.96"
+ },
+ {
+  "Data": "01/11/2021",
+  "Hora": "15:46",
+  "Liquidação": "03/11/2021",
+  "Descrição": "Compra de 0.09972 ABBV a $ 115.22",
+  "Valor(U$)": "-11.49",
+  "Saldodaconta(U$)": "11.47"
+ },
+ {
+  "Data": "01/11/2021",
+  "Hora": "15:47",
+  "Liquidação": "03/11/2021",
+  "Descrição": "Compra de 0.26295 PFE a $ 43.62",
+  "Valor(U$)": "-11.47",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "02/11/2021",
+  "Hora": "04:15",
+  "Liquidação": "02/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos T. AT&T INC",
+  "Valor(U$)": "-0.46",
+  "Saldodaconta(U$)": "-0.46"
+ },
+ {
+  "Data": "02/11/2021",
+  "Hora": "04:15",
+  "Liquidação": "02/11/2021",
+  "Descrição": "Dividendos T. AT&T INC",
+  "Valor(U$)": "1.54",
+  "Saldodaconta(U$)": "1.08"
+ },
+ {
+  "Data": "02/11/2021",
+  "Hora": "04:15",
+  "Liquidação": "02/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "0.91"
+ },
+ {
+  "Data": "02/11/2021",
+  "Hora": "04:15",
+  "Liquidação": "02/11/2021",
+  "Descrição": "Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "1.46"
+ },
+ {
+  "Data": "05/11/2021",
+  "Hora": "13:44",
+  "Liquidação": "09/11/2021",
+  "Descrição": "Venda de 0.0042 AMZN a $ 3555.6",
+  "Valor(U$)": "14.93",
+  "Saldodaconta(U$)": "16.39"
+ },
+ {
+  "Data": "05/11/2021",
+  "Hora": "13:53",
+  "Liquidação": "09/11/2021",
+  "Descrição": "Compra de 0.32422 T a $ 25.26",
+  "Valor(U$)": "-8.19",
+  "Saldodaconta(U$)": "8.20"
+ },
+ {
+  "Data": "05/11/2021",
+  "Hora": "13:54",
+  "Liquidação": "09/11/2021",
+  "Descrição": "Compra de 0.15589 VZ a $ 52.6",
+  "Valor(U$)": "-8.20",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "13/11/2021",
+  "Hora": "07:17",
+  "Liquidação": "15/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "-0.73",
+  "Saldodaconta(U$)": "-0.73"
+ },
+ {
+  "Data": "13/11/2021",
+  "Hora": "07:17",
+  "Liquidação": "15/11/2021",
+  "Descrição": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "1.96",
+  "Saldodaconta(U$)": "1.23"
+ },
+ {
+  "Data": "16/11/2021",
+  "Hora": "05:32",
+  "Liquidação": "16/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "-0.22",
+  "Saldodaconta(U$)": "1.01"
+ },
+ {
+  "Data": "16/11/2021",
+  "Hora": "05:32",
+  "Liquidação": "16/11/2021",
+  "Descrição": "Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "0.72",
+  "Saldodaconta(U$)": "1.73"
+ },
+ {
+  "Data": "16/11/2021",
+  "Hora": "05:32",
+  "Liquidação": "16/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "-0.74",
+  "Saldodaconta(U$)": "0.99"
+ },
+ {
+  "Data": "16/11/2021",
+  "Hora": "05:33",
+  "Liquidação": "16/11/2021",
+  "Descrição": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "2.46",
+  "Saldodaconta(U$)": "3.45"
+ },
+ {
+  "Data": "18/11/2021",
+  "Hora": "04:48",
+  "Liquidação": "18/11/2021",
+  "Descrição": "Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "1.22",
+  "Saldodaconta(U$)": "4.67"
+ },
+ {
+  "Data": "18/11/2021",
+  "Hora": "04:48",
+  "Liquidação": "18/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "-0.37",
+  "Saldodaconta(U$)": "4.30"
+ },
+ {
+  "Data": "18/11/2021",
+  "Hora": "12:45",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Venda de 0.01581 AVGO a $ 570.97",
+  "Valor(U$)": "9.03",
+  "Saldodaconta(U$)": "13.33"
+ },
+ {
+  "Data": "18/11/2021",
+  "Hora": "12:47",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Compra de 0.54541 T a $ 24.44",
+  "Valor(U$)": "-13.33",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "20/11/2021",
+  "Hora": "06:28",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "-0.94",
+  "Saldodaconta(U$)": "-0.94"
+ },
+ {
+  "Data": "20/11/2021",
+  "Hora": "06:29",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "-0.33",
+  "Saldodaconta(U$)": "-1.27"
+ },
+ {
+  "Data": "20/11/2021",
+  "Hora": "06:29",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "0.90",
+  "Saldodaconta(U$)": "-0.37"
+ },
+ {
+  "Data": "20/11/2021",
+  "Hora": "06:29",
+  "Liquidação": "22/11/2021",
+  "Descrição": "Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "2.53",
+  "Saldodaconta(U$)": "2.16"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "1.63",
+  "Saldodaconta(U$)": "3.79"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "2.34",
+  "Saldodaconta(U$)": "6.13"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "-0.70",
+  "Saldodaconta(U$)": "5.43"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "5.22"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.71",
+  "Saldodaconta(U$)": "5.93"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "04:32",
+  "Liquidação": "01/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "-0.60",
+  "Saldodaconta(U$)": "5.33"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "12:25",
+  "Liquidação": "03/12/2021",
+  "Descrição": "Compra de 0.10494 VZ a $ 50.79",
+  "Valor(U$)": "-5.33",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "12:27",
+  "Liquidação": "03/12/2021",
+  "Descrição": "Venda de 0.00179 GOOGL a $ 2900.27",
+  "Valor(U$)": "5.19",
+  "Saldodaconta(U$)": "5.19"
+ },
+ {
+  "Data": "01/12/2021",
+  "Hora": "12:28",
+  "Liquidação": "03/12/2021",
+  "Descrição": "Compra de 0.22497 T a $ 23.07",
+  "Valor(U$)": "-5.19",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "03/12/2021",
+  "Hora": "12:33",
+  "Liquidação": "03/12/2021",
+  "Descrição": "Câmbio Instantâneo : R$49.81",
+  "Valor(U$)": "8.58",
+  "Saldodaconta(U$)": "8.58"
+ },
+ {
+  "Data": "03/12/2021",
+  "Hora": "12:37",
+  "Liquidação": "07/12/2021",
+  "Descrição": "Compra de 0.07244 ABBV a $ 118.43",
+  "Valor(U$)": "-8.58",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "03:42",
+  "Liquidação": "07/12/2021",
+  "Descrição": "Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "0.47",
+  "Saldodaconta(U$)": "0.47"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "03:42",
+  "Liquidação": "07/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "0.33"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "11:37",
+  "Liquidação": "07/12/2021",
+  "Descrição": "Câmbio Instantâneo : R$144.52",
+  "Valor(U$)": "24.97",
+  "Saldodaconta(U$)": "25.30"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "11:49",
+  "Liquidação": "09/12/2021",
+  "Descrição": "Compra de 0.39282 EPD a $ 21.46",
+  "Valor(U$)": "-8.43",
+  "Saldodaconta(U$)": "16.87"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "11:49",
+  "Liquidação": "09/12/2021",
+  "Descrição": "Compra de 1.01942 ET a $ 8.27",
+  "Valor(U$)": "-8.43",
+  "Saldodaconta(U$)": "8.44"
+ },
+ {
+  "Data": "07/12/2021",
+  "Hora": "11:50",
+  "Liquidação": "09/12/2021",
+  "Descrição": "Compra de 0.70216 PBFX a $ 12.02",
+  "Valor(U$)": "-8.44",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "10/12/2021",
+  "Hora": "03:20",
+  "Liquidação": "10/12/2021",
+  "Descrição": "Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "0.16",
+  "Saldodaconta(U$)": "0.16"
+ },
+ {
+  "Data": "10/12/2021",
+  "Hora": "03:20",
+  "Liquidação": "10/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "-0.05",
+  "Saldodaconta(U$)": "0.11"
+ },
+ {
+  "Data": "10/12/2021",
+  "Hora": "14:29",
+  "Liquidação": "14/12/2021",
+  "Descrição": "Venda de 0.01384 AVGO a $ 630.15",
+  "Valor(U$)": "8.72",
+  "Saldodaconta(U$)": "8.83"
+ },
+ {
+  "Data": "10/12/2021",
+  "Hora": "14:31",
+  "Liquidação": "14/12/2021",
+  "Descrição": "Compra de 0.38575 T a $ 22.89",
+  "Valor(U$)": "-8.83",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "20/12/2021",
+  "Hora": "13:20",
+  "Liquidação": "20/12/2021",
+  "Descrição": "Câmbio Instantâneo : R$74.72",
+  "Valor(U$)": "12.73",
+  "Saldodaconta(U$)": "12.73"
+ },
+ {
+  "Data": "20/12/2021",
+  "Hora": "13:25",
+  "Liquidação": "22/12/2021",
+  "Descrição": "Compra de 1.18545 PBFX a $ 10.74",
+  "Valor(U$)": "-12.73",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "21/12/2021",
+  "Hora": "04:57",
+  "Liquidação": "21/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.77",
+  "Saldodaconta(U$)": "-0.77"
+ },
+ {
+  "Data": "21/12/2021",
+  "Hora": "04:57",
+  "Liquidação": "21/12/2021",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "2.56",
+  "Saldodaconta(U$)": "1.79"
+ },
+ {
+  "Data": "24/12/2021",
+  "Hora": "05:35",
+  "Liquidação": "27/12/2021",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "1.67",
+  "Saldodaconta(U$)": "3.46"
+ },
+ {
+  "Data": "24/12/2021",
+  "Hora": "05:35",
+  "Liquidação": "27/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.50",
+  "Saldodaconta(U$)": "2.96"
+ },
+ {
+  "Data": "31/12/2021",
+  "Hora": "05:39",
+  "Liquidação": "31/12/2021",
+  "Descrição": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "-0.72",
+  "Saldodaconta(U$)": "2.24"
+ },
+ {
+  "Data": "31/12/2021",
+  "Hora": "05:39",
+  "Liquidação": "31/12/2021",
+  "Descrição": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "2.41",
+  "Saldodaconta(U$)": "4.65"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "4.44"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.11",
+  "Saldodaconta(U$)": "4.33"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "4.88"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.36",
+  "Saldodaconta(U$)": "5.24"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "5.07"
+ },
+ {
+  "Data": "01/01/2022",
+  "Hora": "04:57",
+  "Liquidação": "03/01/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.71",
+  "Saldodaconta(U$)": "5.78"
+ },
+ {
+  "Data": "03/01/2022",
+  "Hora": "12:04",
+  "Liquidação": "05/01/2022",
+  "Descrição": "Venda de 0.0149 FB a $ 340.51",
+  "Valor(U$)": "5.07",
+  "Saldodaconta(U$)": "10.85"
+ },
+ {
+  "Data": "03/01/2022",
+  "Hora": "12:15",
+  "Liquidação": "05/01/2022",
+  "Descrição": "Compra de 0.03713 ABBV a $ 134.64",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "5.85"
+ },
+ {
+  "Data": "03/01/2022",
+  "Hora": "12:16",
+  "Liquidação": "05/01/2022",
+  "Descrição": "Compra de 0.112 VZ a $ 52.23",
+  "Valor(U$)": "-5.85",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "08/01/2022",
+  "Hora": "04:02",
+  "Liquidação": "10/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.18",
+  "Saldodaconta(U$)": "-0.18"
+ },
+ {
+  "Data": "08/01/2022",
+  "Hora": "04:02",
+  "Liquidação": "10/01/2022",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "0.60",
+  "Saldodaconta(U$)": "0.42"
+ },
+ {
+  "Data": "15/01/2022",
+  "Hora": "04:35",
+  "Liquidação": "18/01/2022",
+  "Descrição": "Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "0.52",
+  "Saldodaconta(U$)": "0.94"
+ },
+ {
+  "Data": "15/01/2022",
+  "Hora": "04:35",
+  "Liquidação": "18/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "-0.16",
+  "Saldodaconta(U$)": "0.78"
+ },
+ {
+  "Data": "15/01/2022",
+  "Hora": "04:35",
+  "Liquidação": "18/01/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.63",
+  "Saldodaconta(U$)": "0.15"
+ },
+ {
+  "Data": "15/01/2022",
+  "Hora": "04:35",
+  "Liquidação": "18/01/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "2.10",
+  "Saldodaconta(U$)": "2.25"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:39",
+  "Liquidação": "24/01/2022",
+  "Descrição": "Câmbio Instantâneo : R$143.64",
+  "Valor(U$)": "25.36",
+  "Saldodaconta(U$)": "27.61"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:42",
+  "Liquidação": "26/01/2022",
+  "Descrição": "Compra de 0.00219 AMZN a $ 2732.35",
+  "Valor(U$)": "-5.98",
+  "Saldodaconta(U$)": "21.63"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:45",
+  "Liquidação": "26/01/2022",
+  "Descrição": "Compra de 0.01707 FB a $ 292.88",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "16.63"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:47",
+  "Liquidação": "26/01/2022",
+  "Descrição": "Compra de 0.41736 PBFX a $ 11.98",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "11.63"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:48",
+  "Liquidação": "26/01/2022",
+  "Descrição": "Compra de 0.56818 ET a $ 8.8",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "6.63"
+ },
+ {
+  "Data": "24/01/2022",
+  "Hora": "14:50",
+  "Liquidação": "26/01/2022",
+  "Descrição": "Compra de 0.0314 CRM a $ 211.11",
+  "Valor(U$)": "-6.63",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "01/02/2022",
+  "Hora": "04:13",
+  "Liquidação": "01/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "-0.17"
+ },
+ {
+  "Data": "01/02/2022",
+  "Hora": "04:13",
+  "Liquidação": "01/02/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.71",
+  "Saldodaconta(U$)": "0.54"
+ },
+ {
+  "Data": "01/02/2022",
+  "Hora": "04:13",
+  "Liquidação": "01/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "0.33"
+ },
+ {
+  "Data": "01/02/2022",
+  "Hora": "04:13",
+  "Liquidação": "01/02/2022",
+  "Descrição": "Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "0.88"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "04:42",
+  "Liquidação": "02/02/2022",
+  "Descrição": "Dividendos T. AT&T INC",
+  "Valor(U$)": "2.51",
+  "Saldodaconta(U$)": "3.39"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "04:42",
+  "Liquidação": "02/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "-0.12",
+  "Saldodaconta(U$)": "3.27"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "04:42",
+  "Liquidação": "02/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos T. AT&T INC",
+  "Valor(U$)": "-0.75",
+  "Saldodaconta(U$)": "2.52"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "04:43",
+  "Liquidação": "02/02/2022",
+  "Descrição": "Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "0.40",
+  "Saldodaconta(U$)": "2.92"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "11:48",
+  "Liquidação": "04/02/2022",
+  "Descrição": "Venda de 0.00235 GOOGL a $ 2970.86",
+  "Valor(U$)": "6.98",
+  "Saldodaconta(U$)": "9.90"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "11:48",
+  "Liquidação": "04/02/2022",
+  "Descrição": "Venda de 0.02168 FB a $ 322.18",
+  "Valor(U$)": "6.98",
+  "Saldodaconta(U$)": "16.88"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "11:51",
+  "Liquidação": "04/02/2022",
+  "Descrição": "Compra de 0.13811 KO a $ 61.11",
+  "Valor(U$)": "-8.44",
+  "Saldodaconta(U$)": "8.44"
+ },
+ {
+  "Data": "02/02/2022",
+  "Hora": "11:52",
+  "Liquidação": "04/02/2022",
+  "Descrição": "Compra de 0.05235 PG a $ 161.21",
+  "Valor(U$)": "-8.44",
+  "Saldodaconta(U$)": "NaN"
+ },
+ {
+  "Data": "03/02/2022",
+  "Hora": "11:56",
+  "Liquidação": "03/02/2022",
+  "Descrição": "Câmbio Instantâneo : R$149.44",
+  "Valor(U$)": "27.43",
+  "Saldodaconta(U$)": "27.43"
+ },
+ {
+  "Data": "03/02/2022",
+  "Hora": "11:57",
+  "Liquidação": "07/02/2022",
+  "Descrição": "Compra de 0.07162 FB a $ 243.5",
+  "Valor(U$)": "-17.44",
+  "Saldodaconta(U$)": "9.99"
+ },
+ {
+  "Data": "03/02/2022",
+  "Hora": "12:12",
+  "Liquidação": "07/02/2022",
+  "Descrição": "Compra de 0.00353 AMZN a $ 2800.91",
+  "Valor(U$)": "-9.89",
+  "Saldodaconta(U$)": "0.10"
+ },
+ {
+  "Data": "12/02/2022",
+  "Hora": "06:16",
+  "Liquidação": "14/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "-0.82",
+  "Saldodaconta(U$)": "-0.72"
+ },
+ {
+  "Data": "12/02/2022",
+  "Hora": "06:16",
+  "Liquidação": "14/02/2022",
+  "Descrição": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "2.21",
+  "Saldodaconta(U$)": "1.49"
+ },
+ {
+  "Data": "15/02/2022",
+  "Hora": "03:46",
+  "Liquidação": "15/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "-0.51",
+  "Saldodaconta(U$)": "0.98"
+ },
+ {
+  "Data": "15/02/2022",
+  "Hora": "03:46",
+  "Liquidação": "15/02/2022",
+  "Descrição": "Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "1.39",
+  "Saldodaconta(U$)": "2.37"
+ },
+ {
+  "Data": "16/02/2022",
+  "Hora": "04:14",
+  "Liquidação": "16/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "-0.74",
+  "Saldodaconta(U$)": "1.63"
+ },
+ {
+  "Data": "16/02/2022",
+  "Hora": "04:14",
+  "Liquidação": "16/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "-0.32",
+  "Saldodaconta(U$)": "1.31"
+ },
+ {
+  "Data": "16/02/2022",
+  "Hora": "04:14",
+  "Liquidação": "16/02/2022",
+  "Descrição": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "2.46",
+  "Saldodaconta(U$)": "3.77"
+ },
+ {
+  "Data": "16/02/2022",
+  "Hora": "04:14",
+  "Liquidação": "16/02/2022",
+  "Descrição": "Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "1.08",
+  "Saldodaconta(U$)": "4.85"
+ },
+ {
+  "Data": "19/02/2022",
+  "Hora": "05:36",
+  "Liquidação": "22/02/2022",
+  "Descrição": "Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "1.31",
+  "Saldodaconta(U$)": "6.16"
+ },
+ {
+  "Data": "19/02/2022",
+  "Hora": "05:36",
+  "Liquidação": "22/02/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "-0.48",
+  "Saldodaconta(U$)": "5.68"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/10/21",
+  "Valor(U$)": "0.01",
+  "Saldodaconta(U$)": "5.69"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - OHI - 13/08/21",
+  "Valor(U$)": "0.06",
+  "Saldodaconta(U$)": "5.75"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/07/21",
+  "Valor(U$)": "0.01",
+  "Saldodaconta(U$)": "5.76"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - HTGC - 17/11/21",
+  "Valor(U$)": "0.36",
+  "Saldodaconta(U$)": "6.12"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - OHI - 15/11/21",
+  "Valor(U$)": "0.16",
+  "Saldodaconta(U$)": "6.28"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/10/21",
+  "Valor(U$)": "0.02",
+  "Saldodaconta(U$)": "6.30"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - GLPI - 23/12/21",
+  "Valor(U$)": "0.01",
+  "Saldodaconta(U$)": "6.31"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - O - 13/08/21",
+  "Valor(U$)": "0.03",
+  "Saldodaconta(U$)": "6.34"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/07/21",
+  "Valor(U$)": "0.02",
+  "Saldodaconta(U$)": "6.36"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - GLPI - 7/01/22",
+  "Valor(U$)": "0.10",
+  "Saldodaconta(U$)": "6.46"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - GLPI - 24/09/21",
+  "Valor(U$)": "0.01",
+  "Saldodaconta(U$)": "6.47"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - OHI - 15/11/21",
+  "Valor(U$)": "0.03",
+  "Saldodaconta(U$)": "6.50"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - OHI - 13/08/21",
+  "Valor(U$)": "0.01",
+  "Saldodaconta(U$)": "6.51"
+ },
+ {
+  "Data": "23/02/2022",
+  "Hora": "19:42",
+  "Liquidação": "23/02/2022",
+  "Descrição": "AJUSTE Estorno Retencao Impostos Div - GLPI - 7/01/22",
+  "Valor(U$)": "0.05",
+  "Saldodaconta(U$)": "6.56"
+ },
+ {
+  "Data": "24/02/2022",
+  "Hora": "09:05",
+  "Liquidação": "24/02/2022",
+  "Descrição": "Câmbio Instantâneo : R$90.61",
+  "Valor(U$)": "17.49",
+  "Saldodaconta(U$)": "24.05"
+ },
+ {
+  "Data": "24/02/2022",
+  "Hora": "11:47",
+  "Liquidação": "28/02/2022",
+  "Descrição": "Compra de 0.43725 T a $ 22.87",
+  "Valor(U$)": "-10.00",
+  "Saldodaconta(U$)": "14.05"
+ },
+ {
+  "Data": "24/02/2022",
+  "Hora": "11:51",
+  "Liquidação": "28/02/2022",
+  "Descrição": "Compra de 0.03589 FB a $ 195.59",
+  "Valor(U$)": "-7.02",
+  "Saldodaconta(U$)": "7.03"
+ },
+ {
+  "Data": "24/02/2022",
+  "Hora": "11:52",
+  "Liquidação": "28/02/2022",
+  "Descrição": "Compra de 0.34362 GOOD a $ 20.46",
+  "Valor(U$)": "-7.03",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "01/03/2022",
+  "Hora": "06:25",
+  "Liquidação": "01/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.21",
+  "Saldodaconta(U$)": "-0.21"
+ },
+ {
+  "Data": "01/03/2022",
+  "Hora": "06:25",
+  "Liquidação": "01/03/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.71",
+  "Saldodaconta(U$)": "0.50"
+ },
+ {
+  "Data": "05/03/2022",
+  "Hora": "05:12",
+  "Liquidação": "07/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "0.36"
+ },
+ {
+  "Data": "05/03/2022",
+  "Hora": "05:12",
+  "Liquidação": "07/03/2022",
+  "Descrição": "Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "0.48",
+  "Saldodaconta(U$)": "0.84"
+ },
+ {
+  "Data": "11/03/2022",
+  "Hora": "04:04",
+  "Liquidação": "11/03/2022",
+  "Descrição": "Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "2.32",
+  "Saldodaconta(U$)": "3.16"
+ },
+ {
+  "Data": "11/03/2022",
+  "Hora": "04:04",
+  "Liquidação": "11/03/2022",
+  "Descrição": "Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "0.16",
+  "Saldodaconta(U$)": "3.32"
+ },
+ {
+  "Data": "11/03/2022",
+  "Hora": "04:04",
+  "Liquidação": "11/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "-0.86",
+  "Saldodaconta(U$)": "2.46"
+ },
+ {
+  "Data": "11/03/2022",
+  "Hora": "04:04",
+  "Liquidação": "11/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "-0.05",
+  "Saldodaconta(U$)": "2.41"
+ },
+ {
+  "Data": "15/03/2022",
+  "Hora": "12:47",
+  "Liquidação": "17/03/2022",
+  "Descrição": "Venda de 0.01681 AVGO a $ 595.59",
+  "Valor(U$)": "10.01",
+  "Saldodaconta(U$)": "12.42"
+ },
+ {
+  "Data": "15/03/2022",
+  "Hora": "12:48",
+  "Liquidação": "17/03/2022",
+  "Descrição": "Compra de 0.04141 PG a $ 149.94",
+  "Valor(U$)": "-6.21",
+  "Saldodaconta(U$)": "6.21"
+ },
+ {
+  "Data": "15/03/2022",
+  "Hora": "12:49",
+  "Liquidação": "17/03/2022",
+  "Descrição": "Compra de 0.10397 KO a $ 59.73",
+  "Valor(U$)": "-6.21",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "17/03/2022",
+  "Hora": "03:47",
+  "Liquidação": "17/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "-0.44",
+  "Saldodaconta(U$)": "-0.44"
+ },
+ {
+  "Data": "17/03/2022",
+  "Hora": "03:47",
+  "Liquidação": "17/03/2022",
+  "Descrição": "Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "1.46",
+  "Saldodaconta(U$)": "1.02"
+ },
+ {
+  "Data": "17/03/2022",
+  "Hora": "16:25",
+  "Liquidação": "21/03/2022",
+  "Descrição": "Venda de 0.03162 ABBV a $ 157.97",
+  "Valor(U$)": "5.00",
+  "Saldodaconta(U$)": "6.02"
+ },
+ {
+  "Data": "17/03/2022",
+  "Hora": "16:30",
+  "Liquidação": "21/03/2022",
+  "Descrição": "Venda de 0.0928 PFE a $ 53.87",
+  "Valor(U$)": "5.00",
+  "Saldodaconta(U$)": "11.02"
+ },
+ {
+  "Data": "17/03/2022",
+  "Hora": "16:31",
+  "Liquidação": "21/03/2022",
+  "Descrição": "Compra de 0.05334 FB a $ 206.39",
+  "Valor(U$)": "-11.01",
+  "Saldodaconta(U$)": "0.01"
+ },
+ {
+  "Data": "19/03/2022",
+  "Hora": "05:02",
+  "Liquidação": "21/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "-0.72",
+  "Saldodaconta(U$)": "-0.71"
+ },
+ {
+  "Data": "19/03/2022",
+  "Hora": "05:02",
+  "Liquidação": "21/03/2022",
+  "Descrição": "Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "2.40",
+  "Saldodaconta(U$)": "1.69"
+ },
+ {
+  "Data": "22/03/2022",
+  "Hora": "12:17",
+  "Liquidação": "24/03/2022",
+  "Descrição": "Venda de 0.00248 AMZN a $ 3314.99",
+  "Valor(U$)": "8.22",
+  "Saldodaconta(U$)": "9.91"
+ },
+ {
+  "Data": "22/03/2022",
+  "Hora": "12:19",
+  "Liquidação": "24/03/2022",
+  "Descrição": "Venda de 0.00185 GOOGL a $ 2810.7",
+  "Valor(U$)": "5.20",
+  "Saldodaconta(U$)": "15.11"
+ },
+ {
+  "Data": "22/03/2022",
+  "Hora": "12:21",
+  "Liquidação": "24/03/2022",
+  "Descrição": "Venda de 0.02875 MSFT a $ 304.75",
+  "Valor(U$)": "8.76",
+  "Saldodaconta(U$)": "23.87"
+ },
+ {
+  "Data": "22/03/2022",
+  "Hora": "12:35",
+  "Liquidação": "24/03/2022",
+  "Descrição": "Compra de 0.15798 PG a $ 151.09",
+  "Valor(U$)": "-23.87",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "26/03/2022",
+  "Hora": "03:06",
+  "Liquidação": "28/03/2022",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "1.72",
+  "Saldodaconta(U$)": "1.72"
+ },
+ {
+  "Data": "26/03/2022",
+  "Hora": "03:06",
+  "Liquidação": "28/03/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.52",
+  "Saldodaconta(U$)": "1.20"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:04",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "2.65",
+  "Saldodaconta(U$)": "3.85"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "3.62"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "3.48"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.56",
+  "Saldodaconta(U$)": "4.04"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.75",
+  "Saldodaconta(U$)": "4.79"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "0.48",
+  "Saldodaconta(U$)": "5.27"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "5.10"
+ },
+ {
+  "Data": "01/04/2022",
+  "Hora": "03:05",
+  "Liquidação": "01/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "-0.80",
+  "Saldodaconta(U$)": "4.30"
+ },
+ {
+  "Data": "02/04/2022",
+  "Hora": "03:50",
+  "Liquidação": "04/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos KO. COCA COLA COMPANY",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "4.28"
+ },
+ {
+  "Data": "02/04/2022",
+  "Hora": "03:50",
+  "Liquidação": "04/04/2022",
+  "Descrição": "Dividendos KO. COCA COLA COMPANY",
+  "Valor(U$)": "0.06",
+  "Saldodaconta(U$)": "4.34"
+ },
+ {
+  "Data": "04/04/2022",
+  "Hora": "13:35",
+  "Liquidação": "06/04/2022",
+  "Descrição": "Venda de 0.00299 AMZN a $ 3345.74",
+  "Valor(U$)": "10.00",
+  "Saldodaconta(U$)": "14.34"
+ },
+ {
+  "Data": "04/04/2022",
+  "Hora": "13:40",
+  "Liquidação": "06/04/2022",
+  "Descrição": "Compra de 0.0946 WMT a $ 151.58",
+  "Valor(U$)": "-14.34",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:31",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Venda de 1.27511 WBD a $ 26.01",
+  "Valor(U$)": "33.17",
+  "Saldodaconta(U$)": "33.17"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:32",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Compra de 1.70715 T a $ 19.43",
+  "Valor(U$)": "-33.17",
+  "Saldodaconta(U$)": "NaN"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:37",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Venda de 0.18832 EPD a $ 26.61",
+  "Valor(U$)": "5.01",
+  "Saldodaconta(U$)": "5.01"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:39",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Venda de 0.43782 ET a $ 11.42",
+  "Valor(U$)": "5.00",
+  "Saldodaconta(U$)": "10.01"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:40",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Compra de 0.03188 WMT a $ 156.81",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "5.01"
+ },
+ {
+  "Data": "14/04/2022",
+  "Hora": "11:41",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Compra de 0.0768 KO a $ 65.23",
+  "Valor(U$)": "-5.01",
+  "Saldodaconta(U$)": "NaN"
+ },
+ {
+  "Data": "15/04/2022",
+  "Hora": "04:38",
+  "Liquidação": "18/04/2022",
+  "Descrição": "Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "0.52",
+  "Saldodaconta(U$)": "0.52"
+ },
+ {
+  "Data": "15/04/2022",
+  "Hora": "04:38",
+  "Liquidação": "18/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+  "Valor(U$)": "-0.16",
+  "Saldodaconta(U$)": "0.36"
+ },
+ {
+  "Data": "19/04/2022",
+  "Hora": "02:54",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "2.10",
+  "Saldodaconta(U$)": "2.46"
+ },
+ {
+  "Data": "19/04/2022",
+  "Hora": "02:54",
+  "Liquidação": "19/04/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.63",
+  "Saldodaconta(U$)": "1.83"
+ },
+ {
+  "Data": "30/04/2022",
+  "Hora": "04:23",
+  "Liquidação": "02/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "1.60"
+ },
+ {
+  "Data": "30/04/2022",
+  "Hora": "04:23",
+  "Liquidação": "02/05/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.75",
+  "Saldodaconta(U$)": "2.35"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:02",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "-0.12",
+  "Saldodaconta(U$)": "2.23"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:03",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "2.78"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:03",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "2.61"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:03",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos T. AT&T INC",
+  "Valor(U$)": "-0.44",
+  "Saldodaconta(U$)": "2.17"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:03",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "0.40",
+  "Saldodaconta(U$)": "2.57"
+ },
+ {
+  "Data": "03/05/2022",
+  "Hora": "03:03",
+  "Liquidação": "03/05/2022",
+  "Descrição": "Dividendos T. AT&T INC",
+  "Valor(U$)": "1.46",
+  "Saldodaconta(U$)": "4.03"
+ },
+ {
+  "Data": "13/05/2022",
+  "Hora": "03:17",
+  "Liquidação": "13/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "-0.78",
+  "Saldodaconta(U$)": "3.25"
+ },
+ {
+  "Data": "13/05/2022",
+  "Hora": "03:17",
+  "Liquidação": "13/05/2022",
+  "Descrição": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "2.12",
+  "Saldodaconta(U$)": "5.37"
+ },
+ {
+  "Data": "13/05/2022",
+  "Hora": "13:53",
+  "Liquidação": "17/05/2022",
+  "Descrição": "Compra de 0.03647 WMT a $ 147.23",
+  "Valor(U$)": "-5.37",
+  "Saldodaconta(U$)": "NaN"
+ },
+ {
+  "Data": "14/05/2022",
+  "Hora": "04:51",
+  "Liquidação": "16/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "-0.74",
+  "Saldodaconta(U$)": "-0.74"
+ },
+ {
+  "Data": "14/05/2022",
+  "Hora": "04:51",
+  "Liquidação": "16/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "-0.51",
+  "Saldodaconta(U$)": "-1.25"
+ },
+ {
+  "Data": "14/05/2022",
+  "Hora": "04:51",
+  "Liquidação": "16/05/2022",
+  "Descrição": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+  "Valor(U$)": "2.46",
+  "Saldodaconta(U$)": "1.21"
+ },
+ {
+  "Data": "14/05/2022",
+  "Hora": "04:51",
+  "Liquidação": "16/05/2022",
+  "Descrição": "Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "1.39",
+  "Saldodaconta(U$)": "2.60"
+ },
+ {
+  "Data": "17/05/2022",
+  "Hora": "05:21",
+  "Liquidação": "17/05/2022",
+  "Descrição": "Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "1.03",
+  "Saldodaconta(U$)": "3.63"
+ },
+ {
+  "Data": "17/05/2022",
+  "Hora": "05:21",
+  "Liquidação": "17/05/2022",
+  "Descrição": "Dividendos PG. PROCTER & GAMBLE CO",
+  "Valor(U$)": "0.23",
+  "Saldodaconta(U$)": "3.86"
+ },
+ {
+  "Data": "17/05/2022",
+  "Hora": "05:21",
+  "Liquidação": "17/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+  "Valor(U$)": "-0.31",
+  "Saldodaconta(U$)": "3.55"
+ },
+ {
+  "Data": "17/05/2022",
+  "Hora": "05:21",
+  "Liquidação": "17/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos PG. PROCTER & GAMBLE CO",
+  "Valor(U$)": "-0.07",
+  "Saldodaconta(U$)": "3.48"
+ },
+ {
+  "Data": "20/05/2022",
+  "Hora": "03:28",
+  "Liquidação": "20/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "-0.52",
+  "Saldodaconta(U$)": "2.96"
+ },
+ {
+  "Data": "20/05/2022",
+  "Hora": "03:28",
+  "Liquidação": "20/05/2022",
+  "Descrição": "Dividendos ET. ENERGY TRANSFER LP",
+  "Valor(U$)": "1.41",
+  "Saldodaconta(U$)": "4.37"
+ },
+ {
+  "Data": "25/05/2022",
+  "Hora": "03:54",
+  "Liquidação": "25/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "-0.44",
+  "Saldodaconta(U$)": "3.93"
+ },
+ {
+  "Data": "25/05/2022",
+  "Hora": "03:54",
+  "Liquidação": "25/05/2022",
+  "Descrição": "Dividendos HTGC. HERCULES CAPITAL INC",
+  "Valor(U$)": "1.46",
+  "Saldodaconta(U$)": "5.39"
+ },
+ {
+  "Data": "27/05/2022",
+  "Hora": "03:08",
+  "Liquidação": "27/05/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "-0.86",
+  "Saldodaconta(U$)": "4.53"
+ },
+ {
+  "Data": "27/05/2022",
+  "Hora": "03:08",
+  "Liquidação": "27/05/2022",
+  "Descrição": "Dividendos PBFX. PBF LOGISTICS LP",
+  "Valor(U$)": "2.32",
+  "Saldodaconta(U$)": "6.85"
+ },
+ {
+  "Data": "27/05/2022",
+  "Hora": "10:55",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Compra de 0.05389 WMT a $ 127.11",
+  "Valor(U$)": "-6.85",
+  "Saldodaconta(U$)": "NaN"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.75",
+  "Saldodaconta(U$)": "0.75"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos WMT. WALMART INC",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "0.73"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "-0.74",
+  "Saldodaconta(U$)": "-0.01"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "-0.24"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Dividendos ABR. ARBOR REALTY TRUST INC",
+  "Valor(U$)": "2.47",
+  "Saldodaconta(U$)": "2.23"
+ },
+ {
+  "Data": "01/06/2022",
+  "Hora": "03:22",
+  "Liquidação": "01/06/2022",
+  "Descrição": "Dividendos WMT. WALMART INC",
+  "Valor(U$)": "0.07",
+  "Saldodaconta(U$)": "2.30"
+ },
+ {
+  "Data": "07/06/2022",
+  "Hora": "13:45",
+  "Liquidação": "09/06/2022",
+  "Descrição": "Venda de 0.288 PBFX a $ 17.41",
+  "Valor(U$)": "5.01",
+  "Saldodaconta(U$)": "7.31"
+ },
+ {
+  "Data": "07/06/2022",
+  "Hora": "13:45",
+  "Liquidação": "09/06/2022",
+  "Descrição": "Venda de 0.18 EPD a $ 28.27",
+  "Valor(U$)": "5.09",
+  "Saldodaconta(U$)": "12.40"
+ },
+ {
+  "Data": "07/06/2022",
+  "Hora": "13:46",
+  "Liquidação": "09/06/2022",
+  "Descrição": "Compra de 0.07959 KO a $ 62.82",
+  "Valor(U$)": "-5.00",
+  "Saldodaconta(U$)": "7.40"
+ },
+ {
+  "Data": "07/06/2022",
+  "Hora": "13:48",
+  "Liquidação": "09/06/2022",
+  "Descrição": "Compra de 0.52744 HTGC a $ 14.03",
+  "Valor(U$)": "-7.40",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "10/06/2022",
+  "Hora": "03:05",
+  "Liquidação": "10/06/2022",
+  "Descrição": "Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "0.14",
+  "Saldodaconta(U$)": "0.14"
+ },
+ {
+  "Data": "10/06/2022",
+  "Hora": "03:05",
+  "Liquidação": "10/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+  "Valor(U$)": "-0.04",
+  "Saldodaconta(U$)": "0.10"
+ },
+ {
+  "Data": "11/06/2022",
+  "Hora": "03:25",
+  "Liquidação": "13/06/2022",
+  "Descrição": "Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "0.45",
+  "Saldodaconta(U$)": "0.55"
+ },
+ {
+  "Data": "11/06/2022",
+  "Hora": "03:25",
+  "Liquidação": "13/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "0.41"
+ },
+ {
+  "Data": "13/06/2022",
+  "Hora": "12:21",
+  "Liquidação": "13/06/2022",
+  "Descrição": "Câmbio Instantâneo : R$49.81",
+  "Valor(U$)": "9.50",
+  "Saldodaconta(U$)": "9.91"
+ },
+ {
+  "Data": "13/06/2022",
+  "Hora": "12:23",
+  "Liquidação": "15/06/2022",
+  "Descrição": "Compra de 0.08254 WMT a $ 120.06",
+  "Valor(U$)": "-9.91",
+  "Saldodaconta(U$)": "-0.00"
+ },
+ {
+  "Data": "25/06/2022",
+  "Hora": "03:39",
+  "Liquidação": "27/06/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "-0.53",
+  "Saldodaconta(U$)": "-0.53"
+ },
+ {
+  "Data": "25/06/2022",
+  "Hora": "03:39",
+  "Liquidação": "27/06/2022",
+  "Descrição": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+  "Valor(U$)": "1.75",
+  "Saldodaconta(U$)": "1.22"
+ },
+ {
+  "Data": "28/06/2022",
+  "Hora": "16:17",
+  "Liquidação": "29/06/2022",
+  "Descrição": "Câmbio Padrão : R$109.58",
+  "Valor(U$)": "20.39",
+  "Saldodaconta(U$)": "21.61"
+ },
+ {
+  "Data": "28/06/2022",
+  "Hora": "16:19",
+  "Liquidação": "30/06/2022",
+  "Descrição": "Venda de 0.4891 WPC a $ 86.31",
+  "Valor(U$)": "42.21",
+  "Saldodaconta(U$)": "63.82"
+ },
+ {
+  "Data": "28/06/2022",
+  "Hora": "16:26",
+  "Liquidação": "30/06/2022",
+  "Descrição": "Compra de 1.11607 ABR a $ 13.44",
+  "Valor(U$)": "-15.00",
+  "Saldodaconta(U$)": "48.82"
+ },
+ {
+  "Data": "28/06/2022",
+  "Hora": "16:27",
+  "Liquidação": "30/06/2022",
+  "Descrição": "Compra de 0.80775 TSLX a $ 18.57",
+  "Valor(U$)": "-15.00",
+  "Saldodaconta(U$)": "33.82"
+ },
+ {
+  "Data": "28/06/2022",
+  "Hora": "16:29",
+  "Liquidação": "30/06/2022",
+  "Descrição": "Compra de 0.71209 GOOD a $ 18.86",
+  "Valor(U$)": "-13.43",
+  "Saldodaconta(U$)": "20.39"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:24",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "-0.80",
+  "Saldodaconta(U$)": "19.59"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:24",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "0.48",
+  "Saldodaconta(U$)": "20.07"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:24",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.75",
+  "Saldodaconta(U$)": "20.82"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:24",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+  "Valor(U$)": "-0.14",
+  "Saldodaconta(U$)": "20.68"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:24",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+  "Valor(U$)": "2.65",
+  "Saldodaconta(U$)": "23.33"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:27",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.23",
+  "Saldodaconta(U$)": "23.10"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:27",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "0.20",
+  "Saldodaconta(U$)": "23.30"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "03:27",
+  "Liquidação": "01/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.06",
+  "Saldodaconta(U$)": "23.24"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "10:46",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Venda de 0.65 PBFX a $ 15.33",
+  "Valor(U$)": "9.96",
+  "Saldodaconta(U$)": "33.20"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "10:47",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Venda de 0.25 EPD a $ 24.43",
+  "Valor(U$)": "6.11",
+  "Saldodaconta(U$)": "39.31"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "10:53",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Venda de 0.357 PBFX a $ 15.42",
+  "Valor(U$)": "5.50",
+  "Saldodaconta(U$)": "44.81"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "11:13",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Compra de 0.85809 HTGC a $ 13.5",
+  "Valor(U$)": "-11.58",
+  "Saldodaconta(U$)": "33.23"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "11:20",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Compra de 0.30872 APAM a $ 35.63",
+  "Valor(U$)": "-11.00",
+  "Saldodaconta(U$)": "22.23"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "11:21",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Compra de 0.5911 STWD a $ 20.69",
+  "Valor(U$)": "-12.23",
+  "Saldodaconta(U$)": "10.00"
+ },
+ {
+  "Data": "01/07/2022",
+  "Hora": "11:22",
+  "Liquidação": "06/07/2022",
+  "Descrição": "Compra de 0.99207 GLAD a $ 10.08",
+  "Valor(U$)": "-10.00",
+  "Saldodaconta(U$)": "0.00"
+ },
+ {
+  "Data": "02/07/2022",
+  "Hora": "03:30",
+  "Liquidação": "05/07/2022",
+  "Descrição": "Dividendos KO. COCA COLA COMPANY",
+  "Valor(U$)": "0.18",
+  "Saldodaconta(U$)": "0.18"
+ },
+ {
+  "Data": "02/07/2022",
+  "Hora": "03:30",
+  "Liquidação": "05/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos KO. COCA COLA COMPANY",
+  "Valor(U$)": "-0.05",
+  "Saldodaconta(U$)": "0.13"
+ },
+ {
+  "Data": "16/07/2022",
+  "Hora": "04:44",
+  "Liquidação": "18/07/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "-0.63",
+  "Saldodaconta(U$)": "-0.50"
+ },
+ {
+  "Data": "16/07/2022",
+  "Hora": "04:44",
+  "Liquidação": "18/07/2022",
+  "Descrição": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+  "Valor(U$)": "2.10",
+  "Saldodaconta(U$)": "1.60"
+ },
+ {
+  "Data": "30/07/2022",
+  "Hora": "03:21",
+  "Liquidação": "01/08/2022",
+  "Descrição": "Dividendos GLAD. GLADSTONE CAPITAL CORP",
+  "Valor(U$)": "0.07",
+  "Saldodaconta(U$)": "1.67"
+ },
+ {
+  "Data": "30/07/2022",
+  "Hora": "03:21",
+  "Liquidação": "01/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GLAD. GLADSTONE CAPITAL CORP",
+  "Valor(U$)": "-0.02",
+  "Saldodaconta(U$)": "1.65"
+ },
+ {
+  "Data": "30/07/2022",
+  "Hora": "03:21",
+  "Liquidação": "01/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "-0.25",
+  "Saldodaconta(U$)": "1.40"
+ },
+ {
+  "Data": "30/07/2022",
+  "Hora": "03:21",
+  "Liquidação": "01/08/2022",
+  "Descrição": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+  "Valor(U$)": "0.84",
+  "Saldodaconta(U$)": "2.24"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:20",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos T. AT&T INC",
+  "Valor(U$)": "-0.58",
+  "Saldodaconta(U$)": "1.66"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:20",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Dividendos T. AT&T INC",
+  "Valor(U$)": "1.94",
+  "Saldodaconta(U$)": "3.60"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:23",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "-0.12",
+  "Saldodaconta(U$)": "3.48"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:23",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "-0.17",
+  "Saldodaconta(U$)": "3.31"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:23",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Dividendos VZ. VERIZON COMMUNICATIONS",
+  "Valor(U$)": "0.40",
+  "Saldodaconta(U$)": "3.71"
+ },
+ {
+  "Data": "02/08/2022",
+  "Hora": "03:23",
+  "Liquidação": "02/08/2022",
+  "Descrição": "Dividendos JPM. JPMORGAN CHASE & CO",
+  "Valor(U$)": "0.55",
+  "Saldodaconta(U$)": "4.26"
+ },
+ {
+  "Data": "13/08/2022",
+  "Hora": "03:12",
+  "Liquidação": "15/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "-0.73",
+  "Saldodaconta(U$)": "3.53"
+ },
+ {
+  "Data": "13/08/2022",
+  "Hora": "03:12",
+  "Liquidação": "15/08/2022",
+  "Descrição": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "-0.51",
+  "Saldodaconta(U$)": "3.02"
+ },
+ {
+  "Data": "13/08/2022",
+  "Hora": "03:12",
+  "Liquidação": "15/08/2022",
+  "Descrição": "Dividendos MPLX. MPLX LP",
+  "Valor(U$)": "1.39",
+  "Saldodaconta(U$)": "4.41"
+ },
+ {
+  "Data": "13/08/2022",
+  "Hora": "03:12",
+  "Liquidação": "15/08/2022",
+  "Descrição": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+  "Valor(U$)": "1.96",
+  "Saldodaconta(U$)": "6.37"
  }
 ]

@@ -1,0 +1,4514 @@
+[
+    {
+        "transaction_date": "30/11/2020",
+        "transaction_time": "14:20",
+        "transaction_settlement": "30/11/2020",
+        "transaction_description": "Câmbio Instantâneo : R$99.62",
+        "transaction_amount": "18.05",
+        "total_balance": "18.05"
+    },
+    {
+        "transaction_date": "30/11/2020",
+        "transaction_time": "14:32",
+        "transaction_settlement": "02/12/2020",
+        "transaction_description": "Corretagem PYPL",
+        "transaction_amount": "-1.00",
+        "total_balance": "17.05"
+    },
+    {
+        "transaction_date": "30/11/2020",
+        "transaction_time": "14:32",
+        "transaction_settlement": "02/12/2020",
+        "transaction_description": "Compra de 0.047 PYPL a $ 212.14",
+        "transaction_amount": "-9.97",
+        "total_balance": "7.08"
+    },
+    {
+        "transaction_date": "30/11/2020",
+        "transaction_time": "14:32",
+        "transaction_settlement": "02/12/2020",
+        "transaction_description": "Compra de 0.0285 PYPL a $ 212.19",
+        "transaction_amount": "-6.05",
+        "total_balance": "1.03"
+    },
+    {
+        "transaction_date": "30/11/2020",
+        "transaction_time": "14:32",
+        "transaction_settlement": "02/12/2020",
+        "transaction_description": "Corretagem PYPL",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.03"
+    },
+    {
+        "transaction_date": "03/12/2020",
+        "transaction_time": "17:15",
+        "transaction_settlement": "04/12/2020",
+        "transaction_description": "Câmbio Padrão : R$99.62",
+        "transaction_amount": "19.02",
+        "total_balance": "19.05"
+    },
+    {
+        "transaction_date": "04/12/2020",
+        "transaction_time": "11:33",
+        "transaction_settlement": "08/12/2020",
+        "transaction_description": "Corretagem SRC",
+        "transaction_amount": "-1.00",
+        "total_balance": "18.05"
+    },
+    {
+        "transaction_date": "04/12/2020",
+        "transaction_time": "11:33",
+        "transaction_settlement": "08/12/2020",
+        "transaction_description": "Compra de 0.4692 SRC a $ 38.27",
+        "transaction_amount": "-17.96",
+        "total_balance": "0.09"
+    },
+    {
+        "transaction_date": "16/12/2020",
+        "transaction_time": "10:05",
+        "transaction_settlement": "16/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$99.63",
+        "transaction_amount": "19.02",
+        "total_balance": "19.11"
+    },
+    {
+        "transaction_date": "16/12/2020",
+        "transaction_time": "11:34",
+        "transaction_settlement": "18/12/2020",
+        "transaction_description": "Compra de 0.2661 WPC a $ 71.47",
+        "transaction_amount": "-19.02",
+        "total_balance": "0.09"
+    },
+    {
+        "transaction_date": "18/12/2020",
+        "transaction_time": "11:33",
+        "transaction_settlement": "18/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$189.63",
+        "transaction_amount": "36.23",
+        "total_balance": "36.32"
+    },
+    {
+        "transaction_date": "18/12/2020",
+        "transaction_time": "11:48",
+        "transaction_settlement": "22/12/2020",
+        "transaction_description": "Compra de 0.515 NHI a $ 70.21",
+        "transaction_amount": "-36.16",
+        "total_balance": "0.16"
+    },
+    {
+        "transaction_date": "21/12/2020",
+        "transaction_time": "11:31",
+        "transaction_settlement": "21/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$159.05",
+        "transaction_amount": "30.03",
+        "total_balance": "30.19"
+    },
+    {
+        "transaction_date": "21/12/2020",
+        "transaction_time": "11:33",
+        "transaction_settlement": "23/12/2020",
+        "transaction_description": "Compra de 0.0204 T a $ 29.04",
+        "transaction_amount": "-0.59",
+        "total_balance": "29.60"
+    },
+    {
+        "transaction_date": "21/12/2020",
+        "transaction_time": "11:33",
+        "transaction_settlement": "23/12/2020",
+        "transaction_description": "Compra de 1 T a $ 29.04",
+        "transaction_amount": "-29.04",
+        "total_balance": "0.56"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:05",
+        "transaction_settlement": "22/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$125.52",
+        "transaction_amount": "23.72",
+        "total_balance": "24.28"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:07",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.1726 WPC a $ 69.82",
+        "transaction_amount": "-12.05",
+        "total_balance": "12.23"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:07",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.306 SRC a $ 39.73",
+        "transaction_amount": "-12.16",
+        "total_balance": "0.07"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:08",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Venda de 0.0755 PYPL a $ 240.9",
+        "transaction_amount": "18.19",
+        "total_balance": "18.26"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:10",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.1568 T a $ 28.57",
+        "transaction_amount": "-4.48",
+        "total_balance": "13.78"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:10",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.1127 SRC a $ 39.77",
+        "transaction_amount": "-4.48",
+        "total_balance": "9.30"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:10",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.064 WPC a $ 69.76",
+        "transaction_amount": "-4.46",
+        "total_balance": "4.84"
+    },
+    {
+        "transaction_date": "22/12/2020",
+        "transaction_time": "14:11",
+        "transaction_settlement": "24/12/2020",
+        "transaction_description": "Compra de 0.1687 T a $ 28.57",
+        "transaction_amount": "-4.82",
+        "total_balance": "0.02"
+    },
+    {
+        "transaction_date": "28/12/2020",
+        "transaction_time": "09:16",
+        "transaction_settlement": "28/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$62.76",
+        "transaction_amount": "11.83",
+        "total_balance": "11.85"
+    },
+    {
+        "transaction_date": "28/12/2020",
+        "transaction_time": "11:47",
+        "transaction_settlement": "30/12/2020",
+        "transaction_description": "Corretagem OKE",
+        "transaction_amount": "-1.00",
+        "total_balance": "10.85"
+    },
+    {
+        "transaction_date": "28/12/2020",
+        "transaction_time": "11:47",
+        "transaction_settlement": "30/12/2020",
+        "transaction_description": "Compra de 0.2756 OKE a $ 38.92",
+        "transaction_amount": "-10.73",
+        "total_balance": "0.12"
+    },
+    {
+        "transaction_date": "29/12/2020",
+        "transaction_time": "11:36",
+        "transaction_settlement": "29/12/2020",
+        "transaction_description": "Câmbio Instantâneo : R$28.21",
+        "transaction_amount": "5.31",
+        "total_balance": "5.43"
+    },
+    {
+        "transaction_date": "29/12/2020",
+        "transaction_time": "11:40",
+        "transaction_settlement": "31/12/2020",
+        "transaction_description": "Compra de 0.114 OKE a $ 38.57",
+        "transaction_amount": "-4.40",
+        "total_balance": "1.03"
+    },
+    {
+        "transaction_date": "29/12/2020",
+        "transaction_time": "11:40",
+        "transaction_settlement": "31/12/2020",
+        "transaction_description": "Corretagem OKE",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.03"
+    },
+    {
+        "transaction_date": "19/01/2021",
+        "transaction_time": "03:59",
+        "transaction_settlement": "19/01/2021",
+        "transaction_description": "Dividendos WPC. WPC dividend, $1.046/share",
+        "transaction_amount": "0.53",
+        "total_balance": "0.56"
+    },
+    {
+        "transaction_date": "19/01/2021",
+        "transaction_time": "03:59",
+        "transaction_settlement": "19/01/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. WPC tax, 30% withheld",
+        "transaction_amount": "-0.16",
+        "total_balance": "0.40"
+    },
+    {
+        "transaction_date": "19/01/2021",
+        "transaction_time": "03:59",
+        "transaction_settlement": "19/01/2021",
+        "transaction_description": "Dividendos SRC. SRC dividend, $0.625/share",
+        "transaction_amount": "0.55",
+        "total_balance": "0.95"
+    },
+    {
+        "transaction_date": "19/01/2021",
+        "transaction_time": "03:59",
+        "transaction_settlement": "19/01/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos SRC. SRC tax, 30% withheld",
+        "transaction_amount": "-0.17",
+        "total_balance": "0.78"
+    },
+    {
+        "transaction_date": "27/01/2021",
+        "transaction_time": "16:25",
+        "transaction_settlement": "28/01/2021",
+        "transaction_description": "Câmbio Padrão : R$47.04",
+        "transaction_amount": "8.54",
+        "total_balance": "9.32"
+    },
+    {
+        "transaction_date": "28/01/2021",
+        "transaction_time": "10:22",
+        "transaction_settlement": "28/01/2021",
+        "transaction_description": "Câmbio Instantâneo : R$39.51",
+        "transaction_amount": "7.08",
+        "total_balance": "16.40"
+    },
+    {
+        "transaction_date": "28/01/2021",
+        "transaction_time": "11:45",
+        "transaction_settlement": "01/02/2021",
+        "transaction_description": "Compra de 1 WES a $ 14.95",
+        "transaction_amount": "-14.95",
+        "total_balance": "1.45"
+    },
+    {
+        "transaction_date": "28/01/2021",
+        "transaction_time": "11:45",
+        "transaction_settlement": "01/02/2021",
+        "transaction_description": "Compra de 0.0555 WES a $ 14.95",
+        "transaction_amount": "-0.83",
+        "total_balance": "0.62"
+    },
+    {
+        "transaction_date": "01/02/2021",
+        "transaction_time": "05:59",
+        "transaction_settlement": "01/02/2021",
+        "transaction_description": "Dividendos NHI. NHI dividend, $1.1025/share",
+        "transaction_amount": "0.57",
+        "total_balance": "1.19"
+    },
+    {
+        "transaction_date": "01/02/2021",
+        "transaction_time": "05:59",
+        "transaction_settlement": "01/02/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos NHI. NHI tax, 30% withheld",
+        "transaction_amount": "-0.17",
+        "total_balance": "1.02"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "03:45",
+        "transaction_settlement": "02/02/2021",
+        "transaction_description": "Dividendos T. T dividend, $0.52/share",
+        "transaction_amount": "0.70",
+        "total_balance": "1.72"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "03:55",
+        "transaction_settlement": "02/02/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos T. T tax, 30% withheld",
+        "transaction_amount": "-0.21",
+        "total_balance": "1.51"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "10:32",
+        "transaction_settlement": "02/02/2021",
+        "transaction_description": "Câmbio Instantâneo : R$498.11",
+        "transaction_amount": "90.07",
+        "total_balance": "91.58"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "11:46",
+        "transaction_settlement": "04/02/2021",
+        "transaction_description": "Compra de 1 KO a $ 48.82",
+        "transaction_amount": "-48.82",
+        "total_balance": "42.76"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "11:46",
+        "transaction_settlement": "04/02/2021",
+        "transaction_description": "Compra de 0.8677 KO a $ 48.82",
+        "transaction_amount": "-42.36",
+        "total_balance": "0.40"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "11:59",
+        "transaction_settlement": "04/02/2021",
+        "transaction_description": "Venda de 0.8879 SRC a $ 39.01",
+        "transaction_amount": "34.64",
+        "total_balance": "35.04"
+    },
+    {
+        "transaction_date": "02/02/2021",
+        "transaction_time": "12:01",
+        "transaction_settlement": "04/02/2021",
+        "transaction_description": "Compra de 0.7633 XOM a $ 45.71",
+        "transaction_amount": "-34.89",
+        "total_balance": "0.15"
+    },
+    {
+        "transaction_date": "04/02/2021",
+        "transaction_time": "12:02",
+        "transaction_settlement": "08/02/2021",
+        "transaction_description": "Venda de 0.3896 OKE a $ 42.84",
+        "transaction_amount": "16.69",
+        "total_balance": "16.84"
+    },
+    {
+        "transaction_date": "04/02/2021",
+        "transaction_time": "12:03",
+        "transaction_settlement": "08/02/2021",
+        "transaction_description": "Compra de 0.6867 MPLX a $ 24.31",
+        "transaction_amount": "-16.69",
+        "total_balance": "0.15"
+    },
+    {
+        "transaction_date": "05/02/2021",
+        "transaction_time": "11:49",
+        "transaction_settlement": "09/02/2021",
+        "transaction_description": "Venda de 1 T a $ 28.97",
+        "transaction_amount": "28.97",
+        "total_balance": "29.12"
+    },
+    {
+        "transaction_date": "05/02/2021",
+        "transaction_time": "11:49",
+        "transaction_settlement": "09/02/2021",
+        "transaction_description": "Venda de 0.3459 T a $ 28.97",
+        "transaction_amount": "10.02",
+        "total_balance": "39.14"
+    },
+    {
+        "transaction_date": "05/02/2021",
+        "transaction_time": "12:01",
+        "transaction_settlement": "09/02/2021",
+        "transaction_description": "Venda de 1 WES a $ 16.2",
+        "transaction_amount": "16.20",
+        "total_balance": "55.34"
+    },
+    {
+        "transaction_date": "05/02/2021",
+        "transaction_time": "12:01",
+        "transaction_settlement": "09/02/2021",
+        "transaction_description": "Venda de 0.0555 WES a $ 16.2",
+        "transaction_amount": "0.90",
+        "total_balance": "56.24"
+    },
+    {
+        "transaction_date": "05/02/2021",
+        "transaction_time": "12:15",
+        "transaction_settlement": "09/02/2021",
+        "transaction_description": "Compra de 0.263 MCD a $ 212.13",
+        "transaction_amount": "-55.79",
+        "total_balance": "0.45"
+    },
+    {
+        "transaction_date": "10/02/2021",
+        "transaction_time": "11:45",
+        "transaction_settlement": "12/02/2021",
+        "transaction_description": "Venda de 0.7633 XOM a $ 51.39",
+        "transaction_amount": "39.23",
+        "total_balance": "39.68"
+    },
+    {
+        "transaction_date": "10/02/2021",
+        "transaction_time": "11:48",
+        "transaction_settlement": "12/02/2021",
+        "transaction_description": "Compra de 0.1445 FB a $ 272.17",
+        "transaction_amount": "-39.33",
+        "total_balance": "0.35"
+    },
+    {
+        "transaction_date": "16/02/2021",
+        "transaction_time": "02:28",
+        "transaction_settlement": "16/02/2021",
+        "transaction_description": "Dividendos MPLX. MPLX return-of-capital, $0.6875/share",
+        "transaction_amount": "0.47",
+        "total_balance": "0.82"
+    },
+    {
+        "transaction_date": "16/02/2021",
+        "transaction_time": "02:30",
+        "transaction_settlement": "16/02/2021",
+        "transaction_description": "Dividendos OKE. OKE dividend, $0.935/share",
+        "transaction_amount": "0.36",
+        "total_balance": "1.18"
+    },
+    {
+        "transaction_date": "16/02/2021",
+        "transaction_time": "02:30",
+        "transaction_settlement": "16/02/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos OKE. OKE tax, 30% withheld",
+        "transaction_amount": "-0.11",
+        "total_balance": "1.07"
+    },
+    {
+        "transaction_date": "16/02/2021",
+        "transaction_time": "02:30",
+        "transaction_settlement": "16/02/2021",
+        "transaction_description": "Dividendos WES. WES return-of-capital, $0.311/share",
+        "transaction_amount": "0.33",
+        "total_balance": "1.40"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:58",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Venda de 1 KO a $ 50.1",
+        "transaction_amount": "50.10",
+        "total_balance": "51.50"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:58",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Venda de 0.8677 KO a $ 50.1",
+        "transaction_amount": "43.47",
+        "total_balance": "94.97"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:58",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem KO",
+        "transaction_amount": "-1.00",
+        "total_balance": "93.97"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:59",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Venda de 0.263 MCD a $ 213.47",
+        "transaction_amount": "56.14",
+        "total_balance": "150.11"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:59",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem MCD",
+        "transaction_amount": "-1.00",
+        "total_balance": "149.11"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:59",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem FB",
+        "transaction_amount": "-1.00",
+        "total_balance": "148.11"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "16:59",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Venda de 0.1445 FB a $ 261.52",
+        "transaction_amount": "37.79",
+        "total_balance": "185.90"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 0.6841 IEP a $ 65.4",
+        "transaction_amount": "-44.74",
+        "total_balance": "141.16"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem IEP",
+        "transaction_amount": "-1.00",
+        "total_balance": "140.16"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 1 GLPI a $ 43.17",
+        "transaction_amount": "-43.17",
+        "total_balance": "96.99"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 0.0367 GLPI a $ 43.17",
+        "transaction_amount": "-1.58",
+        "total_balance": "95.41"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem GLPI",
+        "transaction_amount": "-1.00",
+        "total_balance": "94.41"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem IIPR",
+        "transaction_amount": "-1.00",
+        "total_balance": "93.41"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:06",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 0.2078 IIPR a $ 215.31",
+        "transaction_amount": "-44.74",
+        "total_balance": "48.67"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:07",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 2 BPY a $ 17.87",
+        "transaction_amount": "-35.74",
+        "total_balance": "12.93"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:07",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Corretagem BPY",
+        "transaction_amount": "-1.00",
+        "total_balance": "11.93"
+    },
+    {
+        "transaction_date": "19/02/2021",
+        "transaction_time": "17:07",
+        "transaction_settlement": "23/02/2021",
+        "transaction_description": "Compra de 0.6504 BPY a $ 17.87",
+        "transaction_amount": "-11.62",
+        "total_balance": "0.31"
+    },
+    {
+        "transaction_date": "24/02/2021",
+        "transaction_time": "10:11",
+        "transaction_settlement": "24/02/2021",
+        "transaction_description": "Câmbio Instantâneo : R$59.7",
+        "transaction_amount": "10.77",
+        "total_balance": "11.08"
+    },
+    {
+        "transaction_date": "24/02/2021",
+        "transaction_time": "11:32",
+        "transaction_settlement": "26/02/2021",
+        "transaction_description": "Compra de 0.9247 BRMK a $ 10.81",
+        "transaction_amount": "-10.00",
+        "total_balance": "1.08"
+    },
+    {
+        "transaction_date": "24/02/2021",
+        "transaction_time": "11:32",
+        "transaction_settlement": "26/02/2021",
+        "transaction_description": "Corretagem BRMK",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.08"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "13:14",
+        "transaction_settlement": "25/02/2021",
+        "transaction_description": "Câmbio Instantâneo : R$298.86",
+        "transaction_amount": "52.90",
+        "total_balance": "52.98"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "13:20",
+        "transaction_settlement": "01/03/2021",
+        "transaction_description": "Compra de 1 ABR a $ 16.56",
+        "transaction_amount": "-16.56",
+        "total_balance": "36.42"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "13:20",
+        "transaction_settlement": "01/03/2021",
+        "transaction_description": "Compra de 0.1128 ABR a $ 16.56",
+        "transaction_amount": "-1.87",
+        "total_balance": "34.55"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "13:20",
+        "transaction_settlement": "01/03/2021",
+        "transaction_description": "Corretagem ABR",
+        "transaction_amount": "-1.00",
+        "total_balance": "33.55"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "13:20",
+        "transaction_settlement": "01/03/2021",
+        "transaction_description": "Compra de 2 ABR a $ 16.56",
+        "transaction_amount": "-33.12",
+        "total_balance": "0.43"
+    },
+    {
+        "transaction_date": "25/02/2021",
+        "transaction_time": "14:50",
+        "transaction_settlement": "26/02/2021",
+        "transaction_description": "Câmbio Padrão : R$199.24",
+        "transaction_amount": "35.43",
+        "total_balance": "35.86"
+    },
+    {
+        "transaction_date": "26/02/2021",
+        "transaction_time": "11:54",
+        "transaction_settlement": "02/03/2021",
+        "transaction_description": "Compra de 0.4562 NEE a $ 75.02",
+        "transaction_amount": "-34.22",
+        "total_balance": "1.64"
+    },
+    {
+        "transaction_date": "26/02/2021",
+        "transaction_time": "11:54",
+        "transaction_settlement": "02/03/2021",
+        "transaction_description": "Corretagem NEE",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.64"
+    },
+    {
+        "transaction_date": "04/03/2021",
+        "transaction_time": "13:58",
+        "transaction_settlement": "08/03/2021",
+        "transaction_description": "Venda de 0.515 NHI a $ 71.38",
+        "transaction_amount": "36.76",
+        "total_balance": "37.40"
+    },
+    {
+        "transaction_date": "04/03/2021",
+        "transaction_time": "13:59",
+        "transaction_settlement": "08/03/2021",
+        "transaction_description": "Venda de 0.6867 MPLX a $ 25.98",
+        "transaction_amount": "17.84",
+        "total_balance": "55.24"
+    },
+    {
+        "transaction_date": "04/03/2021",
+        "transaction_time": "14:05",
+        "transaction_settlement": "08/03/2021",
+        "transaction_description": "Compra de 0.6287 GLPI a $ 43.84",
+        "transaction_amount": "-27.56",
+        "total_balance": "27.68"
+    },
+    {
+        "transaction_date": "04/03/2021",
+        "transaction_time": "14:09",
+        "transaction_settlement": "08/03/2021",
+        "transaction_description": "Compra de 1 TSLX a $ 22.1",
+        "transaction_amount": "-22.10",
+        "total_balance": "5.58"
+    },
+    {
+        "transaction_date": "04/03/2021",
+        "transaction_time": "14:09",
+        "transaction_settlement": "08/03/2021",
+        "transaction_description": "Compra de 0.2485 TSLX a $ 22.1",
+        "transaction_amount": "-5.49",
+        "total_balance": "0.09"
+    },
+    {
+        "transaction_date": "11/03/2021",
+        "transaction_time": "02:35",
+        "transaction_settlement": "11/03/2021",
+        "transaction_description": "Dividendos XOM. XOM dividend, $0.87/share",
+        "transaction_amount": "0.66",
+        "total_balance": "0.75"
+    },
+    {
+        "transaction_date": "11/03/2021",
+        "transaction_time": "02:37",
+        "transaction_settlement": "11/03/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos XOM. XOM tax, 30% withheld",
+        "transaction_amount": "-0.20",
+        "total_balance": "0.55"
+    },
+    {
+        "transaction_date": "15/03/2021",
+        "transaction_time": "11:35",
+        "transaction_settlement": "15/03/2021",
+        "transaction_description": "Câmbio Instantâneo : R$49.81",
+        "transaction_amount": "8.62",
+        "total_balance": "9.17"
+    },
+    {
+        "transaction_date": "15/03/2021",
+        "transaction_time": "11:47",
+        "transaction_settlement": "17/03/2021",
+        "transaction_description": "Compra de 0.121 NEE a $ 75.59",
+        "transaction_amount": "-9.15",
+        "total_balance": "0.02"
+    },
+    {
+        "transaction_date": "16/03/2021",
+        "transaction_time": "02:06",
+        "transaction_settlement": "16/03/2021",
+        "transaction_description": "Dividendos BRMK. BRMK dividend, $0.07/share",
+        "transaction_amount": "0.06",
+        "total_balance": "0.08"
+    },
+    {
+        "transaction_date": "16/03/2021",
+        "transaction_time": "02:06",
+        "transaction_settlement": "16/03/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos BRMK. BRMK tax, 30% withheld",
+        "transaction_amount": "-0.02",
+        "total_balance": "0.06"
+    },
+    {
+        "transaction_date": "22/03/2021",
+        "transaction_time": "01:22",
+        "transaction_settlement": "22/03/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ABR tax, 30% withheld",
+        "transaction_amount": "-0.31",
+        "total_balance": "-0.25"
+    },
+    {
+        "transaction_date": "22/03/2021",
+        "transaction_time": "01:22",
+        "transaction_settlement": "22/03/2021",
+        "transaction_description": "Dividendos ABR. ABR dividend, $0.33/share",
+        "transaction_amount": "1.03",
+        "total_balance": "0.78"
+    },
+    {
+        "transaction_date": "24/03/2021",
+        "transaction_time": "01:22",
+        "transaction_settlement": "24/03/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GLPI tax, 30% withheld",
+        "transaction_amount": "-0.32",
+        "total_balance": "0.46"
+    },
+    {
+        "transaction_date": "24/03/2021",
+        "transaction_time": "01:22",
+        "transaction_settlement": "24/03/2021",
+        "transaction_description": "Dividendos GLPI. GLPI dividend, $0.65/share",
+        "transaction_amount": "1.08",
+        "total_balance": "1.54"
+    },
+    {
+        "transaction_date": "24/03/2021",
+        "transaction_time": "10:50",
+        "transaction_settlement": "26/03/2021",
+        "transaction_description": "Compra de 0.1419 BRMK a $ 10.62",
+        "transaction_amount": "-1.51",
+        "total_balance": "0.03"
+    },
+    {
+        "transaction_date": "26/03/2021",
+        "transaction_time": "10:56",
+        "transaction_settlement": "26/03/2021",
+        "transaction_description": "Câmbio Instantâneo : R$18.02",
+        "transaction_amount": "3.09",
+        "total_balance": "3.12"
+    },
+    {
+        "transaction_date": "26/03/2021",
+        "transaction_time": "10:57",
+        "transaction_settlement": "30/03/2021",
+        "transaction_description": "Compra de 0.1495 TSLX a $ 20.71",
+        "transaction_amount": "-3.10",
+        "total_balance": "0.02"
+    },
+    {
+        "transaction_date": "05/04/2021",
+        "transaction_time": "11:27",
+        "transaction_settlement": "07/04/2021",
+        "transaction_description": "Venda de 0.0131 NEE a $ 77.04",
+        "transaction_amount": "1.01",
+        "total_balance": "1.03"
+    },
+    {
+        "transaction_date": "05/04/2021",
+        "transaction_time": "11:28",
+        "transaction_settlement": "07/04/2021",
+        "transaction_description": "Compra de 0.0181 IEP a $ 56.65",
+        "transaction_amount": "-1.03",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "08/04/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "08/04/2021",
+        "transaction_description": "Dividendos BPY. BPY return-of-capital, $0.2386/share",
+        "transaction_amount": "0.63",
+        "total_balance": "0.63"
+    },
+    {
+        "transaction_date": "08/04/2021",
+        "transaction_time": "05:13",
+        "transaction_settlement": "08/04/2021",
+        "transaction_description": "Dividendos BPY. BPY dividend, $0.0252/share",
+        "transaction_amount": "0.07",
+        "total_balance": "0.70"
+    },
+    {
+        "transaction_date": "08/04/2021",
+        "transaction_time": "05:22",
+        "transaction_settlement": "08/04/2021",
+        "transaction_description": "Dividendos BPY. BPY dividend, $0.0677/share",
+        "transaction_amount": "0.18",
+        "total_balance": "0.88"
+    },
+    {
+        "transaction_date": "09/04/2021",
+        "transaction_time": "04:14",
+        "transaction_settlement": "09/04/2021",
+        "transaction_description": "Dividendos TSLX. TSLX dividend, $1.25/share",
+        "transaction_amount": "1.56",
+        "total_balance": "2.44"
+    },
+    {
+        "transaction_date": "09/04/2021",
+        "transaction_time": "04:27",
+        "transaction_settlement": "09/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. TSLX tax, 30% withheld",
+        "transaction_amount": "-0.47",
+        "total_balance": "1.97"
+    },
+    {
+        "transaction_date": "09/04/2021",
+        "transaction_time": "11:44",
+        "transaction_settlement": "13/04/2021",
+        "transaction_description": "Compra de 0.1839 BRMK a $ 10.66",
+        "transaction_amount": "-1.96",
+        "total_balance": "0.01"
+    },
+    {
+        "transaction_date": "09/04/2021",
+        "transaction_time": "15:25",
+        "transaction_settlement": "12/04/2021",
+        "transaction_description": "Câmbio Padrão : R$149.43",
+        "transaction_amount": "25.84",
+        "total_balance": "25.85"
+    },
+    {
+        "transaction_date": "12/04/2021",
+        "transaction_time": "10:40",
+        "transaction_settlement": "14/04/2021",
+        "transaction_description": "Compra de 1 AGNC a $ 17.13",
+        "transaction_amount": "-17.13",
+        "total_balance": "8.72"
+    },
+    {
+        "transaction_date": "12/04/2021",
+        "transaction_time": "10:40",
+        "transaction_settlement": "14/04/2021",
+        "transaction_description": "Compra de 0.5077 AGNC a $ 17.13",
+        "transaction_amount": "-8.70",
+        "total_balance": "0.02"
+    },
+    {
+        "transaction_date": "14/04/2021",
+        "transaction_time": "14:37",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Venda de 0.0156 NEE a $ 78.97",
+        "transaction_amount": "1.23",
+        "total_balance": "1.25"
+    },
+    {
+        "transaction_date": "14/04/2021",
+        "transaction_time": "14:37",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Venda de 0.072 GLPI a $ 45.23",
+        "transaction_amount": "3.26",
+        "total_balance": "4.51"
+    },
+    {
+        "transaction_date": "14/04/2021",
+        "transaction_time": "14:37",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Compra de 0.2922 HMLP a $ 15.32",
+        "transaction_amount": "-4.48",
+        "total_balance": "0.03"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "08:37",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Dividendos BRMK. BRMK dividend, $0.07/share",
+        "transaction_amount": "0.07",
+        "total_balance": "0.10"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:11",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos BRMK. BRMK tax, 30% withheld",
+        "transaction_amount": "-0.02",
+        "total_balance": "0.08"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:12",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Dividendos IIPR. IIPR dividend, $1.32/share",
+        "transaction_amount": "0.27",
+        "total_balance": "0.35"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:12",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos IIPR. IIPR tax, 30% withheld",
+        "transaction_amount": "-0.08",
+        "total_balance": "0.27"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:17",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. TSLX tax, 30% withheld",
+        "transaction_amount": "-0.15",
+        "total_balance": "0.12"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:17",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Dividendos TSLX. TSLX dividend, $0.41/share",
+        "transaction_amount": "0.51",
+        "total_balance": "0.63"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:18",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Dividendos WPC. WPC dividend, $1.048/share",
+        "transaction_amount": "0.53",
+        "total_balance": "1.16"
+    },
+    {
+        "transaction_date": "16/04/2021",
+        "transaction_time": "09:27",
+        "transaction_settlement": "16/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. WPC tax, 30% withheld",
+        "transaction_amount": "-0.16",
+        "total_balance": "1.00"
+    },
+    {
+        "transaction_date": "20/04/2021",
+        "transaction_time": "14:36",
+        "transaction_settlement": "22/04/2021",
+        "transaction_description": "Compra de 0.0672 PBFX a $ 14.32",
+        "transaction_amount": "-0.96",
+        "total_balance": "0.04"
+    },
+    {
+        "transaction_date": "23/04/2021",
+        "transaction_time": "11:16",
+        "transaction_settlement": "27/04/2021",
+        "transaction_description": "Venda de 0.0136 WPC a $ 73.52",
+        "transaction_amount": "1.00",
+        "total_balance": "1.04"
+    },
+    {
+        "transaction_date": "23/04/2021",
+        "transaction_time": "11:18",
+        "transaction_settlement": "27/04/2021",
+        "transaction_description": "Compra de 0.066 PBFX a $ 14.43",
+        "transaction_amount": "-0.95",
+        "total_balance": "0.09"
+    },
+    {
+        "transaction_date": "29/04/2021",
+        "transaction_time": "01:35",
+        "transaction_settlement": "29/04/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos IEP. IEP tax, 30% withheld",
+        "transaction_amount": "-0.41",
+        "total_balance": "-0.32"
+    },
+    {
+        "transaction_date": "29/04/2021",
+        "transaction_time": "01:40",
+        "transaction_settlement": "29/04/2021",
+        "transaction_description": "Dividendos IEP. IEP dividend, $2/share",
+        "transaction_amount": "1.37",
+        "total_balance": "1.05"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "09:28",
+        "transaction_settlement": "03/05/2021",
+        "transaction_description": "Câmbio Instantâneo : R$2729.18",
+        "transaction_amount": "489.87",
+        "total_balance": "490.92"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "10:36",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.3893 MSFT a $ 252.31",
+        "transaction_amount": "-98.22",
+        "total_balance": "392.70"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "10:37",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.2152 AVGO a $ 458.02",
+        "transaction_amount": "-98.57",
+        "total_balance": "294.13"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "10:38",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.633 JPM a $ 154.5",
+        "transaction_amount": "-97.80",
+        "total_balance": "196.33"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "10:39",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.02827 AMZN a $ 3445.91",
+        "transaction_amount": "-97.42",
+        "total_balance": "98.91"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "10:39",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.245 UNH a $ 402.61",
+        "transaction_amount": "-98.64",
+        "total_balance": "0.27"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "16:03",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Venda de 0.5077 AGNC a $ 18.04",
+        "transaction_amount": "9.16",
+        "total_balance": "9.43"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "16:03",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Venda de 1 AGNC a $ 18.04",
+        "transaction_amount": "18.04",
+        "total_balance": "27.47"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "16:06",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 0.7745 PBFX a $ 15.44",
+        "transaction_amount": "-11.96",
+        "total_balance": "15.51"
+    },
+    {
+        "transaction_date": "03/05/2021",
+        "transaction_time": "16:06",
+        "transaction_settlement": "05/05/2021",
+        "transaction_description": "Compra de 1 PBFX a $ 15.44",
+        "transaction_amount": "-15.44",
+        "total_balance": "0.07"
+    },
+    {
+        "transaction_date": "06/05/2021",
+        "transaction_time": "10:26",
+        "transaction_settlement": "06/05/2021",
+        "transaction_description": "Câmbio Instantâneo : R$1034.16",
+        "transaction_amount": "189.39",
+        "total_balance": "189.46"
+    },
+    {
+        "transaction_date": "06/05/2021",
+        "transaction_time": "11:11",
+        "transaction_settlement": "10/05/2021",
+        "transaction_description": "Compra de 0.24213 ANTM a $ 391.15",
+        "transaction_amount": "-94.71",
+        "total_balance": "94.75"
+    },
+    {
+        "transaction_date": "06/05/2021",
+        "transaction_time": "11:18",
+        "transaction_settlement": "10/05/2021",
+        "transaction_description": "Compra de 0.52633 DIS a $ 180.02",
+        "transaction_amount": "-94.75",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:37",
+        "transaction_settlement": "10/05/2021",
+        "transaction_description": "Câmbio Instantâneo : R$2689.79",
+        "transaction_amount": "502.42",
+        "total_balance": "502.42"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:38",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Compra de 0.43408 V a $ 230.37",
+        "transaction_amount": "-100.00",
+        "total_balance": "402.42"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:40",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Compra de 0.04284 GOOGL a $ 2311.33",
+        "transaction_amount": "-99.02",
+        "total_balance": "303.40"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:40",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Corretagem GOOGL",
+        "transaction_amount": "-1.00",
+        "total_balance": "302.40"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Corretagem FB",
+        "transaction_amount": "-1.00",
+        "total_balance": "301.40"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Compra de 0.31843 FB a $ 310.93",
+        "transaction_amount": "-99.01",
+        "total_balance": "202.39"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Corretagem CRM",
+        "transaction_amount": "-1.00",
+        "total_balance": "201.39"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Compra de 0.46306 CRM a $ 213.77",
+        "transaction_amount": "-98.99",
+        "total_balance": "102.40"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:45",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Corretagem AMGN",
+        "transaction_amount": "-1.00",
+        "total_balance": "101.40"
+    },
+    {
+        "transaction_date": "10/05/2021",
+        "transaction_time": "10:45",
+        "transaction_settlement": "12/05/2021",
+        "transaction_description": "Compra de 0.3857 AMGN a $ 256.65",
+        "transaction_amount": "-98.99",
+        "total_balance": "2.41"
+    },
+    {
+        "transaction_date": "11/05/2021",
+        "transaction_time": "06:30",
+        "transaction_settlement": "11/05/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos . ACCOUNT CONVERSION CASH",
+        "transaction_amount": "-0.14",
+        "total_balance": "2.27"
+    },
+    {
+        "transaction_date": "11/05/2021",
+        "transaction_time": "07:02",
+        "transaction_settlement": "11/05/2021",
+        "transaction_description": "Dividendos . ACCOUNT CONVERSION CASH",
+        "transaction_amount": "0.07",
+        "total_balance": "2.34"
+    },
+    {
+        "transaction_date": "11/05/2021",
+        "transaction_time": "11:11",
+        "transaction_settlement": "11/05/2021",
+        "transaction_description": "US Estorno Dividendos",
+        "transaction_amount": "-0.07",
+        "total_balance": "2.27"
+    },
+    {
+        "transaction_date": "11/05/2021",
+        "transaction_time": "11:21",
+        "transaction_settlement": "11/05/2021",
+        "transaction_description": "Estorno Impostos sobre Dividendos",
+        "transaction_amount": "0.14",
+        "total_balance": "2.41"
+    },
+    {
+        "transaction_date": "20/05/2021",
+        "transaction_time": "10:07",
+        "transaction_settlement": "20/05/2021",
+        "transaction_description": "AJUSTE Residual migração",
+        "transaction_amount": "0.32",
+        "total_balance": "2.73"
+    },
+    {
+        "transaction_date": "28/05/2021",
+        "transaction_time": "04:51",
+        "transaction_settlement": "28/05/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "-0.23",
+        "total_balance": "2.50"
+    },
+    {
+        "transaction_date": "28/05/2021",
+        "transaction_time": "04:51",
+        "transaction_settlement": "28/05/2021",
+        "transaction_description": "Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "0.57",
+        "total_balance": "3.07"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "11:19",
+        "transaction_settlement": "01/06/2021",
+        "transaction_description": "Câmbio Instantâneo : R$697.35",
+        "transaction_amount": "131.94",
+        "total_balance": "135.01"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "14:56",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Compra de 3.24831 BRMK a $ 10.39",
+        "transaction_amount": "-33.75",
+        "total_balance": "101.26"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "14:57",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Venda de 4.49881 BRMK a $ 10.38",
+        "transaction_amount": "46.70",
+        "total_balance": "147.96"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "14:58",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Venda de 0.7022 IEP a $ 55.76",
+        "transaction_amount": "39.15",
+        "total_balance": "187.11"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "15:31",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Compra de 3.18783 ARCC a $ 19.57",
+        "transaction_amount": "-62.37",
+        "total_balance": "124.74"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "15:37",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Compra de 0.90534 PGR a $ 99.41",
+        "transaction_amount": "-90.00",
+        "total_balance": "34.74"
+    },
+    {
+        "transaction_date": "01/06/2021",
+        "transaction_time": "15:40",
+        "transaction_settlement": "03/06/2021",
+        "transaction_description": "Compra de 1.59211 GOOD a $ 21.82",
+        "transaction_amount": "-34.74",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "02/06/2021",
+        "transaction_time": "05:51",
+        "transaction_settlement": "02/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "-0.32",
+        "total_balance": "-0.32"
+    },
+    {
+        "transaction_date": "02/06/2021",
+        "transaction_time": "05:51",
+        "transaction_settlement": "02/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos V. VISA INC",
+        "transaction_amount": "-0.04",
+        "total_balance": "-0.36"
+    },
+    {
+        "transaction_date": "02/06/2021",
+        "transaction_time": "05:51",
+        "transaction_settlement": "02/06/2021",
+        "transaction_description": "Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "1.06",
+        "total_balance": "0.70"
+    },
+    {
+        "transaction_date": "02/06/2021",
+        "transaction_time": "05:51",
+        "transaction_settlement": "02/06/2021",
+        "transaction_description": "Dividendos V. VISA INC",
+        "transaction_amount": "0.14",
+        "total_balance": "0.84"
+    },
+    {
+        "transaction_date": "09/06/2021",
+        "transaction_time": "04:43",
+        "transaction_settlement": "09/06/2021",
+        "transaction_description": "Dividendos AMGN. AMGEN INC",
+        "transaction_amount": "0.68",
+        "total_balance": "1.52"
+    },
+    {
+        "transaction_date": "09/06/2021",
+        "transaction_time": "04:43",
+        "transaction_settlement": "09/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos AMGN. AMGEN INC",
+        "transaction_amount": "-0.20",
+        "total_balance": "1.32"
+    },
+    {
+        "transaction_date": "11/06/2021",
+        "transaction_time": "20:36",
+        "transaction_settlement": "11/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos . Dividends 06/11",
+        "transaction_amount": "-0.07",
+        "total_balance": "1.25"
+    },
+    {
+        "transaction_date": "11/06/2021",
+        "transaction_time": "20:36",
+        "transaction_settlement": "11/06/2021",
+        "transaction_description": "Dividendos . Dividends 06/11",
+        "transaction_amount": "0.22",
+        "total_balance": "1.47"
+    },
+    {
+        "transaction_date": "15/06/2021",
+        "transaction_time": "16:41",
+        "transaction_settlement": "17/06/2021",
+        "transaction_description": "Venda de 0.05025 CRM a $ 242.42",
+        "transaction_amount": "12.18",
+        "total_balance": "13.65"
+    },
+    {
+        "transaction_date": "15/06/2021",
+        "transaction_time": "16:44",
+        "transaction_settlement": "17/06/2021",
+        "transaction_description": "Venda de 0.0215 FB a $ 337.18",
+        "transaction_amount": "7.25",
+        "total_balance": "20.90"
+    },
+    {
+        "transaction_date": "15/06/2021",
+        "transaction_time": "16:46",
+        "transaction_settlement": "17/06/2021",
+        "transaction_description": "Venda de 0.53 GLPI a $ 47.37",
+        "transaction_amount": "25.11",
+        "total_balance": "46.01"
+    },
+    {
+        "transaction_date": "15/06/2021",
+        "transaction_time": "16:47",
+        "transaction_settlement": "17/06/2021",
+        "transaction_description": "Compra de 2.57474 HMLP a $ 17.87",
+        "transaction_amount": "-46.01",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "16/06/2021",
+        "transaction_time": "04:28",
+        "transaction_settlement": "16/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos NEE. NEXTERA ENERGY INC",
+        "transaction_amount": "-0.06",
+        "total_balance": "-0.06"
+    },
+    {
+        "transaction_date": "16/06/2021",
+        "transaction_time": "04:28",
+        "transaction_settlement": "16/06/2021",
+        "transaction_description": "Dividendos BRMK. BROADMARK REALTY CAPITAL INC",
+        "transaction_amount": "0.09",
+        "total_balance": "0.03"
+    },
+    {
+        "transaction_date": "16/06/2021",
+        "transaction_time": "04:28",
+        "transaction_settlement": "16/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos BRMK. BROADMARK REALTY CAPITAL INC",
+        "transaction_amount": "-0.03",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "16/06/2021",
+        "transaction_time": "04:28",
+        "transaction_settlement": "16/06/2021",
+        "transaction_description": "Dividendos NEE. NEXTERA ENERGY INC",
+        "transaction_amount": "0.21",
+        "total_balance": "0.21"
+    },
+    {
+        "transaction_date": "26/06/2021",
+        "transaction_time": "04:29",
+        "transaction_settlement": "28/06/2021",
+        "transaction_description": "Dividendos ANTM. ANTHEM INC",
+        "transaction_amount": "0.27",
+        "total_balance": "0.48"
+    },
+    {
+        "transaction_date": "26/06/2021",
+        "transaction_time": "04:29",
+        "transaction_settlement": "28/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ANTM. ANTHEM INC",
+        "transaction_amount": "-0.08",
+        "total_balance": "0.40"
+    },
+    {
+        "transaction_date": "26/06/2021",
+        "transaction_time": "04:29",
+        "transaction_settlement": "28/06/2021",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "1.07",
+        "total_balance": "1.47"
+    },
+    {
+        "transaction_date": "26/06/2021",
+        "transaction_time": "04:29",
+        "transaction_settlement": "28/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.32",
+        "total_balance": "1.15"
+    },
+    {
+        "transaction_date": "30/06/2021",
+        "transaction_time": "04:07",
+        "transaction_settlement": "30/06/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos UNH. UNITEDHEALTH GROUP INC",
+        "transaction_amount": "-0.11",
+        "total_balance": "1.04"
+    },
+    {
+        "transaction_date": "30/06/2021",
+        "transaction_time": "04:07",
+        "transaction_settlement": "30/06/2021",
+        "transaction_description": "Dividendos UNH. UNITEDHEALTH GROUP INC",
+        "transaction_amount": "0.36",
+        "total_balance": "1.40"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "0.77",
+        "total_balance": "2.17"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.06",
+        "total_balance": "2.11"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.08",
+        "total_balance": "2.19"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "-0.23",
+        "total_balance": "1.96"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.20",
+        "total_balance": "2.16"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.02",
+        "total_balance": "2.14"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Dividendos IEP. ICAHN ENTERPRISES L P",
+        "transaction_amount": "1.40",
+        "total_balance": "3.54"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "-0.38",
+        "total_balance": "3.16"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos IEP. ICAHN ENTERPRISES L P",
+        "transaction_amount": "-0.55",
+        "total_balance": "2.61"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "1.28",
+        "total_balance": "3.89"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "13:08",
+        "transaction_settlement": "01/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos . Retencao Impostos sobre Dividendos",
+        "transaction_amount": "-1.40",
+        "total_balance": "2.49"
+    },
+    {
+        "transaction_date": "01/07/2021",
+        "transaction_time": "15:05",
+        "transaction_settlement": "06/07/2021",
+        "transaction_description": "Venda de 0.0185 MSFT a $ 270.75",
+        "transaction_amount": "5.01",
+        "total_balance": "7.50"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "11:27",
+        "transaction_settlement": "06/07/2021",
+        "transaction_description": "Estorno Impostos sobre Dividendos",
+        "transaction_amount": "0.55",
+        "total_balance": "8.05"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:19",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Venda de 0.00298 GOOGL a $ 2511.91",
+        "transaction_amount": "7.49",
+        "total_balance": "15.54"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:21",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Compra de 0.27671 IEP a $ 56.16",
+        "transaction_amount": "-15.54",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:22",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Venda de 0.30174 IEP a $ 56.08",
+        "transaction_amount": "16.92",
+        "total_balance": "16.92"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:24",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Compra de 1.15181 PBFX a $ 14.69",
+        "transaction_amount": "-16.92",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:27",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Venda de 0.2078 IIPR a $ 200.17",
+        "transaction_amount": "41.60",
+        "total_balance": "41.60"
+    },
+    {
+        "transaction_date": "06/07/2021",
+        "transaction_time": "14:28",
+        "transaction_settlement": "08/07/2021",
+        "transaction_description": "Compra de 0.61411 O a $ 67.74",
+        "transaction_amount": "-41.60",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "07/07/2021",
+        "transaction_time": "09:24",
+        "transaction_settlement": "07/07/2021",
+        "transaction_description": "Câmbio Instantâneo : R$46.59",
+        "transaction_amount": "8.77",
+        "total_balance": "8.77"
+    },
+    {
+        "transaction_date": "07/07/2021",
+        "transaction_time": "10:46",
+        "transaction_settlement": "09/07/2021",
+        "transaction_description": "Venda de 0.0143 FB a $ 353.46",
+        "transaction_amount": "5.05",
+        "total_balance": "13.82"
+    },
+    {
+        "transaction_date": "07/07/2021",
+        "transaction_time": "10:48",
+        "transaction_settlement": "09/07/2021",
+        "transaction_description": "Venda de 0.0141 FB a $ 353.25",
+        "transaction_amount": "4.98",
+        "total_balance": "18.80"
+    },
+    {
+        "transaction_date": "07/07/2021",
+        "transaction_time": "11:24",
+        "transaction_settlement": "09/07/2021",
+        "transaction_description": "Compra de 0.6375 MPLX a $ 29.49",
+        "transaction_amount": "-18.80",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "12/07/2021",
+        "transaction_time": "15:44",
+        "transaction_settlement": "14/07/2021",
+        "transaction_description": "Corretagem BPY",
+        "transaction_amount": "-1.00",
+        "total_balance": "-1.00"
+    },
+    {
+        "transaction_date": "12/07/2021",
+        "transaction_time": "15:44",
+        "transaction_settlement": "14/07/2021",
+        "transaction_description": "Venda de 2.6504 BPY a $ 18.91",
+        "transaction_amount": "50.12",
+        "total_balance": "49.12"
+    },
+    {
+        "transaction_date": "12/07/2021",
+        "transaction_time": "16:03",
+        "transaction_settlement": "14/07/2021",
+        "transaction_description": "Corretagem ORI",
+        "transaction_amount": "-1.00",
+        "total_balance": "48.12"
+    },
+    {
+        "transaction_date": "12/07/2021",
+        "transaction_time": "16:03",
+        "transaction_settlement": "14/07/2021",
+        "transaction_description": "Compra de 1.91106 ORI a $ 25.18",
+        "transaction_amount": "-48.12",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "14:59",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Venda de 0.5485 NEE a $ 76.68",
+        "transaction_amount": "42.06",
+        "total_balance": "42.06"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "14:59",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Corretagem NEE",
+        "transaction_amount": "-1.00",
+        "total_balance": "41.06"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:08",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Corretagem UNH",
+        "transaction_amount": "-1.00",
+        "total_balance": "40.06"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:08",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Compra de 0.09533 UNH a $ 420.2",
+        "transaction_amount": "-40.06",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:13",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Venda de 0.115 UNH a $ 420.18",
+        "transaction_amount": "48.32",
+        "total_balance": "48.32"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:13",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Corretagem UNH",
+        "transaction_amount": "-1.00",
+        "total_balance": "47.32"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:14",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Compra de 1.26282 OHI a $ 36.68",
+        "transaction_amount": "-46.32",
+        "total_balance": "1.00"
+    },
+    {
+        "transaction_date": "15/07/2021",
+        "transaction_time": "15:14",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Corretagem OHI",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Dividendos PGR. PROGRESSIVE CORP-OHIO",
+        "transaction_amount": "0.09",
+        "total_balance": "0.09"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos IIPR. INNOVATIVE INDUSTRIAL",
+        "transaction_amount": "-0.09",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Dividendos IIPR. INNOVATIVE INDUSTRIAL",
+        "transaction_amount": "0.29",
+        "total_balance": "0.29"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.57",
+        "total_balance": "0.86"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "0.51",
+        "total_balance": "1.37"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "-0.15",
+        "total_balance": "1.22"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos PGR. PROGRESSIVE CORP-OHIO",
+        "transaction_amount": "-0.03",
+        "total_balance": "1.19"
+    },
+    {
+        "transaction_date": "16/07/2021",
+        "transaction_time": "04:39",
+        "transaction_settlement": "16/07/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.17",
+        "total_balance": "1.02"
+    },
+    {
+        "transaction_date": "19/07/2021",
+        "transaction_time": "14:03",
+        "transaction_settlement": "19/07/2021",
+        "transaction_description": "Câmbio Instantâneo : R$249.05",
+        "transaction_amount": "46.51",
+        "total_balance": "47.53"
+    },
+    {
+        "transaction_date": "19/07/2021",
+        "transaction_time": "14:07",
+        "transaction_settlement": "21/07/2021",
+        "transaction_description": "Compra de 1.33844 MPLX a $ 26.15",
+        "transaction_amount": "-35.00",
+        "total_balance": "12.53"
+    },
+    {
+        "transaction_date": "19/07/2021",
+        "transaction_time": "14:07",
+        "transaction_settlement": "21/07/2021",
+        "transaction_description": "Corretagem MPLX",
+        "transaction_amount": "-1.00",
+        "total_balance": "11.53"
+    },
+    {
+        "transaction_date": "19/07/2021",
+        "transaction_time": "14:07",
+        "transaction_settlement": "21/07/2021",
+        "transaction_description": "Compra de 0.8072 PBFX a $ 13.05",
+        "transaction_amount": "-10.53",
+        "total_balance": "1.00"
+    },
+    {
+        "transaction_date": "19/07/2021",
+        "transaction_time": "14:07",
+        "transaction_settlement": "21/07/2021",
+        "transaction_description": "Corretagem PBFX",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "28/07/2021",
+        "transaction_time": "10:57",
+        "transaction_settlement": "28/07/2021",
+        "transaction_description": "Câmbio Instantâneo : R$149.43",
+        "transaction_amount": "28.33",
+        "total_balance": "28.33"
+    },
+    {
+        "transaction_date": "28/07/2021",
+        "transaction_time": "11:00",
+        "transaction_settlement": "30/07/2021",
+        "transaction_description": "Corretagem HMLP",
+        "transaction_amount": "-1.00",
+        "total_balance": "27.33"
+    },
+    {
+        "transaction_date": "28/07/2021",
+        "transaction_time": "11:00",
+        "transaction_settlement": "30/07/2021",
+        "transaction_description": "Compra de 3.7 HMLP a $ 7.25",
+        "transaction_amount": "-26.83",
+        "total_balance": "0.50"
+    },
+    {
+        "transaction_date": "29/07/2021",
+        "transaction_time": "13:53",
+        "transaction_settlement": "02/08/2021",
+        "transaction_description": "Venda de 6.56694 HMLP a $ 5.78",
+        "transaction_amount": "37.97",
+        "total_balance": "38.47"
+    },
+    {
+        "transaction_date": "29/07/2021",
+        "transaction_time": "13:53",
+        "transaction_settlement": "02/08/2021",
+        "transaction_description": "Corretagem HMLP",
+        "transaction_amount": "-1.00",
+        "total_balance": "37.47"
+    },
+    {
+        "transaction_date": "31/07/2021",
+        "transaction_time": "07:42",
+        "transaction_settlement": "02/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.06",
+        "total_balance": "37.41"
+    },
+    {
+        "transaction_date": "31/07/2021",
+        "transaction_time": "07:42",
+        "transaction_settlement": "02/08/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.20",
+        "total_balance": "37.61"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "09:12",
+        "transaction_settlement": "02/08/2021",
+        "transaction_description": "Câmbio Instantâneo : R$149.43",
+        "transaction_amount": "28.19",
+        "total_balance": "65.80"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:31",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Venda de 0.22533 UNH a $ 413.23",
+        "transaction_amount": "93.11",
+        "total_balance": "158.91"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:31",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Venda de 0.61411 O a $ 70.87",
+        "transaction_amount": "43.52",
+        "total_balance": "202.43"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:32",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Venda de 1.91106 ORI a $ 24.96",
+        "transaction_amount": "47.70",
+        "total_balance": "250.13"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:32",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Venda de 0.90534 PGR a $ 95.88",
+        "transaction_amount": "86.80",
+        "total_balance": "336.93"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:32",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Venda de 0.3857 AMGN a $ 240.78",
+        "transaction_amount": "92.87",
+        "total_balance": "429.80"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:41",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 3.72403 TSLX a $ 23.48",
+        "transaction_amount": "-87.44",
+        "total_balance": "342.36"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 3.38119 ABR a $ 18.48",
+        "transaction_amount": "-62.48",
+        "total_balance": "279.88"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:44",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 1.42582 GLPI a $ 48.33",
+        "transaction_amount": "-68.91",
+        "total_balance": "210.97"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "10:59",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 3.5448 GOOD a $ 23.33",
+        "transaction_amount": "-82.69",
+        "total_balance": "128.28"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "11:01",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 1.99837 OHI a $ 36.71",
+        "transaction_amount": "-73.36",
+        "total_balance": "54.92"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "11:04",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Compra de 2.69338 ARCC a $ 20.02",
+        "transaction_amount": "-53.92",
+        "total_balance": "1.00"
+    },
+    {
+        "transaction_date": "02/08/2021",
+        "transaction_time": "11:04",
+        "transaction_settlement": "04/08/2021",
+        "transaction_description": "Corretagem ARCC",
+        "transaction_amount": "-1.00",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "03/08/2021",
+        "transaction_time": "04:11",
+        "transaction_settlement": "03/08/2021",
+        "transaction_description": "Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "0.57",
+        "total_balance": "0.57"
+    },
+    {
+        "transaction_date": "03/08/2021",
+        "transaction_time": "04:11",
+        "transaction_settlement": "03/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "-0.17",
+        "total_balance": "0.40"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "-0.26",
+        "total_balance": "0.14"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "0.85",
+        "total_balance": "0.99"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+        "transaction_amount": "-0.50",
+        "total_balance": "0.49"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Dividendos MPLX. MPLX LP",
+        "transaction_amount": "1.36",
+        "total_balance": "1.85"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos O. REALTY INCOME CORP",
+        "transaction_amount": "-0.04",
+        "total_balance": "1.81"
+    },
+    {
+        "transaction_date": "14/08/2021",
+        "transaction_time": "03:44",
+        "transaction_settlement": "16/08/2021",
+        "transaction_description": "Dividendos O. REALTY INCOME CORP",
+        "transaction_amount": "0.14",
+        "total_balance": "1.95"
+    },
+    {
+        "transaction_date": "27/08/2021",
+        "transaction_time": "03:02",
+        "transaction_settlement": "27/08/2021",
+        "transaction_description": "Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "1.16",
+        "total_balance": "3.11"
+    },
+    {
+        "transaction_date": "27/08/2021",
+        "transaction_time": "03:02",
+        "transaction_settlement": "27/08/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "-0.43",
+        "total_balance": "2.68"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "03:14",
+        "transaction_settlement": "01/09/2021",
+        "transaction_description": "Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "2.27",
+        "total_balance": "4.95"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "03:14",
+        "transaction_settlement": "01/09/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.64",
+        "total_balance": "5.59"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "03:14",
+        "transaction_settlement": "01/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "-0.68",
+        "total_balance": "4.91"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "03:14",
+        "transaction_settlement": "01/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.19",
+        "total_balance": "4.72"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "09:01",
+        "transaction_settlement": "01/09/2021",
+        "transaction_description": "Câmbio Instantâneo : R$199.24",
+        "transaction_amount": "37.68",
+        "total_balance": "42.40"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:34",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Venda de 0.00876 GOOGL a $ 2910.51",
+        "transaction_amount": "25.50",
+        "total_balance": "67.90"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:35",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Venda de 0.0733 CRM a $ 266.7",
+        "transaction_amount": "19.55",
+        "total_balance": "87.45"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:36",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Venda de 0.07257 MSFT a $ 303.51",
+        "transaction_amount": "22.03",
+        "total_balance": "109.48"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:37",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Venda de 0.43408 V a $ 229.65",
+        "transaction_amount": "99.69",
+        "total_balance": "209.17"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:38",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Compra de 1.57285 PBFX a $ 12.18",
+        "transaction_amount": "-19.16",
+        "total_balance": "190.01"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:38",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Compra de 5.90445 ET a $ 9.32",
+        "transaction_amount": "-55.00",
+        "total_balance": "135.01"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:39",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Compra de 0.4471 ABBV a $ 120.71",
+        "transaction_amount": "-53.97",
+        "total_balance": "81.04"
+    },
+    {
+        "transaction_date": "01/09/2021",
+        "transaction_time": "10:39",
+        "transaction_settlement": "03/09/2021",
+        "transaction_description": "Compra de 2.96003 T a $ 27.38",
+        "transaction_amount": "-81.04",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "02/09/2021",
+        "transaction_time": "04:11",
+        "transaction_settlement": "02/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos V. VISA INC",
+        "transaction_amount": "-0.04",
+        "total_balance": "-0.04"
+    },
+    {
+        "transaction_date": "02/09/2021",
+        "transaction_time": "04:11",
+        "transaction_settlement": "02/09/2021",
+        "transaction_description": "Dividendos V. VISA INC",
+        "transaction_amount": "0.14",
+        "total_balance": "0.10"
+    },
+    {
+        "transaction_date": "10/09/2021",
+        "transaction_time": "03:28",
+        "transaction_settlement": "10/09/2021",
+        "transaction_description": "Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "0.21",
+        "total_balance": "0.31"
+    },
+    {
+        "transaction_date": "10/09/2021",
+        "transaction_time": "03:28",
+        "transaction_settlement": "10/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "-0.06",
+        "total_balance": "0.25"
+    },
+    {
+        "transaction_date": "13/09/2021",
+        "transaction_time": "10:41",
+        "transaction_settlement": "15/09/2021",
+        "transaction_description": "Venda de 0.52633 DIS a $ 184.38",
+        "transaction_amount": "97.04",
+        "total_balance": "97.29"
+    },
+    {
+        "transaction_date": "13/09/2021",
+        "transaction_time": "10:42",
+        "transaction_settlement": "15/09/2021",
+        "transaction_description": "Compra de 4.35889 EPD a $ 22.32",
+        "transaction_amount": "-97.29",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "25/09/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "27/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.50",
+        "total_balance": "-0.50"
+    },
+    {
+        "transaction_date": "25/09/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "27/09/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ANTM. ANTHEM INC",
+        "transaction_amount": "-0.08",
+        "total_balance": "-0.58"
+    },
+    {
+        "transaction_date": "25/09/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "27/09/2021",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "1.67",
+        "total_balance": "1.09"
+    },
+    {
+        "transaction_date": "25/09/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "27/09/2021",
+        "transaction_description": "Dividendos ANTM. ANTHEM INC",
+        "transaction_amount": "0.27",
+        "total_balance": "1.36"
+    },
+    {
+        "transaction_date": "30/09/2021",
+        "transaction_time": "12:58",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Câmbio Padrão : R$54.54",
+        "transaction_amount": "9.81",
+        "total_balance": "11.17"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "2.41",
+        "total_balance": "13.58"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "-0.72",
+        "total_balance": "12.86"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "-0.23",
+        "total_balance": "12.63"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.10",
+        "total_balance": "12.73"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "0.77",
+        "total_balance": "13.50"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.03",
+        "total_balance": "13.47"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.64",
+        "total_balance": "14.11"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "02:50",
+        "transaction_settlement": "01/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.19",
+        "total_balance": "13.92"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "10:52",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Venda de 0.24213 ANTM a $ 365.62",
+        "transaction_amount": "88.53",
+        "total_balance": "102.45"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "10:58",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Venda de 0.08293 JPM a $ 164.72",
+        "transaction_amount": "13.66",
+        "total_balance": "116.11"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "10:59",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Venda de 0.01773 AVGO a $ 482.64",
+        "transaction_amount": "8.56",
+        "total_balance": "124.67"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "11:02",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Compra de 0.10915 ABBV a $ 107.83",
+        "transaction_amount": "-11.77",
+        "total_balance": "112.90"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "11:03",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Compra de 0.94811 PFE a $ 42.19",
+        "transaction_amount": "-40.00",
+        "total_balance": "72.90"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "11:03",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Compra de 3.04339 HTGC a $ 16.43",
+        "transaction_amount": "-50.00",
+        "total_balance": "22.90"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "11:04",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Compra de 0.4111 OHI a $ 29.9",
+        "transaction_amount": "-12.29",
+        "total_balance": "10.61"
+    },
+    {
+        "transaction_date": "01/10/2021",
+        "transaction_time": "11:04",
+        "transaction_settlement": "05/10/2021",
+        "transaction_description": "Compra de 0.5003 GOOD a $ 21.21",
+        "transaction_amount": "-10.61",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "16/10/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "18/10/2021",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "2.10",
+        "total_balance": "2.10"
+    },
+    {
+        "transaction_date": "16/10/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "18/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "-0.15",
+        "total_balance": "1.95"
+    },
+    {
+        "transaction_date": "16/10/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "18/10/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.63",
+        "total_balance": "1.32"
+    },
+    {
+        "transaction_date": "16/10/2021",
+        "transaction_time": "04:23",
+        "transaction_settlement": "18/10/2021",
+        "transaction_description": "Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "0.51",
+        "total_balance": "1.83"
+    },
+    {
+        "transaction_date": "22/10/2021",
+        "transaction_time": "10:59",
+        "transaction_settlement": "26/10/2021",
+        "transaction_description": "Venda de 0.033 AVGO a $ 518.69",
+        "transaction_amount": "17.12",
+        "total_balance": "18.95"
+    },
+    {
+        "transaction_date": "22/10/2021",
+        "transaction_time": "11:01",
+        "transaction_settlement": "26/10/2021",
+        "transaction_description": "Venda de 0.047 CRM a $ 291.15",
+        "transaction_amount": "13.68",
+        "total_balance": "32.63"
+    },
+    {
+        "transaction_date": "30/10/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "01/11/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.71",
+        "total_balance": "33.34"
+    },
+    {
+        "transaction_date": "30/10/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "01/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.21",
+        "total_balance": "33.13"
+    },
+    {
+        "transaction_date": "01/11/2021",
+        "transaction_time": "15:39",
+        "transaction_settlement": "03/11/2021",
+        "transaction_description": "Venda de 0.03893 MSFT a $ 328.4",
+        "transaction_amount": "12.78",
+        "total_balance": "45.91"
+    },
+    {
+        "transaction_date": "01/11/2021",
+        "transaction_time": "15:40",
+        "transaction_settlement": "03/11/2021",
+        "transaction_description": "Compra de 0.39323 T a $ 25.43",
+        "transaction_amount": "-10.00",
+        "total_balance": "35.91"
+    },
+    {
+        "transaction_date": "01/11/2021",
+        "transaction_time": "15:42",
+        "transaction_settlement": "03/11/2021",
+        "transaction_description": "Compra de 0.24443 VZ a $ 52.98",
+        "transaction_amount": "-12.95",
+        "total_balance": "22.96"
+    },
+    {
+        "transaction_date": "01/11/2021",
+        "transaction_time": "15:46",
+        "transaction_settlement": "03/11/2021",
+        "transaction_description": "Compra de 0.09972 ABBV a $ 115.22",
+        "transaction_amount": "-11.49",
+        "total_balance": "11.47"
+    },
+    {
+        "transaction_date": "01/11/2021",
+        "transaction_time": "15:47",
+        "transaction_settlement": "03/11/2021",
+        "transaction_description": "Compra de 0.26295 PFE a $ 43.62",
+        "transaction_amount": "-11.47",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "02/11/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "02/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos T. AT&T INC",
+        "transaction_amount": "-0.46",
+        "total_balance": "-0.46"
+    },
+    {
+        "transaction_date": "02/11/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "02/11/2021",
+        "transaction_description": "Dividendos T. AT&T INC",
+        "transaction_amount": "1.54",
+        "total_balance": "1.08"
+    },
+    {
+        "transaction_date": "02/11/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "02/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "-0.17",
+        "total_balance": "0.91"
+    },
+    {
+        "transaction_date": "02/11/2021",
+        "transaction_time": "04:15",
+        "transaction_settlement": "02/11/2021",
+        "transaction_description": "Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "0.55",
+        "total_balance": "1.46"
+    },
+    {
+        "transaction_date": "05/11/2021",
+        "transaction_time": "13:44",
+        "transaction_settlement": "09/11/2021",
+        "transaction_description": "Venda de 0.0042 AMZN a $ 3555.6",
+        "transaction_amount": "14.93",
+        "total_balance": "16.39"
+    },
+    {
+        "transaction_date": "05/11/2021",
+        "transaction_time": "13:53",
+        "transaction_settlement": "09/11/2021",
+        "transaction_description": "Compra de 0.32422 T a $ 25.26",
+        "transaction_amount": "-8.19",
+        "total_balance": "8.20"
+    },
+    {
+        "transaction_date": "05/11/2021",
+        "transaction_time": "13:54",
+        "transaction_settlement": "09/11/2021",
+        "transaction_description": "Compra de 0.15589 VZ a $ 52.6",
+        "transaction_amount": "-8.20",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "13/11/2021",
+        "transaction_time": "07:17",
+        "transaction_settlement": "15/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "-0.73",
+        "total_balance": "-0.73"
+    },
+    {
+        "transaction_date": "13/11/2021",
+        "transaction_time": "07:17",
+        "transaction_settlement": "15/11/2021",
+        "transaction_description": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "1.96",
+        "total_balance": "1.23"
+    },
+    {
+        "transaction_date": "16/11/2021",
+        "transaction_time": "05:32",
+        "transaction_settlement": "16/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "-0.22",
+        "total_balance": "1.01"
+    },
+    {
+        "transaction_date": "16/11/2021",
+        "transaction_time": "05:32",
+        "transaction_settlement": "16/11/2021",
+        "transaction_description": "Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "0.72",
+        "total_balance": "1.73"
+    },
+    {
+        "transaction_date": "16/11/2021",
+        "transaction_time": "05:32",
+        "transaction_settlement": "16/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "-0.74",
+        "total_balance": "0.99"
+    },
+    {
+        "transaction_date": "16/11/2021",
+        "transaction_time": "05:33",
+        "transaction_settlement": "16/11/2021",
+        "transaction_description": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "2.46",
+        "total_balance": "3.45"
+    },
+    {
+        "transaction_date": "18/11/2021",
+        "transaction_time": "04:48",
+        "transaction_settlement": "18/11/2021",
+        "transaction_description": "Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "1.22",
+        "total_balance": "4.67"
+    },
+    {
+        "transaction_date": "18/11/2021",
+        "transaction_time": "04:48",
+        "transaction_settlement": "18/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "-0.37",
+        "total_balance": "4.30"
+    },
+    {
+        "transaction_date": "18/11/2021",
+        "transaction_time": "12:45",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Venda de 0.01581 AVGO a $ 570.97",
+        "transaction_amount": "9.03",
+        "total_balance": "13.33"
+    },
+    {
+        "transaction_date": "18/11/2021",
+        "transaction_time": "12:47",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Compra de 0.54541 T a $ 24.44",
+        "transaction_amount": "-13.33",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "20/11/2021",
+        "transaction_time": "06:28",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+        "transaction_amount": "-0.94",
+        "total_balance": "-0.94"
+    },
+    {
+        "transaction_date": "20/11/2021",
+        "transaction_time": "06:29",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "-0.33",
+        "total_balance": "-1.27"
+    },
+    {
+        "transaction_date": "20/11/2021",
+        "transaction_time": "06:29",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "0.90",
+        "total_balance": "-0.37"
+    },
+    {
+        "transaction_date": "20/11/2021",
+        "transaction_time": "06:29",
+        "transaction_settlement": "22/11/2021",
+        "transaction_description": "Dividendos MPLX. MPLX LP",
+        "transaction_amount": "2.53",
+        "total_balance": "2.16"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "1.63",
+        "total_balance": "3.79"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "2.34",
+        "total_balance": "6.13"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "-0.70",
+        "total_balance": "5.43"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.21",
+        "total_balance": "5.22"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.71",
+        "total_balance": "5.93"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "04:32",
+        "transaction_settlement": "01/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "-0.60",
+        "total_balance": "5.33"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "12:25",
+        "transaction_settlement": "03/12/2021",
+        "transaction_description": "Compra de 0.10494 VZ a $ 50.79",
+        "transaction_amount": "-5.33",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "12:27",
+        "transaction_settlement": "03/12/2021",
+        "transaction_description": "Venda de 0.00179 GOOGL a $ 2900.27",
+        "transaction_amount": "5.19",
+        "total_balance": "5.19"
+    },
+    {
+        "transaction_date": "01/12/2021",
+        "transaction_time": "12:28",
+        "transaction_settlement": "03/12/2021",
+        "transaction_description": "Compra de 0.22497 T a $ 23.07",
+        "transaction_amount": "-5.19",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "03/12/2021",
+        "transaction_time": "12:33",
+        "transaction_settlement": "03/12/2021",
+        "transaction_description": "Câmbio Instantâneo : R$49.81",
+        "transaction_amount": "8.58",
+        "total_balance": "8.58"
+    },
+    {
+        "transaction_date": "03/12/2021",
+        "transaction_time": "12:37",
+        "transaction_settlement": "07/12/2021",
+        "transaction_description": "Compra de 0.07244 ABBV a $ 118.43",
+        "transaction_amount": "-8.58",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "03:42",
+        "transaction_settlement": "07/12/2021",
+        "transaction_description": "Dividendos PFE. PFIZER INC",
+        "transaction_amount": "0.47",
+        "total_balance": "0.47"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "03:42",
+        "transaction_settlement": "07/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+        "transaction_amount": "-0.14",
+        "total_balance": "0.33"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "11:37",
+        "transaction_settlement": "07/12/2021",
+        "transaction_description": "Câmbio Instantâneo : R$144.52",
+        "transaction_amount": "24.97",
+        "total_balance": "25.30"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "11:49",
+        "transaction_settlement": "09/12/2021",
+        "transaction_description": "Compra de 0.39282 EPD a $ 21.46",
+        "transaction_amount": "-8.43",
+        "total_balance": "16.87"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "11:49",
+        "transaction_settlement": "09/12/2021",
+        "transaction_description": "Compra de 1.01942 ET a $ 8.27",
+        "transaction_amount": "-8.43",
+        "total_balance": "8.44"
+    },
+    {
+        "transaction_date": "07/12/2021",
+        "transaction_time": "11:50",
+        "transaction_settlement": "09/12/2021",
+        "transaction_description": "Compra de 0.70216 PBFX a $ 12.02",
+        "transaction_amount": "-8.44",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "10/12/2021",
+        "transaction_time": "03:20",
+        "transaction_settlement": "10/12/2021",
+        "transaction_description": "Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "0.16",
+        "total_balance": "0.16"
+    },
+    {
+        "transaction_date": "10/12/2021",
+        "transaction_time": "03:20",
+        "transaction_settlement": "10/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "-0.05",
+        "total_balance": "0.11"
+    },
+    {
+        "transaction_date": "10/12/2021",
+        "transaction_time": "14:29",
+        "transaction_settlement": "14/12/2021",
+        "transaction_description": "Venda de 0.01384 AVGO a $ 630.15",
+        "transaction_amount": "8.72",
+        "total_balance": "8.83"
+    },
+    {
+        "transaction_date": "10/12/2021",
+        "transaction_time": "14:31",
+        "transaction_settlement": "14/12/2021",
+        "transaction_description": "Compra de 0.38575 T a $ 22.89",
+        "transaction_amount": "-8.83",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "20/12/2021",
+        "transaction_time": "13:20",
+        "transaction_settlement": "20/12/2021",
+        "transaction_description": "Câmbio Instantâneo : R$74.72",
+        "transaction_amount": "12.73",
+        "total_balance": "12.73"
+    },
+    {
+        "transaction_date": "20/12/2021",
+        "transaction_time": "13:25",
+        "transaction_settlement": "22/12/2021",
+        "transaction_description": "Compra de 1.18545 PBFX a $ 10.74",
+        "transaction_amount": "-12.73",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "21/12/2021",
+        "transaction_time": "04:57",
+        "transaction_settlement": "21/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.77",
+        "total_balance": "-0.77"
+    },
+    {
+        "transaction_date": "21/12/2021",
+        "transaction_time": "04:57",
+        "transaction_settlement": "21/12/2021",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "2.56",
+        "total_balance": "1.79"
+    },
+    {
+        "transaction_date": "24/12/2021",
+        "transaction_time": "05:35",
+        "transaction_settlement": "27/12/2021",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "1.67",
+        "total_balance": "3.46"
+    },
+    {
+        "transaction_date": "24/12/2021",
+        "transaction_time": "05:35",
+        "transaction_settlement": "27/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.50",
+        "total_balance": "2.96"
+    },
+    {
+        "transaction_date": "31/12/2021",
+        "transaction_time": "05:39",
+        "transaction_settlement": "31/12/2021",
+        "transaction_description": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "-0.72",
+        "total_balance": "2.24"
+    },
+    {
+        "transaction_date": "31/12/2021",
+        "transaction_time": "05:39",
+        "transaction_settlement": "31/12/2021",
+        "transaction_description": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "2.41",
+        "total_balance": "4.65"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.21",
+        "total_balance": "4.44"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.11",
+        "total_balance": "4.33"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "0.55",
+        "total_balance": "4.88"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.36",
+        "total_balance": "5.24"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "-0.17",
+        "total_balance": "5.07"
+    },
+    {
+        "transaction_date": "01/01/2022",
+        "transaction_time": "04:57",
+        "transaction_settlement": "03/01/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.71",
+        "total_balance": "5.78"
+    },
+    {
+        "transaction_date": "03/01/2022",
+        "transaction_time": "12:04",
+        "transaction_settlement": "05/01/2022",
+        "transaction_description": "Venda de 0.0149 FB a $ 340.51",
+        "transaction_amount": "5.07",
+        "total_balance": "10.85"
+    },
+    {
+        "transaction_date": "03/01/2022",
+        "transaction_time": "12:15",
+        "transaction_settlement": "05/01/2022",
+        "transaction_description": "Compra de 0.03713 ABBV a $ 134.64",
+        "transaction_amount": "-5.00",
+        "total_balance": "5.85"
+    },
+    {
+        "transaction_date": "03/01/2022",
+        "transaction_time": "12:16",
+        "transaction_settlement": "05/01/2022",
+        "transaction_description": "Compra de 0.112 VZ a $ 52.23",
+        "transaction_amount": "-5.85",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "08/01/2022",
+        "transaction_time": "04:02",
+        "transaction_settlement": "10/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.18",
+        "total_balance": "-0.18"
+    },
+    {
+        "transaction_date": "08/01/2022",
+        "transaction_time": "04:02",
+        "transaction_settlement": "10/01/2022",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "0.60",
+        "total_balance": "0.42"
+    },
+    {
+        "transaction_date": "15/01/2022",
+        "transaction_time": "04:35",
+        "transaction_settlement": "18/01/2022",
+        "transaction_description": "Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "0.52",
+        "total_balance": "0.94"
+    },
+    {
+        "transaction_date": "15/01/2022",
+        "transaction_time": "04:35",
+        "transaction_settlement": "18/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "-0.16",
+        "total_balance": "0.78"
+    },
+    {
+        "transaction_date": "15/01/2022",
+        "transaction_time": "04:35",
+        "transaction_settlement": "18/01/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.63",
+        "total_balance": "0.15"
+    },
+    {
+        "transaction_date": "15/01/2022",
+        "transaction_time": "04:35",
+        "transaction_settlement": "18/01/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "2.10",
+        "total_balance": "2.25"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:39",
+        "transaction_settlement": "24/01/2022",
+        "transaction_description": "Câmbio Instantâneo : R$143.64",
+        "transaction_amount": "25.36",
+        "total_balance": "27.61"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:42",
+        "transaction_settlement": "26/01/2022",
+        "transaction_description": "Compra de 0.00219 AMZN a $ 2732.35",
+        "transaction_amount": "-5.98",
+        "total_balance": "21.63"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:45",
+        "transaction_settlement": "26/01/2022",
+        "transaction_description": "Compra de 0.01707 FB a $ 292.88",
+        "transaction_amount": "-5.00",
+        "total_balance": "16.63"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:47",
+        "transaction_settlement": "26/01/2022",
+        "transaction_description": "Compra de 0.41736 PBFX a $ 11.98",
+        "transaction_amount": "-5.00",
+        "total_balance": "11.63"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:48",
+        "transaction_settlement": "26/01/2022",
+        "transaction_description": "Compra de 0.56818 ET a $ 8.8",
+        "transaction_amount": "-5.00",
+        "total_balance": "6.63"
+    },
+    {
+        "transaction_date": "24/01/2022",
+        "transaction_time": "14:50",
+        "transaction_settlement": "26/01/2022",
+        "transaction_description": "Compra de 0.0314 CRM a $ 211.11",
+        "transaction_amount": "-6.63",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "01/02/2022",
+        "transaction_time": "04:13",
+        "transaction_settlement": "01/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "-0.17",
+        "total_balance": "-0.17"
+    },
+    {
+        "transaction_date": "01/02/2022",
+        "transaction_time": "04:13",
+        "transaction_settlement": "01/02/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.71",
+        "total_balance": "0.54"
+    },
+    {
+        "transaction_date": "01/02/2022",
+        "transaction_time": "04:13",
+        "transaction_settlement": "01/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.21",
+        "total_balance": "0.33"
+    },
+    {
+        "transaction_date": "01/02/2022",
+        "transaction_time": "04:13",
+        "transaction_settlement": "01/02/2022",
+        "transaction_description": "Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "0.55",
+        "total_balance": "0.88"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "04:42",
+        "transaction_settlement": "02/02/2022",
+        "transaction_description": "Dividendos T. AT&T INC",
+        "transaction_amount": "2.51",
+        "total_balance": "3.39"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "04:42",
+        "transaction_settlement": "02/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "-0.12",
+        "total_balance": "3.27"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "04:42",
+        "transaction_settlement": "02/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos T. AT&T INC",
+        "transaction_amount": "-0.75",
+        "total_balance": "2.52"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "04:43",
+        "transaction_settlement": "02/02/2022",
+        "transaction_description": "Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "0.40",
+        "total_balance": "2.92"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "11:48",
+        "transaction_settlement": "04/02/2022",
+        "transaction_description": "Venda de 0.00235 GOOGL a $ 2970.86",
+        "transaction_amount": "6.98",
+        "total_balance": "9.90"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "11:48",
+        "transaction_settlement": "04/02/2022",
+        "transaction_description": "Venda de 0.02168 FB a $ 322.18",
+        "transaction_amount": "6.98",
+        "total_balance": "16.88"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "11:51",
+        "transaction_settlement": "04/02/2022",
+        "transaction_description": "Compra de 0.13811 KO a $ 61.11",
+        "transaction_amount": "-8.44",
+        "total_balance": "8.44"
+    },
+    {
+        "transaction_date": "02/02/2022",
+        "transaction_time": "11:52",
+        "transaction_settlement": "04/02/2022",
+        "transaction_description": "Compra de 0.05235 PG a $ 161.21",
+        "transaction_amount": "-8.44",
+        "total_balance": "NaN"
+    },
+    {
+        "transaction_date": "03/02/2022",
+        "transaction_time": "11:56",
+        "transaction_settlement": "03/02/2022",
+        "transaction_description": "Câmbio Instantâneo : R$149.44",
+        "transaction_amount": "27.43",
+        "total_balance": "27.43"
+    },
+    {
+        "transaction_date": "03/02/2022",
+        "transaction_time": "11:57",
+        "transaction_settlement": "07/02/2022",
+        "transaction_description": "Compra de 0.07162 FB a $ 243.5",
+        "transaction_amount": "-17.44",
+        "total_balance": "9.99"
+    },
+    {
+        "transaction_date": "03/02/2022",
+        "transaction_time": "12:12",
+        "transaction_settlement": "07/02/2022",
+        "transaction_description": "Compra de 0.00353 AMZN a $ 2800.91",
+        "transaction_amount": "-9.89",
+        "total_balance": "0.10"
+    },
+    {
+        "transaction_date": "12/02/2022",
+        "transaction_time": "06:16",
+        "transaction_settlement": "14/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "-0.82",
+        "total_balance": "-0.72"
+    },
+    {
+        "transaction_date": "12/02/2022",
+        "transaction_time": "06:16",
+        "transaction_settlement": "14/02/2022",
+        "transaction_description": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "2.21",
+        "total_balance": "1.49"
+    },
+    {
+        "transaction_date": "15/02/2022",
+        "transaction_time": "03:46",
+        "transaction_settlement": "15/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+        "transaction_amount": "-0.51",
+        "total_balance": "0.98"
+    },
+    {
+        "transaction_date": "15/02/2022",
+        "transaction_time": "03:46",
+        "transaction_settlement": "15/02/2022",
+        "transaction_description": "Dividendos MPLX. MPLX LP",
+        "transaction_amount": "1.39",
+        "total_balance": "2.37"
+    },
+    {
+        "transaction_date": "16/02/2022",
+        "transaction_time": "04:14",
+        "transaction_settlement": "16/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "-0.74",
+        "total_balance": "1.63"
+    },
+    {
+        "transaction_date": "16/02/2022",
+        "transaction_time": "04:14",
+        "transaction_settlement": "16/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "-0.32",
+        "total_balance": "1.31"
+    },
+    {
+        "transaction_date": "16/02/2022",
+        "transaction_time": "04:14",
+        "transaction_settlement": "16/02/2022",
+        "transaction_description": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "2.46",
+        "total_balance": "3.77"
+    },
+    {
+        "transaction_date": "16/02/2022",
+        "transaction_time": "04:14",
+        "transaction_settlement": "16/02/2022",
+        "transaction_description": "Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "1.08",
+        "total_balance": "4.85"
+    },
+    {
+        "transaction_date": "19/02/2022",
+        "transaction_time": "05:36",
+        "transaction_settlement": "22/02/2022",
+        "transaction_description": "Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "1.31",
+        "total_balance": "6.16"
+    },
+    {
+        "transaction_date": "19/02/2022",
+        "transaction_time": "05:36",
+        "transaction_settlement": "22/02/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "-0.48",
+        "total_balance": "5.68"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/10/21",
+        "transaction_amount": "0.01",
+        "total_balance": "5.69"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - OHI - 13/08/21",
+        "transaction_amount": "0.06",
+        "total_balance": "5.75"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/07/21",
+        "transaction_amount": "0.01",
+        "total_balance": "5.76"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - HTGC - 17/11/21",
+        "transaction_amount": "0.36",
+        "total_balance": "6.12"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - OHI - 15/11/21",
+        "transaction_amount": "0.16",
+        "total_balance": "6.28"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/10/21",
+        "transaction_amount": "0.02",
+        "total_balance": "6.30"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - GLPI - 23/12/21",
+        "transaction_amount": "0.01",
+        "total_balance": "6.31"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - O - 13/08/21",
+        "transaction_amount": "0.03",
+        "total_balance": "6.34"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - WPC - 15/07/21",
+        "transaction_amount": "0.02",
+        "total_balance": "6.36"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - GLPI - 7/01/22",
+        "transaction_amount": "0.10",
+        "total_balance": "6.46"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - GLPI - 24/09/21",
+        "transaction_amount": "0.01",
+        "total_balance": "6.47"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - OHI - 15/11/21",
+        "transaction_amount": "0.03",
+        "total_balance": "6.50"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - OHI - 13/08/21",
+        "transaction_amount": "0.01",
+        "total_balance": "6.51"
+    },
+    {
+        "transaction_date": "23/02/2022",
+        "transaction_time": "19:42",
+        "transaction_settlement": "23/02/2022",
+        "transaction_description": "AJUSTE Estorno Retencao Impostos Div - GLPI - 7/01/22",
+        "transaction_amount": "0.05",
+        "total_balance": "6.56"
+    },
+    {
+        "transaction_date": "24/02/2022",
+        "transaction_time": "09:05",
+        "transaction_settlement": "24/02/2022",
+        "transaction_description": "Câmbio Instantâneo : R$90.61",
+        "transaction_amount": "17.49",
+        "total_balance": "24.05"
+    },
+    {
+        "transaction_date": "24/02/2022",
+        "transaction_time": "11:47",
+        "transaction_settlement": "28/02/2022",
+        "transaction_description": "Compra de 0.43725 T a $ 22.87",
+        "transaction_amount": "-10.00",
+        "total_balance": "14.05"
+    },
+    {
+        "transaction_date": "24/02/2022",
+        "transaction_time": "11:51",
+        "transaction_settlement": "28/02/2022",
+        "transaction_description": "Compra de 0.03589 FB a $ 195.59",
+        "transaction_amount": "-7.02",
+        "total_balance": "7.03"
+    },
+    {
+        "transaction_date": "24/02/2022",
+        "transaction_time": "11:52",
+        "transaction_settlement": "28/02/2022",
+        "transaction_description": "Compra de 0.34362 GOOD a $ 20.46",
+        "transaction_amount": "-7.03",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "01/03/2022",
+        "transaction_time": "06:25",
+        "transaction_settlement": "01/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.21",
+        "total_balance": "-0.21"
+    },
+    {
+        "transaction_date": "01/03/2022",
+        "transaction_time": "06:25",
+        "transaction_settlement": "01/03/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.71",
+        "total_balance": "0.50"
+    },
+    {
+        "transaction_date": "05/03/2022",
+        "transaction_time": "05:12",
+        "transaction_settlement": "07/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+        "transaction_amount": "-0.14",
+        "total_balance": "0.36"
+    },
+    {
+        "transaction_date": "05/03/2022",
+        "transaction_time": "05:12",
+        "transaction_settlement": "07/03/2022",
+        "transaction_description": "Dividendos PFE. PFIZER INC",
+        "transaction_amount": "0.48",
+        "total_balance": "0.84"
+    },
+    {
+        "transaction_date": "11/03/2022",
+        "transaction_time": "04:04",
+        "transaction_settlement": "11/03/2022",
+        "transaction_description": "Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "2.32",
+        "total_balance": "3.16"
+    },
+    {
+        "transaction_date": "11/03/2022",
+        "transaction_time": "04:04",
+        "transaction_settlement": "11/03/2022",
+        "transaction_description": "Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "0.16",
+        "total_balance": "3.32"
+    },
+    {
+        "transaction_date": "11/03/2022",
+        "transaction_time": "04:04",
+        "transaction_settlement": "11/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "-0.86",
+        "total_balance": "2.46"
+    },
+    {
+        "transaction_date": "11/03/2022",
+        "transaction_time": "04:04",
+        "transaction_settlement": "11/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "-0.05",
+        "total_balance": "2.41"
+    },
+    {
+        "transaction_date": "15/03/2022",
+        "transaction_time": "12:47",
+        "transaction_settlement": "17/03/2022",
+        "transaction_description": "Venda de 0.01681 AVGO a $ 595.59",
+        "transaction_amount": "10.01",
+        "total_balance": "12.42"
+    },
+    {
+        "transaction_date": "15/03/2022",
+        "transaction_time": "12:48",
+        "transaction_settlement": "17/03/2022",
+        "transaction_description": "Compra de 0.04141 PG a $ 149.94",
+        "transaction_amount": "-6.21",
+        "total_balance": "6.21"
+    },
+    {
+        "transaction_date": "15/03/2022",
+        "transaction_time": "12:49",
+        "transaction_settlement": "17/03/2022",
+        "transaction_description": "Compra de 0.10397 KO a $ 59.73",
+        "transaction_amount": "-6.21",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "17/03/2022",
+        "transaction_time": "03:47",
+        "transaction_settlement": "17/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "-0.44",
+        "total_balance": "-0.44"
+    },
+    {
+        "transaction_date": "17/03/2022",
+        "transaction_time": "03:47",
+        "transaction_settlement": "17/03/2022",
+        "transaction_description": "Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "1.46",
+        "total_balance": "1.02"
+    },
+    {
+        "transaction_date": "17/03/2022",
+        "transaction_time": "16:25",
+        "transaction_settlement": "21/03/2022",
+        "transaction_description": "Venda de 0.03162 ABBV a $ 157.97",
+        "transaction_amount": "5.00",
+        "total_balance": "6.02"
+    },
+    {
+        "transaction_date": "17/03/2022",
+        "transaction_time": "16:30",
+        "transaction_settlement": "21/03/2022",
+        "transaction_description": "Venda de 0.0928 PFE a $ 53.87",
+        "transaction_amount": "5.00",
+        "total_balance": "11.02"
+    },
+    {
+        "transaction_date": "17/03/2022",
+        "transaction_time": "16:31",
+        "transaction_settlement": "21/03/2022",
+        "transaction_description": "Compra de 0.05334 FB a $ 206.39",
+        "transaction_amount": "-11.01",
+        "total_balance": "0.01"
+    },
+    {
+        "transaction_date": "19/03/2022",
+        "transaction_time": "05:02",
+        "transaction_settlement": "21/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "-0.72",
+        "total_balance": "-0.71"
+    },
+    {
+        "transaction_date": "19/03/2022",
+        "transaction_time": "05:02",
+        "transaction_settlement": "21/03/2022",
+        "transaction_description": "Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "2.40",
+        "total_balance": "1.69"
+    },
+    {
+        "transaction_date": "22/03/2022",
+        "transaction_time": "12:17",
+        "transaction_settlement": "24/03/2022",
+        "transaction_description": "Venda de 0.00248 AMZN a $ 3314.99",
+        "transaction_amount": "8.22",
+        "total_balance": "9.91"
+    },
+    {
+        "transaction_date": "22/03/2022",
+        "transaction_time": "12:19",
+        "transaction_settlement": "24/03/2022",
+        "transaction_description": "Venda de 0.00185 GOOGL a $ 2810.7",
+        "transaction_amount": "5.20",
+        "total_balance": "15.11"
+    },
+    {
+        "transaction_date": "22/03/2022",
+        "transaction_time": "12:21",
+        "transaction_settlement": "24/03/2022",
+        "transaction_description": "Venda de 0.02875 MSFT a $ 304.75",
+        "transaction_amount": "8.76",
+        "total_balance": "23.87"
+    },
+    {
+        "transaction_date": "22/03/2022",
+        "transaction_time": "12:35",
+        "transaction_settlement": "24/03/2022",
+        "transaction_description": "Compra de 0.15798 PG a $ 151.09",
+        "transaction_amount": "-23.87",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "26/03/2022",
+        "transaction_time": "03:06",
+        "transaction_settlement": "28/03/2022",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "1.72",
+        "total_balance": "1.72"
+    },
+    {
+        "transaction_date": "26/03/2022",
+        "transaction_time": "03:06",
+        "transaction_settlement": "28/03/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.52",
+        "total_balance": "1.20"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:04",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "2.65",
+        "total_balance": "3.85"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.23",
+        "total_balance": "3.62"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "-0.14",
+        "total_balance": "3.48"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.56",
+        "total_balance": "4.04"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.75",
+        "total_balance": "4.79"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "0.48",
+        "total_balance": "5.27"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.17",
+        "total_balance": "5.10"
+    },
+    {
+        "transaction_date": "01/04/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "01/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "-0.80",
+        "total_balance": "4.30"
+    },
+    {
+        "transaction_date": "02/04/2022",
+        "transaction_time": "03:50",
+        "transaction_settlement": "04/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos KO. COCA COLA COMPANY",
+        "transaction_amount": "-0.02",
+        "total_balance": "4.28"
+    },
+    {
+        "transaction_date": "02/04/2022",
+        "transaction_time": "03:50",
+        "transaction_settlement": "04/04/2022",
+        "transaction_description": "Dividendos KO. COCA COLA COMPANY",
+        "transaction_amount": "0.06",
+        "total_balance": "4.34"
+    },
+    {
+        "transaction_date": "04/04/2022",
+        "transaction_time": "13:35",
+        "transaction_settlement": "06/04/2022",
+        "transaction_description": "Venda de 0.00299 AMZN a $ 3345.74",
+        "transaction_amount": "10.00",
+        "total_balance": "14.34"
+    },
+    {
+        "transaction_date": "04/04/2022",
+        "transaction_time": "13:40",
+        "transaction_settlement": "06/04/2022",
+        "transaction_description": "Compra de 0.0946 WMT a $ 151.58",
+        "transaction_amount": "-14.34",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:31",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Venda de 1.27511 WBD a $ 26.01",
+        "transaction_amount": "33.17",
+        "total_balance": "33.17"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:32",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Compra de 1.70715 T a $ 19.43",
+        "transaction_amount": "-33.17",
+        "total_balance": "NaN"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:37",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Venda de 0.18832 EPD a $ 26.61",
+        "transaction_amount": "5.01",
+        "total_balance": "5.01"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:39",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Venda de 0.43782 ET a $ 11.42",
+        "transaction_amount": "5.00",
+        "total_balance": "10.01"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:40",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Compra de 0.03188 WMT a $ 156.81",
+        "transaction_amount": "-5.00",
+        "total_balance": "5.01"
+    },
+    {
+        "transaction_date": "14/04/2022",
+        "transaction_time": "11:41",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Compra de 0.0768 KO a $ 65.23",
+        "transaction_amount": "-5.01",
+        "total_balance": "NaN"
+    },
+    {
+        "transaction_date": "15/04/2022",
+        "transaction_time": "04:38",
+        "transaction_settlement": "18/04/2022",
+        "transaction_description": "Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "0.52",
+        "total_balance": "0.52"
+    },
+    {
+        "transaction_date": "15/04/2022",
+        "transaction_time": "04:38",
+        "transaction_settlement": "18/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos WPC. W P CAREY INC",
+        "transaction_amount": "-0.16",
+        "total_balance": "0.36"
+    },
+    {
+        "transaction_date": "19/04/2022",
+        "transaction_time": "02:54",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "2.10",
+        "total_balance": "2.46"
+    },
+    {
+        "transaction_date": "19/04/2022",
+        "transaction_time": "02:54",
+        "transaction_settlement": "19/04/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.63",
+        "total_balance": "1.83"
+    },
+    {
+        "transaction_date": "30/04/2022",
+        "transaction_time": "04:23",
+        "transaction_settlement": "02/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.23",
+        "total_balance": "1.60"
+    },
+    {
+        "transaction_date": "30/04/2022",
+        "transaction_time": "04:23",
+        "transaction_settlement": "02/05/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.75",
+        "total_balance": "2.35"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:02",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "-0.12",
+        "total_balance": "2.23"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:03",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "0.55",
+        "total_balance": "2.78"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:03",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "-0.17",
+        "total_balance": "2.61"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:03",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos T. AT&T INC",
+        "transaction_amount": "-0.44",
+        "total_balance": "2.17"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:03",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "0.40",
+        "total_balance": "2.57"
+    },
+    {
+        "transaction_date": "03/05/2022",
+        "transaction_time": "03:03",
+        "transaction_settlement": "03/05/2022",
+        "transaction_description": "Dividendos T. AT&T INC",
+        "transaction_amount": "1.46",
+        "total_balance": "4.03"
+    },
+    {
+        "transaction_date": "13/05/2022",
+        "transaction_time": "03:17",
+        "transaction_settlement": "13/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "-0.78",
+        "total_balance": "3.25"
+    },
+    {
+        "transaction_date": "13/05/2022",
+        "transaction_time": "03:17",
+        "transaction_settlement": "13/05/2022",
+        "transaction_description": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "2.12",
+        "total_balance": "5.37"
+    },
+    {
+        "transaction_date": "13/05/2022",
+        "transaction_time": "13:53",
+        "transaction_settlement": "17/05/2022",
+        "transaction_description": "Compra de 0.03647 WMT a $ 147.23",
+        "transaction_amount": "-5.37",
+        "total_balance": "NaN"
+    },
+    {
+        "transaction_date": "14/05/2022",
+        "transaction_time": "04:51",
+        "transaction_settlement": "16/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "-0.74",
+        "total_balance": "-0.74"
+    },
+    {
+        "transaction_date": "14/05/2022",
+        "transaction_time": "04:51",
+        "transaction_settlement": "16/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+        "transaction_amount": "-0.51",
+        "total_balance": "-1.25"
+    },
+    {
+        "transaction_date": "14/05/2022",
+        "transaction_time": "04:51",
+        "transaction_settlement": "16/05/2022",
+        "transaction_description": "Dividendos OHI. OMEGA HEALTHCARE INVESTORS INC",
+        "transaction_amount": "2.46",
+        "total_balance": "1.21"
+    },
+    {
+        "transaction_date": "14/05/2022",
+        "transaction_time": "04:51",
+        "transaction_settlement": "16/05/2022",
+        "transaction_description": "Dividendos MPLX. MPLX LP",
+        "transaction_amount": "1.39",
+        "total_balance": "2.60"
+    },
+    {
+        "transaction_date": "17/05/2022",
+        "transaction_time": "05:21",
+        "transaction_settlement": "17/05/2022",
+        "transaction_description": "Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "1.03",
+        "total_balance": "3.63"
+    },
+    {
+        "transaction_date": "17/05/2022",
+        "transaction_time": "05:21",
+        "transaction_settlement": "17/05/2022",
+        "transaction_description": "Dividendos PG. PROCTER & GAMBLE CO",
+        "transaction_amount": "0.23",
+        "total_balance": "3.86"
+    },
+    {
+        "transaction_date": "17/05/2022",
+        "transaction_time": "05:21",
+        "transaction_settlement": "17/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABBV. ABBVIE INC",
+        "transaction_amount": "-0.31",
+        "total_balance": "3.55"
+    },
+    {
+        "transaction_date": "17/05/2022",
+        "transaction_time": "05:21",
+        "transaction_settlement": "17/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos PG. PROCTER & GAMBLE CO",
+        "transaction_amount": "-0.07",
+        "total_balance": "3.48"
+    },
+    {
+        "transaction_date": "20/05/2022",
+        "transaction_time": "03:28",
+        "transaction_settlement": "20/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "-0.52",
+        "total_balance": "2.96"
+    },
+    {
+        "transaction_date": "20/05/2022",
+        "transaction_time": "03:28",
+        "transaction_settlement": "20/05/2022",
+        "transaction_description": "Dividendos ET. ENERGY TRANSFER LP",
+        "transaction_amount": "1.41",
+        "total_balance": "4.37"
+    },
+    {
+        "transaction_date": "25/05/2022",
+        "transaction_time": "03:54",
+        "transaction_settlement": "25/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "-0.44",
+        "total_balance": "3.93"
+    },
+    {
+        "transaction_date": "25/05/2022",
+        "transaction_time": "03:54",
+        "transaction_settlement": "25/05/2022",
+        "transaction_description": "Dividendos HTGC. HERCULES CAPITAL INC",
+        "transaction_amount": "1.46",
+        "total_balance": "5.39"
+    },
+    {
+        "transaction_date": "27/05/2022",
+        "transaction_time": "03:08",
+        "transaction_settlement": "27/05/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "-0.86",
+        "total_balance": "4.53"
+    },
+    {
+        "transaction_date": "27/05/2022",
+        "transaction_time": "03:08",
+        "transaction_settlement": "27/05/2022",
+        "transaction_description": "Dividendos PBFX. PBF LOGISTICS LP",
+        "transaction_amount": "2.32",
+        "total_balance": "6.85"
+    },
+    {
+        "transaction_date": "27/05/2022",
+        "transaction_time": "10:55",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Compra de 0.05389 WMT a $ 127.11",
+        "transaction_amount": "-6.85",
+        "total_balance": "NaN"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.75",
+        "total_balance": "0.75"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos WMT. WALMART INC",
+        "transaction_amount": "-0.02",
+        "total_balance": "0.73"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "-0.74",
+        "total_balance": "-0.01"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.23",
+        "total_balance": "-0.24"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Dividendos ABR. ARBOR REALTY TRUST INC",
+        "transaction_amount": "2.47",
+        "total_balance": "2.23"
+    },
+    {
+        "transaction_date": "01/06/2022",
+        "transaction_time": "03:22",
+        "transaction_settlement": "01/06/2022",
+        "transaction_description": "Dividendos WMT. WALMART INC",
+        "transaction_amount": "0.07",
+        "total_balance": "2.30"
+    },
+    {
+        "transaction_date": "07/06/2022",
+        "transaction_time": "13:45",
+        "transaction_settlement": "09/06/2022",
+        "transaction_description": "Venda de 0.288 PBFX a $ 17.41",
+        "transaction_amount": "5.01",
+        "total_balance": "7.31"
+    },
+    {
+        "transaction_date": "07/06/2022",
+        "transaction_time": "13:45",
+        "transaction_settlement": "09/06/2022",
+        "transaction_description": "Venda de 0.18 EPD a $ 28.27",
+        "transaction_amount": "5.09",
+        "total_balance": "12.40"
+    },
+    {
+        "transaction_date": "07/06/2022",
+        "transaction_time": "13:46",
+        "transaction_settlement": "09/06/2022",
+        "transaction_description": "Compra de 0.07959 KO a $ 62.82",
+        "transaction_amount": "-5.00",
+        "total_balance": "7.40"
+    },
+    {
+        "transaction_date": "07/06/2022",
+        "transaction_time": "13:48",
+        "transaction_settlement": "09/06/2022",
+        "transaction_description": "Compra de 0.52744 HTGC a $ 14.03",
+        "transaction_amount": "-7.40",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "10/06/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "10/06/2022",
+        "transaction_description": "Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "0.14",
+        "total_balance": "0.14"
+    },
+    {
+        "transaction_date": "10/06/2022",
+        "transaction_time": "03:05",
+        "transaction_settlement": "10/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos MSFT. MICROSOFT CORP",
+        "transaction_amount": "-0.04",
+        "total_balance": "0.10"
+    },
+    {
+        "transaction_date": "11/06/2022",
+        "transaction_time": "03:25",
+        "transaction_settlement": "13/06/2022",
+        "transaction_description": "Dividendos PFE. PFIZER INC",
+        "transaction_amount": "0.45",
+        "total_balance": "0.55"
+    },
+    {
+        "transaction_date": "11/06/2022",
+        "transaction_time": "03:25",
+        "transaction_settlement": "13/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos PFE. PFIZER INC",
+        "transaction_amount": "-0.14",
+        "total_balance": "0.41"
+    },
+    {
+        "transaction_date": "13/06/2022",
+        "transaction_time": "12:21",
+        "transaction_settlement": "13/06/2022",
+        "transaction_description": "Câmbio Instantâneo : R$49.81",
+        "transaction_amount": "9.50",
+        "total_balance": "9.91"
+    },
+    {
+        "transaction_date": "13/06/2022",
+        "transaction_time": "12:23",
+        "transaction_settlement": "15/06/2022",
+        "transaction_description": "Compra de 0.08254 WMT a $ 120.06",
+        "transaction_amount": "-9.91",
+        "total_balance": "-0.00"
+    },
+    {
+        "transaction_date": "25/06/2022",
+        "transaction_time": "03:39",
+        "transaction_settlement": "27/06/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "-0.53",
+        "total_balance": "-0.53"
+    },
+    {
+        "transaction_date": "25/06/2022",
+        "transaction_time": "03:39",
+        "transaction_settlement": "27/06/2022",
+        "transaction_description": "Dividendos GLPI. GAMING & LEISURE PROPERTIES",
+        "transaction_amount": "1.75",
+        "total_balance": "1.22"
+    },
+    {
+        "transaction_date": "28/06/2022",
+        "transaction_time": "16:17",
+        "transaction_settlement": "29/06/2022",
+        "transaction_description": "Câmbio Padrão : R$109.58",
+        "transaction_amount": "20.39",
+        "total_balance": "21.61"
+    },
+    {
+        "transaction_date": "28/06/2022",
+        "transaction_time": "16:19",
+        "transaction_settlement": "30/06/2022",
+        "transaction_description": "Venda de 0.4891 WPC a $ 86.31",
+        "transaction_amount": "42.21",
+        "total_balance": "63.82"
+    },
+    {
+        "transaction_date": "28/06/2022",
+        "transaction_time": "16:26",
+        "transaction_settlement": "30/06/2022",
+        "transaction_description": "Compra de 1.11607 ABR a $ 13.44",
+        "transaction_amount": "-15.00",
+        "total_balance": "48.82"
+    },
+    {
+        "transaction_date": "28/06/2022",
+        "transaction_time": "16:27",
+        "transaction_settlement": "30/06/2022",
+        "transaction_description": "Compra de 0.80775 TSLX a $ 18.57",
+        "transaction_amount": "-15.00",
+        "total_balance": "33.82"
+    },
+    {
+        "transaction_date": "28/06/2022",
+        "transaction_time": "16:29",
+        "transaction_settlement": "30/06/2022",
+        "transaction_description": "Compra de 0.71209 GOOD a $ 18.86",
+        "transaction_amount": "-13.43",
+        "total_balance": "20.39"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:24",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "-0.80",
+        "total_balance": "19.59"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:24",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "0.48",
+        "total_balance": "20.07"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:24",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.75",
+        "total_balance": "20.82"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:24",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos AVGO. BROADCOM INC",
+        "transaction_amount": "-0.14",
+        "total_balance": "20.68"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:24",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Dividendos ARCC. ARES CAPITAL CORPORATION",
+        "transaction_amount": "2.65",
+        "total_balance": "23.33"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:27",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.23",
+        "total_balance": "23.10"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:27",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "0.20",
+        "total_balance": "23.30"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "03:27",
+        "transaction_settlement": "01/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.06",
+        "total_balance": "23.24"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "10:46",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Venda de 0.65 PBFX a $ 15.33",
+        "transaction_amount": "9.96",
+        "total_balance": "33.20"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "10:47",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Venda de 0.25 EPD a $ 24.43",
+        "transaction_amount": "6.11",
+        "total_balance": "39.31"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "10:53",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Venda de 0.357 PBFX a $ 15.42",
+        "transaction_amount": "5.50",
+        "total_balance": "44.81"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "11:13",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Compra de 0.85809 HTGC a $ 13.5",
+        "transaction_amount": "-11.58",
+        "total_balance": "33.23"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "11:20",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Compra de 0.30872 APAM a $ 35.63",
+        "transaction_amount": "-11.00",
+        "total_balance": "22.23"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "11:21",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Compra de 0.5911 STWD a $ 20.69",
+        "transaction_amount": "-12.23",
+        "total_balance": "10.00"
+    },
+    {
+        "transaction_date": "01/07/2022",
+        "transaction_time": "11:22",
+        "transaction_settlement": "06/07/2022",
+        "transaction_description": "Compra de 0.99207 GLAD a $ 10.08",
+        "transaction_amount": "-10.00",
+        "total_balance": "0.00"
+    },
+    {
+        "transaction_date": "02/07/2022",
+        "transaction_time": "03:30",
+        "transaction_settlement": "05/07/2022",
+        "transaction_description": "Dividendos KO. COCA COLA COMPANY",
+        "transaction_amount": "0.18",
+        "total_balance": "0.18"
+    },
+    {
+        "transaction_date": "02/07/2022",
+        "transaction_time": "03:30",
+        "transaction_settlement": "05/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos KO. COCA COLA COMPANY",
+        "transaction_amount": "-0.05",
+        "total_balance": "0.13"
+    },
+    {
+        "transaction_date": "16/07/2022",
+        "transaction_time": "04:44",
+        "transaction_settlement": "18/07/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "-0.63",
+        "total_balance": "-0.50"
+    },
+    {
+        "transaction_date": "16/07/2022",
+        "transaction_time": "04:44",
+        "transaction_settlement": "18/07/2022",
+        "transaction_description": "Dividendos TSLX. SIXTH STREET SPECIALTY LENDING",
+        "transaction_amount": "2.10",
+        "total_balance": "1.60"
+    },
+    {
+        "transaction_date": "30/07/2022",
+        "transaction_time": "03:21",
+        "transaction_settlement": "01/08/2022",
+        "transaction_description": "Dividendos GLAD. GLADSTONE CAPITAL CORP",
+        "transaction_amount": "0.07",
+        "total_balance": "1.67"
+    },
+    {
+        "transaction_date": "30/07/2022",
+        "transaction_time": "03:21",
+        "transaction_settlement": "01/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GLAD. GLADSTONE CAPITAL CORP",
+        "transaction_amount": "-0.02",
+        "total_balance": "1.65"
+    },
+    {
+        "transaction_date": "30/07/2022",
+        "transaction_time": "03:21",
+        "transaction_settlement": "01/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "-0.25",
+        "total_balance": "1.40"
+    },
+    {
+        "transaction_date": "30/07/2022",
+        "transaction_time": "03:21",
+        "transaction_settlement": "01/08/2022",
+        "transaction_description": "Dividendos GOOD. GLADSTONE COMMERCIAL CORP",
+        "transaction_amount": "0.84",
+        "total_balance": "2.24"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:20",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos T. AT&T INC",
+        "transaction_amount": "-0.58",
+        "total_balance": "1.66"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:20",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Dividendos T. AT&T INC",
+        "transaction_amount": "1.94",
+        "total_balance": "3.60"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:23",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "-0.12",
+        "total_balance": "3.48"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:23",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "-0.17",
+        "total_balance": "3.31"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:23",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Dividendos VZ. VERIZON COMMUNICATIONS",
+        "transaction_amount": "0.40",
+        "total_balance": "3.71"
+    },
+    {
+        "transaction_date": "02/08/2022",
+        "transaction_time": "03:23",
+        "transaction_settlement": "02/08/2022",
+        "transaction_description": "Dividendos JPM. JPMORGAN CHASE & CO",
+        "transaction_amount": "0.55",
+        "total_balance": "4.26"
+    },
+    {
+        "transaction_date": "13/08/2022",
+        "transaction_time": "03:12",
+        "transaction_settlement": "15/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "-0.73",
+        "total_balance": "3.53"
+    },
+    {
+        "transaction_date": "13/08/2022",
+        "transaction_time": "03:12",
+        "transaction_settlement": "15/08/2022",
+        "transaction_description": "Retenção Impostos sobre Dividendos MPLX. MPLX LP",
+        "transaction_amount": "-0.51",
+        "total_balance": "3.02"
+    },
+    {
+        "transaction_date": "13/08/2022",
+        "transaction_time": "03:12",
+        "transaction_settlement": "15/08/2022",
+        "transaction_description": "Dividendos MPLX. MPLX LP",
+        "transaction_amount": "1.39",
+        "total_balance": "4.41"
+    },
+    {
+        "transaction_date": "13/08/2022",
+        "transaction_time": "03:12",
+        "transaction_settlement": "15/08/2022",
+        "transaction_description": "Dividendos EPD. ENTERPRISE PRODUCTS PARTNERS",
+        "transaction_amount": "1.96",
+        "total_balance": "6.37"
+    }
+]
