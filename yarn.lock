@@ -923,6 +923,11 @@
     "iconv-lite" "0.4.24"
     "unpipe" "1.0.0"
 
+"read-write-json@^1.0.5":
+  "integrity" "sha512-i/BH0QbpI50jeeax5PhgeDFVtDabZb+eEBE2ewf1x8aJzmzq9hKzYAReI7ln0U3e8q6D85mlqev8hOILXsjWbA=="
+  "resolved" "https://registry.npmjs.org/read-write-json/-/read-write-json-1.0.5.tgz"
+  "version" "1.0.5"
+
 "readdirp@~3.6.0":
   "integrity" "sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA=="
   "resolved" "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz"
